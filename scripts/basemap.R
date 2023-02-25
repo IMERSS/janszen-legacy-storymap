@@ -12,23 +12,22 @@ dataType(SS_DSM)="INT4S"
 
 SS_DSM <- round(SS_DSM)
 
-# Layer 2: Salish Sea Region
+# Layer 2: Boundary
 boundary <- mx_read("spatial_data/vectors/boundary")
-
-# Layer 3: Salish Sea Islands and Mainland
-islands <- mx_read("spatial_data/vectors/islands")
 
 # Create raster palette
 
 pal <- colorNumeric(c("#08306b", "#f7fbff"), values(SS_DSM),
                     na.color = "transparent")
 
+# Define map bounds based on extent of combined SHP files (all shapes represented in project)
+
+bbox <- st_bbox(boundary) %>% as.vector()
+
 # Render leaflet map
 
 Map <- leaflet() %>%
   addProviderTiles(providers$CartoDB.DarkMatterNoLabels) %>%
-  addRasterImage(SS_DSM, colors =pal, opacity = 0.8) %>%
-  addPolygons(data = boundary, color = "blue", weight = 2, fillOpacity = 0) %>%
-  addPolygons(data = islands, color = "blue", weight = 1, fillOpacity = 0)
+  fitBounds(bbox[1], bbox[2], bbox[3], bbox[4])
   
   print(Map)

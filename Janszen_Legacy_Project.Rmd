@@ -21,8 +21,50 @@ Map
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
+Among the documents that Harvey left us with are journals documenting his collection activities throughout the Salish Bioregion, from 1973 to 2020.
+
+## Flora of Saturna ca. 1973–1981
+
+Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from Saturna Island, Galiano Island, Mayne Island, Samuel Island, Georgeson Island, Salt Spring Island, North and South Pender Islands, Wise Island, Parker Island, and the Ballingall Islets.
+
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
-source("scripts/basemap.R")
+source("scripts/1973–1981.R")
+Map
+```
+
+## Journal ca. 1981–1996
+
+Journal documenting botanical surveys of Wise Island, Parker Island, Prevost Island, Saturna Island, North Pender, and Galiano Island (1981); North Pender Island, Denman Island, Hornby Island, Saturna Island, Sidney Island, Galiano Island (1982); Saturna Island, North Pender Island, San Juan Island, Waldron Island, Mayne Island (1983); Sidney Island, Orcas Island, Galiano Island, Lopez Island, Saturna Island (1984); Salt Spring Island and Saturna Island (1985); Saturna Island (1986); Saturna Island (1987–1989); Saturna Island, Denman Island, Mayne Island (1994); Cabbage Island (1995); Salt Spring Island, Isabella Islets, Saturna Island, Galiano Island, Mayne Island, North and South Pender Islands, Campbell River, Chilliwack River Provincial Park, Burns Bog, the UBC Research Forest, Squamish, Stanley Park, Burnaby Lake, Qualicum Beach, Texada, Powell River, Golden Ears Provincial Park, Somenos Lake, Wolf Creek, and Denman Island (1996). The journal includes collections numbering from 1,930 to 2,629.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+source("scripts/1981-1996.R")
+Map
+```
+
+## Journal ca. 1996-2000
+
+Journal documenting botanical surveys of: Metchosin, Saturna, and Saltspring Is. (1996); Texada (’97); Saturna, Tumbo, and Valdes Island (’98); Texada and the Ecological Reserve on Saturna Island (’99); ctd. surveys of the Ecological Reserve on Saturna Is., and an inventory of Sidney Island (2000). The journal includes collection records numbering from 2,630 to 2,920, detailed population assessments and georeferenced localities for Woodwardia and various Ophioglossaceae, as well as field notes and species lists.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+source("scripts/1996-2000.R")
+Map
+```
+
+## Field notes ca. 1999–2003
+
+Field notes documenting floristic inventories of: the Saturna Island Ecological Reserve (1999–2000); Sidney Island and Salt Spring Island (2000–2001); surveys of Crassula connata at various localities (2002); continuing floristic inventories of Salt Spring Island, Saturna Island, Galiano Island, South Pender, and Hornby Island (2002); and Sidney Island, Hornby Island, Saturna Island, Tree Island, Valdes Island, Cowichan River, Mount Tzouhalem, Galiano Island, Salt Spring Island (2003). Collections numbering from 2,921–2,961.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+source("scripts/1999-2003.R")
+Map
+```
+
+## Field notes ca. 2003–2017
+
+Field notes documenting floristic inventories of Saturna Island (2003), Galiano Island and Saturna Island (2004), Saturna Island (2005), Saturna Island (2006), Saturna Island, Tumbo Island, and Strathcona Provincial Park (2007), Saturna Island (2008), Saturna Island and Strathcona Provincial Park, and Lake Helen Mackenzie (2010), Saturna Island (2013), and Valdes Island (2017)—including records of rare vascular plant species such as Meconella oregana, Ranunculus californicus, and Sanicula bipinnatifida. Apparently only one collection number noted: 2,971.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+source("scripts/2003-2017.R")
 Map
 ```
 
@@ -38,11 +80,6 @@ Map
 ## Proposed project outcomes
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
-source("scripts/basemap.R")
-Map
-```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

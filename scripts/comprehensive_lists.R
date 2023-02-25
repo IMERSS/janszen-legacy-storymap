@@ -45,9 +45,6 @@ bbox <- st_bbox(project.area) %>% as.vector()
 
 Map <- leaflet() %>%
   addProviderTiles(providers$CartoDB.DarkMatterNoLabels) %>%
-  addRasterImage(SS_DSM, colors =pal, opacity = 0.8) %>%
-  addPolygons(data = boundary, color = "blue", weight = 2, fillOpacity = 0) %>%
-  addPolygons(data = islands, color = "blue", weight = 1, fillOpacity = 0) %>%
   addPolygons(data = OGI, fillColor = "#8d5a99", weight = 1, fillOpacity = 90) %>%
   addPolygons(data = Saanich, fillColor = "#f3a6b2", weight = 1, fillOpacity = 90) %>%
   addPolygons(data = Saltspring, fillColor = "#d5b43c", weight = 1, fillOpacity = 90) %>%
