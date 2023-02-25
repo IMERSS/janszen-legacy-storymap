@@ -21,7 +21,7 @@ Map
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-Among the documents that Harvey left us with are journals documenting his collection activities throughout the Salish Bioregion, from 1973 to 2020.
+Among the documents that Harvey left us with are journals documenting his collection activities throughout the Salish Bioregion, from 1973 to 2020. Many of these important historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively digitizing these records, including all herbarium specimens, list records, and field notes. In the following maps, we provide a summary of our progress with this work.
 
 ## Flora of Saturna ca. 1973–1981
 
@@ -61,7 +61,7 @@ Map
 
 ## Field notes ca. 2003–2017
 
-Field notes documenting floristic inventories of Saturna Island (2003), Galiano Island and Saturna Island (2004), Saturna Island (2005), Saturna Island (2006), Saturna Island, Tumbo Island, and Strathcona Provincial Park (2007), Saturna Island (2008), Saturna Island and Strathcona Provincial Park, and Lake Helen Mackenzie (2010), Saturna Island (2013), and Valdes Island (2017)—including records of rare vascular plant species such as Meconella oregana, Ranunculus californicus, and Sanicula bipinnatifida. Apparently only one collection number noted: 2,971.
+Field notes documenting floristic inventories of Saturna Island (2003), Galiano Island and Saturna Island (2004), Saturna Island (2005), Saturna Island (2006), Saturna Island, Tumbo Island, and Strathcona Provincial Park (2007), Saturna Island (2008), Saturna Island and Strathcona Provincial Park, and Lake Helen Mackenzie (2010), Saturna Island (2013), and Valdes Island (2017)—including records of rare vascular plant species such as Meconella oregana, Ranunculus californicus, and Sanicula bipinnatifida. Collections numbering from 2,962–2,971.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/2003-2017.R")
