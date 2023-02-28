@@ -27,7 +27,7 @@ bbox <- st_bbox(boundary) %>% as.vector()
 # Render leaflet map
 
 Map <- leaflet() %>%
-  addProviderTiles(providers$CartoDB.DarkMatterNoLabels) %>%
+  addTiles("https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png") %>%
   fitBounds(bbox[1], bbox[2], bbox[3], bbox[4])
   
   print(Map)
