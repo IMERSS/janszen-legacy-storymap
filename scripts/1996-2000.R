@@ -49,14 +49,32 @@ UBC.records <- UBC.records %>% dplyr::filter(str_detect(Primary.Collector, 'Harv
 
 # Select records having collection numbers in the range of 1:1929 (collections from this time period, as per field notes)
 
-RBCM.records.1973_1981 <- subset(RBCM.records, RBCM.records$CollectorsFieldNumber %in% 2630:2920)
-UBC.records.1973_1981 <- subset(UBC.records, UBC.records$Collector.Number %in% 2630:2920)
+RBCM.records.1996_2000 <- subset(RBCM.records, RBCM.records$CollectorsFieldNumber %in% 2630:2920)
+UBC.records.1996_2000 <- subset(UBC.records, UBC.records$Collector.Number %in% 2630:2920)
+
+# Note: there are duplicate specimens accessioned at both RBCM and UBC for this time period;
+# Thus, to account for the number of records that remain undigitized, subtract the total number of 
+# unique collection numbers represented in both research collections from the total number of specimens 
+# accounted for in Harvey's journal
+
+range(RBCM.records.1996_2000$CollectorsFieldNumber)
+range(UBC.records.1996_2000$Collector.Number)
+
+sort(unique(RBCM.records.1996_2000$CollectorsFieldNumber))
+sort(unique(UBC.records.1996_2000$Collector.Number))
+
+nrow(RBCM.records.1996_2000$CollectorsFieldNumber)
+nrow(UBC.records.1996_2000$Collector.Number)
+
+unique.RBCM.UBC.records <- c(RBCM.records.1996_2000$CollectorsFieldNumber, UBC.records.1996_2000$Collector.Number)
+
+unique.RBCM.UBC.records <- length(unique(unique.RBCM.UBC.records))
 
 # Sum specimens accessioned for the time period and infer number of records that remain undigitized
 
-RBCM.HJ <- nrow(RBCM.records.1973_1981) 
-UBC.HJ <- nrow(UBC.records.1973_1981)
-undigitized <- 290-(RBCM.HJ+UBC.HJ)
+RBCM.HJ <- nrow(RBCM.records.1996_2000) 
+UBC.HJ <- nrow(UBC.records.1996_2000)
+undigitized <- 290-(unique.RBCM.UBC.records)
 
 # Create Plotly Donut Chart
 
