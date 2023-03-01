@@ -166,17 +166,27 @@ maxwell.divIcon = function (label, className) {
     });
 };
 
-maxwell.addMarkers = function (lat, lon, icon, label, labelOptions, paneOptions, group) {
+// From https://gis.stackexchange.com/questions/31951/showing-popup-on-mouse-over-not-on-click-using-leaflet
+maxwell.hoverPopup = function (marker) {
+    marker.on("mouseover", function () {
+        this.openPopup();
+    });
+    marker.on("mouseout", function () {
+        this.closePopup();
+    });
+};
+
+maxwell.addMarkers = function (lat, lon, iconOrRadius, options, label, labelOptions, paneOptions, group) {
     const pane = paneOptions.pane;
     // Note that labelOnlyMarkers are spat out in https://github.com/rstudio/leaflet/blob/main/R/layers.R#L826
     // We detect this through the special case of a width set to 1 and use a div icon which is much
     // easier to configure than the HTMLwidgets strategy of a permanently open tooltip attached to the marker
-    if (!icon) {
+    if (!iconOrRadius) {
         const markerIcon = new L.Icon.Default();
         markerIcon.options.shadowSize = [0, 0];
-        const marker = L.marker([lat, lon], Object.assign({}, {icon: markerIcon}, paneOptions)).addTo(group);
+        const marker = L.marker([lat, lon], {icon: markerIcon, ...paneOptions}).addTo(group);
         const divIcon = maxwell.divIcon(label, labelOptions.className);
-        const labelMarker = L.marker([lat, lon], Object.assign({}, {icon: divIcon}, paneOptions)).addTo(group);
+        const labelMarker = L.marker([lat, lon], {icon: divIcon, ...paneOptions}).addTo(group);
         const paneInstance = maxwell.globalOptions.paneMap[pane];
         const clickHandler = function () {
             paneInstance.emitter.emit("click", label);
@@ -185,14 +195,22 @@ maxwell.addMarkers = function (lat, lon, icon, label, labelOptions, paneOptions,
             marker.on("click", clickHandler);
             labelMarker.on("click", clickHandler);
         }
+    } else if (typeof(iconOrRadius) === "number") {
+        const radius = iconOrRadius;
+        const circleMarker = L.circleMarker([lat, lon], {radius, ...options, ...paneOptions}).addTo(group);
+        if (label) {
+            circleMarker.bindPopup(label, {closeButton: false, ...labelOptions});
+            maxwell.hoverPopup(circleMarker);
+        }
     } else {
+        const icon = iconOrRadius;
         const Licon = icon.iconWidth === 1 ?
             maxwell.divIcon(label) :
             L.icon({
                 iconUrl: icon.iconUrl,
                 iconSize: [icon.iconWidth, icon.iconHeight]
             });
-        L.marker([lat, lon], Object.assign({}, {icon: Licon}, paneOptions)).addTo(group);
+        L.marker([lat, lon], {icon: Licon, ...paneOptions}).addTo(group);
     }
     // from https://github.com/rstudio/leaflet/blob/main/javascript/src/methods.js#L189
 };
@@ -290,11 +308,11 @@ maxwell.leafletWidgetToPane = function (map, widget, index) {
             L.imageOverlay(call.args[0], call.args[1], Object.assign({}, {
                 opacity: opacity
             }, overridePaneOptions || paneOptions)).addTo(overrideGroup || group);
-        } else if (call.method === "addMarkers") {
+        } else if (call.method === "addMarkers" || call.method === "addCircleMarkers") {
             // Very limited support currently - just for labelOnlyMarkers used in fire history
-            // args: lat, lng, icon, layerId, group, options, popup, popupOptions,
+            // args: lat, lng, icon || radius, layerId, group, options, popup, popupOptions,
             // clusterOptions, clusterId, label, labelOptions, crosstalkOptions
-            const markerArgs = [call.args[0], call.args[1], call.args[2], call.args[10], call.args[11], paneOptions, group];
+            const markerArgs = [call.args[0], call.args[1], call.args[2], call.args[5], call.args[10], call.args[11], paneOptions, group];
             if (Array.isArray(call.args[0])) {
                 for (let i = 0; i < call.args[0].length; ++i) {
                     maxwell.addMarkers.apply(null, maxwell.projectArgs(markerArgs, i));
@@ -369,8 +387,10 @@ maxwell.registerListeners = function (instance) {
         maxwell.toggleActiveClass(sectionHolders.map(sectionHolder => sectionHolder.section), event.activeSection, "mxcw-activeSection");
     });
     instance.emitter.on("updateActivePane", function (event) {
-        maxwell.toggleActiveClass(widgets.map(widget => widget.pane), event.activePane, "mxcw-activeMapPane");
-        maxwell.flyToBounds(instance.map, widgets[event.activePane].data.x);
+        const zoom = maxwell.flyToBounds(instance.map, widgets[event.activePane].data.x);
+        zoom.then(function () {
+            maxwell.toggleActiveClass(widgets.map(widget => widget.pane), event.activePane, "mxcw-activeMapPane");
+        });
     });
     if (instance.dataPanes) {
         instance.emitter.on("updateActivePane", function (event) {
@@ -419,13 +439,18 @@ maxwell.applyView = function (map, xData) {
     }
 };
 
-maxwell.flyToBounds = function (map, xData) {
-    const bounds = xData.fitBounds;
-    if (bounds) {
-        map.flyToBounds([[bounds[0], bounds[1]], [bounds[2], bounds[3]]], {
-            duration: 2
-        });
-    }
+maxwell.flyToBounds = function (map, xData, delay) {
+    return new Promise(function (resolve) {
+        const bounds = xData.fitBounds;
+        if (bounds) {
+            map.flyToBounds([[bounds[0], bounds[1]], [bounds[2], bounds[3]]], {
+                duration: delay / 1000
+            });
+            map.once("moveend zoomend", resolve);
+        } else {
+            resolve();
+        }
+    });
 };
 
 /** Currently used to support Salish Sea Community Directory - decode from the widget's section id whether it
@@ -465,6 +490,7 @@ maxwell.instantiateLeaflet = function (selector, options) {
         activePane: null,
         subPaneIndices: {},
         sectionHolders: leafletWidgets,
+        zoomDuration: 2000,
         sectionIndexToWidgetIndex: x => x
     });
     maxwell.leafletInstance = instance;
