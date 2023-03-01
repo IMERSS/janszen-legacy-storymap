@@ -19,6 +19,11 @@ Map
 
 Chronicling this legacy, Harvey left behind field journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these important historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively digitizing these records, including herbarium specimens, list records, and field notes. Just before Harvey passed away, he reached out to numerous botanists in the broader community to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his last request by seeing through this work. In the following maps, we provide a summary of the progress of this initiative to date, with reference to the journals and species list that Harvey left us with.
 
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+source("scripts/overview.R")
+Map
+```
+
 ## Flora of Saturna ca. 1973–1981
 
 Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from Saturna Island, Galiano Island, Mayne Island, Samuel Island, Georgeson Island, Salt Spring Island, North and South Pender Islands, Wise Island, Parker Island, and the Ballingall Islets.
