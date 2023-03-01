@@ -1,14 +1,14 @@
 ---
 title: Janszen Legacy Project
 author: Antranig Basman, Emma Menchions, Andrew Simon
-date: February 25th, 2023
+date: February 28th, 2023
 output: html_document
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "docs") })
 ---
 ## Project Summary
 
-Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia's natural history community. During his career as a botanist, Harvey collected ~3,000 vascular plant specimens from coastal BC (mostly within the southern Gulf Islands) and also curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, and San Juan Islands, as well as various other localities throughout the Salish Sea. 
+Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia's natural history community. During his career as a botanist, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and also curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, the San Juan Islands, and various other localities throughout the Salish Sea. 
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/basemap.R")
@@ -17,7 +17,7 @@ Map
 
 ## History of collection activities
 
-Among the documents that Harvey left us with in his passing are journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these important historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively digitizing these records, including herbarium specimens, list records, and field notes. Just before Harvey passed away, he had reached out to botanists in the broader community to invite their review of the comprehensive species lists he dedicated his life to compiling for the region. Today, we are honouring his request by seeing through this work. In the following maps, we provide a summary of the progress of this initiative to date.
+Chronicling this legacy, Harvey left behind field journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these important historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively digitizing these records, including herbarium specimens, list records, and field notes. Just before Harvey passed away, he reached out to numerous botanists in the broader community to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his last request by seeing through this work. In the following maps, we provide a summary of the progress of this initiative to date, with reference to the journals and species list that Harvey left us with.
 
 ## Flora of Saturna ca. 1973–1981
 
@@ -82,19 +82,17 @@ Map
 
 Harvey's dataset establishes a critical baseline record of the vascular plant diversity of the southern Gulf Islands, Saanich Peninsula, and San Juans, which is vital for conservation, for our general understanding of the floristics of the region, and for the future understanding of ecological change. 
 
-Through this legacy project, we are working toward:
+Through this initiative, together we are carrying on Harvey's legacy:
 
-* The digitization and deposition of a subset of Harvey's vascular plant specimens (those that are not already deposited in research collections) in research collections at UBC
+* Curating and publishing comprehensive species lists for the southern Gulf Islands, San Juan islands, the Saanich Peninsula and surounding islets
 
-* Digitization of field notes related to the dataset
+* Digitizing, imaging, and depositing Harvey's last vascular plant specimens in research collections at UBC
 
-* Review and digitization of specimens already accessioned at the Royal BC Museum
+* Reviewing, digitizing and imaging specimens previously deposited and accessioned in collections at the Royal BC Museum and UBC Herbarium
 
-* The advancement of a curatorial process focused on the comprehensive species lists that Harvey has compiled, involving a community of botanists in British Columbia and Washington
+* Digitizing Harvey's journals, including list records and field observations
 
-* The advancement of a biodiversity informatics working group focused on developing an online platform for hosting these data
-
-* Curation of this important floristics dataset to DarwinCore standards for publication in an open access data depository
+* Curating this dataset to DarwinCore standards for publication in an open access data depository
 
 ## Acknowledgments
 
