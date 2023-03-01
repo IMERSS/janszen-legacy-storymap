@@ -17,7 +17,7 @@ Map
 
 ## History of collection activities
 
-Chronicling this legacy, Harvey left behind field journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these important historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively digitizing these records, including herbarium specimens, list records, and field notes. Just before Harvey passed away, he reached out to numerous botanists in the broader community to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his last request by seeing through this work. In the following maps, we provide a summary of the progress of this initiative to date, with reference to the journals and species list that Harvey left us with.
+Chronicling this legacy, Harvey left behind field journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these important historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively digitizing these records, including herbarium specimens, list records, and field notes. In the following maps, we provide a summary of the progress of this initiative to date, with reference to the journals and species list that Harvey left us with.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/overview.R")
@@ -76,7 +76,7 @@ digitized.plot
 
 ## Curation of regional species lists
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Before Harvey passed away, he reached out to numerous botanists in the broader community to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his last request by seeing through this work. With help from this regional community of botanists, we are curating a set of comprehensive annotated checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula (and surrounding islets), and San Juan Islands. Annotated checklists documenting the flora of the Saanich Peninsula and southern Gulf Islands will be published as an open access resource under Harvey's name, in honour of his legacy. Floristics work in the San Juan Islands is being led by Peter Dunwiddie and Adam Martin. 
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/comprehensive_lists.R")
