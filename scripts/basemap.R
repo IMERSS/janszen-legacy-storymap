@@ -7,11 +7,6 @@ source("scripts/utils.R")
 # Layer 1: Boundary
 boundary <- mx_read("spatial_data/vectors/Salish_Sea")
 
-# Create raster palette
-
-pal <- colorNumeric(c("#08306b", "#f7fbff"), values(SS_DSM),
-                    na.color = "transparent")
-
 # Define map bounds based on extent of combined SHP files (all shapes represented in project)
 
 bbox <- st_bbox(boundary) %>% as.vector()

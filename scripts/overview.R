@@ -4,8 +4,6 @@ library(raster)
 library(sf)
 library(tidyverse)
 
-install.packages("tidyverse")
-
 source("scripts/utils.R")
 
 # Layer 2: Salish Sea Boundary
