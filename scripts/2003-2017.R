@@ -38,7 +38,7 @@ Map <- leaflet() %>%
                    fillColor = "#d5b43c",
                    fillOpacity = 1,
                    stroke = F,
-                   radius = 3)  %>% 
+                   radius = 4)  %>% 
   fitBounds(bbox[1], bbox[2], bbox[3], bbox[4])
 
 print(Map)
