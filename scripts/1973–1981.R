@@ -23,7 +23,12 @@ points.1973_1981$Y <- points.coordinates$Y
 
 # Define map bounds based on extent of combined SHP files (all shapes represented in project)
 
-bbox <- st_bbox(polygons.1973_1981) %>% as.vector()
+bbox1 <- st_as_sfc(st_bbox(polygons.1973_1981))
+bbox2 <- st_as_sfc(st_bbox(points.1973_1981))
+
+bbox3 <-  c(bbox1, bbox2)
+
+bbox <- unname(st_bbox(bbox3))
 
 # Render leaflet map
 
