@@ -21,7 +21,7 @@ h2 {
 .mxcw-leftPane {
     display: flex;
     flex-direction: column;
-    width: 65%;
+    width: 60%;
 }
 
 .mxcw-map {
@@ -34,8 +34,8 @@ h2 {
 }
 
 .mxcw-content {
-    width: 35%;
-    font-size: 18px;
+    width: 40%;
+    font-size: 20px;
     padding: 0 1rem 0 1rem;
     height: calc(100vh - 100px);
     overflow-y: scroll;

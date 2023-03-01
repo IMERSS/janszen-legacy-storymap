@@ -167,11 +167,13 @@ maxwell.divIcon = function (label, className) {
 };
 
 // From https://gis.stackexchange.com/questions/31951/showing-popup-on-mouse-over-not-on-click-using-leaflet
-maxwell.hoverPopup = function (marker) {
-    marker.on("mouseover", function () {
-        this.openPopup();
-    });
-    marker.on("mouseout", function () {
+maxwell.hoverPopup = function (layer) {
+    const mouseHandler = function (ev) {
+        layer.openPopup(ev.latlng);
+    };
+    layer.on("mouseover", mouseHandler);
+    layer.on("mousemove", mouseHandler);
+    layer.on("mouseout", function () {
         this.closePopup();
     });
 };
@@ -241,12 +243,20 @@ maxwell.allocatePane = function (map, index, subLayerIndex, overridePane) {
 };
 
 // Allocate a polygonal leaflet call into a pane or subpane
-maxwell.assignToPane = function (callArgs, polyMethod, paneInfo) {
+maxwell.assignPolyToPane = function (callArgs, polyMethod, paneInfo) {
     const shapes = callArgs[0],
         options = Object.assign({}, callArgs[3], paneInfo.paneOptions);
-    shapes.forEach((shape, index) =>
-        L[polyMethod](maxwell.leafletiseCoords(shape),
-            maxwell.resolveVectorOptions(options, index)).addTo(paneInfo.group));
+    shapes.forEach(function (shape, index) {
+        const r = v => maxwell.resolveVectorOptions(v, index);
+        const args = maxwell.projectArgs(callArgs, index);
+        const polygon = L[polyMethod](maxwell.leafletiseCoords(shape), r(options)).addTo(paneInfo.group);
+        const label = args[6];
+        const labelOptions = args[7];
+        if (label) {
+            polygon.bindPopup(label, {closeButton: false, ...labelOptions});
+            maxwell.hoverPopup(polygon);
+        }
+    });
 };
 
 maxwell.leafletPolyMethods = {
@@ -297,10 +307,10 @@ maxwell.leafletWidgetToPane = function (map, widget, index) {
             const subLayerIndex = call.args[3].mx_subLayerIndex;
             if (subLayerIndex !== undefined) {
                 const subPaneInfo = maxwell.allocatePane(map, index, subLayerIndex);
-                maxwell.assignToPane(call.args, polyMethod, subPaneInfo);
+                maxwell.assignPolyToPane(call.args, polyMethod, subPaneInfo);
                 widget.subPanes[subLayerIndex] = subPaneInfo;
             } else {
-                maxwell.assignToPane(call.args, polyMethod, overridePaneInfo || paneInfo);
+                maxwell.assignPolyToPane(call.args, polyMethod, overridePaneInfo || paneInfo);
             }
         } else if (call.method === "addRasterImage") {
             // args: url, bounds, opacity
