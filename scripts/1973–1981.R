@@ -14,9 +14,12 @@ boundary <- mx_read("spatial_data/vectors/boundary")
 polygons.1973_1981 <- mx_read("spatial_data/vectors/1973-1981_polygons")
 
 # Layer 4: 1973-1981 Localities (points)
-# points.1973_1981 <- mx_read("spatial_data/vectors/1973-1981_points")
+points.1973_1981 <- mx_read("spatial_data/vectors/1973-1981_points")
 
-# can't get point data to display?
+points.coordinates <- data.frame(st_coordinates(points.1973_1981))
+
+points.1973_1981$X <- points.coordinates$X
+points.1973_1981$Y <- points.coordinates$Y
 
 # Define map bounds based on extent of combined SHP files (all shapes represented in project)
 
@@ -26,8 +29,14 @@ bbox <- st_bbox(polygons.1973_1981) %>% as.vector()
 
 Map <- leaflet() %>%
   addProviderTiles(providers$CartoDB.DarkMatterNoLabels) %>%
-  addPolygons(data = polygons.1973_1981, color = "#d5b43c", weight = 1, fillOpacity = 0) %>%
-  #addPolygons(data = points.1973_1981, color = "#d5b43c", weight = 1, fillOpacity = 90) %>%
+  addPolygons(data = polygons.1973_1981, color = "#d5b43c", weight = 1, fillOpacity = 0,
+              label = paste(polygons.1973_1981$Locality, polygons.1973_1981$Province, polygons.1973_1981$Country, sep = ", ")) %>%
+  addCircleMarkers(data = points.1973_1981, ~X, ~Y, label = paste(points.1973_1981$Locality,
+              points.1973_1981$Province, points.1973_1981$Country, sep = ", "),
+              fillColor = "#d5b43c",
+              fillOpacity = 1,
+              stroke = F,
+              radius = 3)  %>% 
   fitBounds(bbox[1], bbox[2], bbox[3], bbox[4])
 
 print(Map)

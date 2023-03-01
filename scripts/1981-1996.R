@@ -8,27 +8,35 @@ source("scripts/utils.R")
 boundary <- mx_read("spatial_data/vectors/boundary")
 
 # Layer 3: 1981-1996 Localities (polygons)
-polygons.1973_1981 <- mx_read("spatial_data/vectors/1981-1996_polygons")
+polygons.1981_1996 <- mx_read("spatial_data/vectors/1981-1996_polygons")
 
 # Layer 4: 1981-1996 Localities (points)
-# points.1981-1996 <- mx_read("spatial_data/vectors/1981-1996_points")
+points.1981_1996 <- mx_read("spatial_data/vectors/1981-1996_points")
 
-# can't get point data to display?
+points.coordinates <- data.frame(st_coordinates(points.1981_1996))
+
+points.1981_1996$X <- points.coordinates$X
+points.1981_1996$Y <- points.coordinates$Y
 
 # Define map bounds based on extent of combined SHP files (all shapes represented in project)
 
-bbox <- st_bbox(polygons.1973_1981) %>% as.vector()
+bbox <- st_bbox(polygons.1981_1996) %>% as.vector()
 
 # Render leaflet map
 
 Map <- leaflet() %>%
   addProviderTiles(providers$CartoDB.DarkMatterNoLabels) %>%
-  addPolygons(data = polygons.1973_1981, color = "#d5b43c", weight = 1, fillOpacity = 0) %>%
-  #addPolygons(data = points.1973_1981, color = "#d5b43c", weight = 1, fillOpacity = 90) %>%
+  addPolygons(data = polygons.1981_1996, color = "#d5b43c", weight = 1, fillOpacity = 0,
+              label = paste(polygons.1981_1996$Locality, polygons.1981_1996$Province, polygons.1981_1996$Country, sep = ", ")) %>%
+  addCircleMarkers(data = points.1981_1996, ~X, ~Y, label = paste(points.1981_1996$Locality,
+                                                                  points.1981_1996$Province, points.1981_1996$Country, sep = ", "),
+                   fillColor = "#d5b43c",
+                   fillOpacity = 1,
+                   stroke = F,
+                   radius = 3)  %>% 
   fitBounds(bbox[1], bbox[2], bbox[3], bbox[4])
 
 print(Map)
-
 
 # Create pie chart summarizing no. of records digitized by research collection (RBCM, UBC)
 
@@ -49,13 +57,13 @@ UBC.records <- UBC.records %>% dplyr::filter(str_detect(Primary.Collector, 'Harv
 
 # Select records having collection numbers in the range of 1:1929 (collections from this time period, as per field notes)
 
-RBCM.records.1973_1981 <- subset(RBCM.records, RBCM.records$CollectorsFieldNumber %in% 1930:2629)
-UBC.records.1973_1981 <- subset(UBC.records, UBC.records$Collector.Number %in% 1930:2629)
+RBCM.records.1981_1996 <- subset(RBCM.records, RBCM.records$CollectorsFieldNumber %in% 1930:2629)
+UBC.records.1981_1996 <- subset(UBC.records, UBC.records$Collector.Number %in% 1930:2629)
 
 # Sum specimens accessioned for the time period and infer number of records that remain undigitized
 
-RBCM.HJ <- nrow(RBCM.records.1973_1981) 
-UBC.HJ <- nrow(UBC.records.1973_1981)
+RBCM.HJ <- nrow(RBCM.records.1981_1996) 
+UBC.HJ <- nrow(UBC.records.1981_1996)
 undigitized <- 699-(RBCM.HJ+UBC.HJ)
 
 # Create Plotly Donut Chart

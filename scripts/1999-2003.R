@@ -11,9 +11,12 @@ boundary <- mx_read("spatial_data/vectors/boundary")
 polygons.1999_2003 <- mx_read("spatial_data/vectors/1999-2003_polygons")
 
 # Layer 4: 1981-1996 Localities (points)
-# points.1999_2003 <- mx_read("spatial_data/vectors/1999-2003_points")
+points.1999_2003 <- mx_read("spatial_data/vectors/1999-2003_points")
 
-# can't get point data to display?
+points.coordinates <- data.frame(st_coordinates(points.1999_2003))
+
+points.1999_2003$X <- points.coordinates$X
+points.1999_2003$Y <- points.coordinates$Y
 
 # Define map bounds based on extent of combined SHP files (all shapes represented in project)
 
@@ -23,12 +26,17 @@ bbox <- st_bbox(polygons.1999_2003) %>% as.vector()
 
 Map <- leaflet() %>%
   addProviderTiles(providers$CartoDB.DarkMatterNoLabels) %>%
-  addPolygons(data = polygons.1999_2003, color = "#d5b43c", weight = 1, fillOpacity = 0) %>%
-  #addPolygons(data = points.1999_2003, color = "#d5b43c", weight = 1, fillOpacity = 90) %>%
+  addPolygons(data = polygons.1999_2003, color = "#d5b43c", weight = 1, fillOpacity = 0,
+              label = paste(polygons.1999_2003$Locality, polygons.1999_2003$Province, polygons.1999_2003$Country, sep = ", ")) %>%
+  addCircleMarkers(data = points.1999_2003, ~X, ~Y, label = paste(points.1999_2003$Locality,
+                                                                  points.1999_2003$Province, points.1999_2003$Country, sep = ", "),
+                   fillColor = "#d5b43c",
+                   fillOpacity = 1,
+                   stroke = F,
+                   radius = 3)  %>% 
   fitBounds(bbox[1], bbox[2], bbox[3], bbox[4])
 
 print(Map)
-
 
 # Create pie chart summarizing no. of records digitized by research collection (RBCM, UBC)
 
