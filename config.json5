@@ -21,5 +21,8 @@
     }, {
         source: "%maxwell/src/css/maxwell.css",
         target: "%maxwell/docs/css/maxwell.css"
+    }, {
+        source: "%maxwell/src/css/janszen.css",
+        target: "%maxwell/docs/css/janszen.css"
     }]
 }
