@@ -77,7 +77,7 @@ digitized.plot
 
 ## Curation of regional species lists
 
-Before Harvey passed, he reached out to several botanists to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring this final request and collectively reviewing the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and surrounding islets. Curation of the flora of the San Juan Islands is being led by Peter Dunwiddie and Adam Martin. Annotated checklists documenting the flora of the Saanich Peninsula and southern Gulf Islands will be published as an open access resource under Harvey's name.
+Before Harvey passed, he reached out to several botanists to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his final request and collectively reviewing the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and surrounding islets. Curation of the flora of the San Juan Islands is being led by Peter Dunwiddie and Adam Martin. Annotated checklists documenting the flora of the Saanich Peninsula and southern Gulf Islands will be published as an open access resource under Harvey's name.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/comprehensive_lists.R")
