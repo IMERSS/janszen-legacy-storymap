@@ -167,9 +167,10 @@ maxwell.divIcon = function (label, className) {
 };
 
 // From https://gis.stackexchange.com/questions/31951/showing-popup-on-mouse-over-not-on-click-using-leaflet
-maxwell.hoverPopup = function (layer) {
+maxwell.hoverPopup = function (layer, paneOptions) {
     const mouseHandler = function (ev) {
         layer.openPopup(ev.latlng);
+        console.log("Open popup for pane " + paneOptions.pane);
     };
     layer.on("mouseover", mouseHandler);
     layer.on("mousemove", mouseHandler);
@@ -202,7 +203,7 @@ maxwell.addMarkers = function (lat, lon, iconOrRadius, options, label, labelOpti
         const circleMarker = L.circleMarker([lat, lon], {radius, ...options, ...paneOptions}).addTo(group);
         if (label) {
             circleMarker.bindPopup(label, {closeButton: false, ...labelOptions});
-            maxwell.hoverPopup(circleMarker);
+            maxwell.hoverPopup(circleMarker, paneOptions);
         }
     } else {
         const icon = iconOrRadius;
@@ -253,8 +254,9 @@ maxwell.assignPolyToPane = function (callArgs, polyMethod, paneInfo) {
         const label = args[6];
         const labelOptions = args[7];
         if (label) {
+            console.log("Assigned label " + label + " to polygon index " + index + " for pane " + paneInfo.paneName);
             polygon.bindPopup(label, {closeButton: false, ...labelOptions});
-            maxwell.hoverPopup(polygon);
+            maxwell.hoverPopup(polygon, paneInfo.paneOptions);
         }
     });
 };
@@ -397,9 +399,20 @@ maxwell.registerListeners = function (instance) {
         maxwell.toggleActiveClass(sectionHolders.map(sectionHolder => sectionHolder.section), event.activeSection, "mxcw-activeSection");
     });
     instance.emitter.on("updateActivePane", function (event) {
-        const zoom = maxwell.flyToBounds(instance.map, widgets[event.activePane].data.x);
+        const activePane = event.activePane;
+        const widgetPanes = widgets.map(widget => widget.pane);
+        maxwell.toggleActiveClass(widgetPanes, -1, "mxcw-activeMapPane");
+        widgetPanes[activePane].style.display = "block";
+        const zoom = maxwell.flyToBounds(instance.map, widgets[activePane].data.x);
         zoom.then(function () {
-            maxwell.toggleActiveClass(widgets.map(widget => widget.pane), event.activePane, "mxcw-activeMapPane");
+            maxwell.toggleActiveClass(widgetPanes, activePane, "mxcw-activeMapPane");
+            window.setTimeout(function () {
+                widgetPanes.forEach(function (pane, index) {
+                    const visibility = (index === activePane ? "block" : "none");
+                    console.log("Set visibility of index " + index + " to " + visibility);
+                    pane.style.display = visibility;
+                });
+            }, 1);
         });
     });
     if (instance.dataPanes) {
