@@ -1,7 +1,22 @@
-.mxcw-data {
-    height: 520px;
+.mxcw-map {
+    height: 80%;
+    flex: 1 1 480px;
 }
 
-.mxcw-map {
-    height: 100%;
+.mxcw-data {
+    height: revert;
+    flex: 0 1 550px;
+    overflow-y: auto;
+}
+
+.mxcw-leftPane {
+    height: 100vh;
+}
+
+body {
+    overflow: hidden;
+}
+
+.mxcw-content {
+    font-size: 24px;
 }
