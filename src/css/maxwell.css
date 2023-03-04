@@ -61,7 +61,7 @@ h2 {
 
 .mxcw-widgetPane {
     display: none;
-    padding: 2em;
+    margin: 2em;
 }
 
 .mxcw-widgetPane.mxcw-activeWidgetPane {
