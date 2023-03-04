@@ -17,7 +17,7 @@ Map
 
 ## History of collection activities
 
-To chronicle this legacy, Harvey left behind field journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively curating and preserving these important records, including herbarium specimens, list records, and field notes. In the following maps, we provide a summary of the progress of this initiative to date, with reference to the journals and species lists that Harvey left us with.
+Chronicling this legacy, Harvey left behind field journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively curating and preserving these important records, including herbarium specimens, list records, and field notes. In the following maps, we provide a summary of the progress of this initiative to date, with reference to the journals and species lists that Harvey left us with.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/overview.R")
@@ -26,7 +26,7 @@ Map
 
 ## Flora of Saturna ca. 1973–1981
 
-Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from the Ballingall Islets, Galiano Island, Georgeson Island, Mayne Island, North Pender Island, Parker Island, Salt Spring Island, Samuel Island, Saturna Island, South Pender Islands, and Wise Island.
+Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from the Ballingall Islets, Galiano Island, Georgeson Island, Mayne Island, North Pender Island, Parker Island, Salt Spring Island, Samuel Island, Saturna Island, South Pender Islands, and Wise Island, with a focus on the flora of Saturna Island.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1973–1981.R")
