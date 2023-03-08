@@ -10,6 +10,8 @@ knit: (function(inputFile, encoding) {
 
 Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia's natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea. 
 
+![Harvey Janszen - Galiano Island, BC - May 3, 2019](media/HJ.png)
+
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/basemap.R")
 Map
@@ -17,7 +19,7 @@ Map
 
 ## History of collection activities
 
-To chronicle this legacy, Harvey left behind field journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively curating and preserving these important records, including herbarium specimens, list records, and field notes. In the following maps, we provide a summary of the progress of this initiative to date, with reference to the journals and species lists that Harvey left us with.
+Chronicling this legacy, Harvey left behind field journals documenting his collection activities throughout the region, from 1973 to 2017. Many of these historical baseline records have not been digitized and so remain unavailable to the scientific community. Through the Janszen Legacy Project, we are actively curating and preserving these important records, including herbarium specimens, list records, and field notes. In the following maps, we provide a summary of the progress of this initiative to date, with reference to the journals and species lists that Harvey left us with.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/overview.R")
@@ -26,7 +28,9 @@ Map
 
 ## Flora of Saturna ca. 1973–1981
 
-Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from the Ballingall Islets, Galiano Island, Georgeson Island, Mayne Island, North Pender Island, Parker Island, Salt Spring Island, Samuel Island, Saturna Island, South Pender Islands, and Wise Island.
+Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from the Ballingall Islets, Galiano Island, Georgeson Island, Mayne Island, North Pender Island, Parker Island, Salt Spring Island, Samuel Island, Saturna Island, South Pender Islands, and Wise Island, with a focus on the flora of Saturna Island. This floristics project formed the basis for Harvey's 'Vascular plants of Saturna Island, British Columbia' which in 1977 appeared in *Syesis*, a scholarly journal published by the British Columbia Provincial Museum.
+
+![Flora of Saturna ca. 1973–1981](media/1973–1981.png)
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1973–1981.R")
@@ -36,8 +40,9 @@ digitized.plot
 
 ## Journal ca. 1981–1996
 
-Journal documenting floristic surveys of Burnaby Lake (1996), Burns Bog (1996), Cabbage Island (1995), Campbell River (1996), Chilliwack River Provincial Park (1996), Denman Island (1982, 1994, 1996), Galiano Island (1981, 1982, 1984, 1996), Golden Ears Provincial Park (1996), Hornby Island (1982), Isabella Islets (1996), Lopez Island (1984), Mayne Island (1983, 1994, 1996), North Pender (1981, 1982, 1983, 1996), Orcas Island (1984), Parker Island (1981), Powell River (1996), Prevost Island (1981), Qualicum Beach (1996), Salt Spring Island (1985,1996), San Juan Island (1983) Saturna Island (1981-1989, 1994, 1996), 
-Sidney Island (1982, 1984), Somenos Lake (1996), South Pender (1996), Squamish estuary (1996), Stanley Park (1996), Texada (1996), the UBC Research Forest (1996), Waldron Island (1983), Wise Island (1981), and Wolf Creek (1996). The journal includes collections numbering from 1,930 to 2,629.
+Journal documenting floristic surveys of Burnaby Lake, Burns Bog, Cabbage Island, Campbell River, Chilliwack River Provincial Park, Denman Island, Galiano Island, Golden Ears Provincial Park, Hornby Island, Isabella Islets, Lopez Island, Mayne Island, North Pender, Orcas Island, Parker Island, Powell River, Prevost Island, Qualicum Beach, Salt Spring Island, San Juan Island, Saturna Island, Sidney Island, Somenos Lake, South Pender, the Squamish estuary, Stanley Park, Texada, the UBC Research Forest, Waldron Island, Wise Island, and Wolf Creek. The journal includes collections numbering from 1,930 to 2,629.
+
+![Journal ca. 1981–1996](media/1981–1996.png)
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1981-1996.R")
@@ -47,7 +52,9 @@ digitized.plot
 
 ## Journal ca. 1996-2000
 
-Journal documenting botanical surveys of: Metchosin (1996), Saturna Island (1996, 1998, 1999, 2000), Saltspring Island (1996), Sidney Island (2000), Texada Island (1997, 1999), Tumbo Island (1998), and Valdes Island (1998). The journal includes collection records numbering from 2,630 to 2,920, including detailed population assessments and georeferenced localities for *Woodwardia* and various Ophioglossaceae, as well as field notes and species lists.
+Journal documenting floristic surveys of: Metchosin, Saturna Island, Saltspring Island, Sidney Island, Texada Island, Tumbo Island, and Valdes Island. The journal includes collection records numbering from 2,630 to 2,920, including detailed population assessments and georeferenced localities for *Woodwardia* and various Ophioglossaceae, as well as field notes and species lists.
+
+![Journal ca. 1996-2000](media/1996-2000.png)
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1996-2000.R")
@@ -55,9 +62,11 @@ Map
 digitized.plot
 ```
 
-## Field notes ca. 1999–2003
+## Unbound field notes ca. 1999–2003
 
-Field notes documenting floristic inventories of: the Cowichan River (2003), Galiano Island (2002-2003), Hornby Island (2002-2003), Mount Tzouhalem (2003), Saturna Island (1999–2003), Sidney Island (2000–2003); and surveys targetting *Crassula connata* on Saltspring Island (2000–2003), Tree Island (2003), and Valdes Island (2003). Collections numbering from 2,921–2,961.
+Field notes documenting floristic inventories of: the Cowichan River, Galiano Island, Hornby Island, Mount Tzouhalem, Saturna Island, Sidney Island, and surveys targeting *Crassula connata* on Saltspring Island, Tree Island, and Valdes Island. Collections numbering from 2,921–2,961.
+
+![Unbound field notes ca. 1999–2003](media/1999–2003.png)
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1999-2003.R")
@@ -67,7 +76,9 @@ digitized.plot
 
 ## Field notes ca. 2003–2017
 
-Field notes documenting floristic inventories of Galiano Island (2004), Lake Helen Mackenzie (2010), Saturna Island (2003-2010, 2013), Strathcona Provincial Park (2007), Tumbo Island (2007), and Valdes Island (2017)—including records of rare vascular plant species such as *Meconella oregana*, *Ranunculus californicus*, and *Sanicula bipinnatifida*. Collections numbering from 2,962–2,971.
+Field notes documenting floristic inventories of Galiano Island, Lake Helen Mackenzie, Saturna Island, Strathcona Provincial Park, Tumbo Island, and Valdes Island—including records of rare vascular plant species such as *Meconella oregana*, *Ranunculus californicus*, and *Sanicula bipinnatifida*. Collections numbering from 2,962–2,971.
+
+![Field notes ca. 2003–2017](media/2003-2017.png)
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/2003-2017.R")
@@ -77,7 +88,7 @@ digitized.plot
 
 ## Curation of regional species lists
 
-Before Harvey passed, he reached out to several botanists to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his final request and collectively reviewing the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and surrounding islets. Curation of the flora of the San Juan Islands is being led by Peter Dunwiddie and Adam Martin. Annotated checklists documenting the flora of the Saanich Peninsula and southern Gulf Islands will be published as an open access resource under Harvey's name.
+Before Harvey passed, he reached out to others in the community to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his final request and collectively reviewing the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and surrounding islets. Curation of the flora of the San Juan Islands is being led by Peter Dunwiddie and Adam Martin. Annotated checklists documenting the flora of the Saanich Peninsula and southern Gulf Islands will be published as an open access resource under Harvey's name.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/comprehensive_lists.R")
@@ -86,7 +97,7 @@ Map
 
 ## Proposed project outcomes
 
-Harvey's dataset establishes a critical baseline record of the vascular plant diversity of the southern Gulf Islands, Saanich Peninsula, and San Juan Islands. This baseline is a vital resource for conservation, and for improving our general understanding of the floristics of the region and our future understanding of ecological change. 
+Harvey's dataset establishes a critical baseline record of the vascular plant diversity of the southern Gulf Islands, Saanich Peninsula, and San Juan Islands. This baseline is a vital resource for conservation, improving our general understanding of the floristics of the region and establishing a basis for understanding future ecological change. 
 
 Through this initiative, we are carrying on Harvey's legacy by:
 
@@ -107,6 +118,8 @@ We thank those who have come together to honour the life and legacy of Harvey Ja
 Geraldine Allen, Antranig Basman, Ryan Batten, Eleanor Brouard-John, Adolf Ceska, Quentin Cronk, Ian Cruickshank, Marta Donovan, Peter Dunwiddie, Matt Fairbarns, David Giblin, Pam Janszen, Linda Jennings,  Mike Lavender, Pippi Lawn, Frank Lomer, Terry Ludwar, Kendrick Marr, Andy MacKinnon, Adam Martin, Emma Menchions, James Miskelly, Jenifer Penny, Hans Roemer, Andrew Simon, Angela Wood, and Alexander Wright.
 
 This project generously supported by the [Canadian Institute for Ecology and Evolution](https://www.ciee-icee.ca/ldp.html) and the [Institute for Multidisciplinary Ecological Research in the Salish Sea](https://www.imerss.org)
+
+![my caption](media/ciee_imerss.png)\
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
