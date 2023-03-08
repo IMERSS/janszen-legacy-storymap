@@ -1,6 +1,6 @@
 # Janszen Legacy Storymap
 
-Repository hosting a story map dedicated to telling the story of the legacy of 
+Repository hosting a story map dedicated to telling the story of the legacy of
 [Harvey Janszen](https://ecoreserves.bc.ca/2022/04/22/the-life-and-legacy-of-harvey-janszen/).
 
 You can browse the published output of this project in these documents:
@@ -93,11 +93,14 @@ To customise the markup which frames the reknitted output, you can edit the HTML
 
 To publish the markup resulting from both the knitting and the reknitting process, set up the configuration on your
 repository to publish GitHub Pages from the `docs` folder of the `main` branch. This is available from the `Pages`
-tab on your repository's settings, as shown in the image below: 
+tab on your repository's settings, as shown in the image below:
 
 ![GitHub Pages configuration](img/gh-pages.png)
 
-You can find our what URL your markup will be published at by looking in the [docs](docs) directory of your own repository. For example, the [docs/R-Markdown-Background-Rewoven.html](docs/R-Markdown-Background-Rewoven.html) file is published at [https://imerss.github.io/r-scrollytelling-template/R-Markdown-Background-Rewoven.html](https://imerss.github.io/r-scrollytelling-template/R-Markdown-Background-Rewoven.html).
+You can find out what URL your markup will be published at by looking in the
+[docs](docs) directory of your own repository. For example, the
+[docs/R-Markdown-Background-Rewoven.html](docs/R-Markdown-Background-Rewoven.html) file is published at
+[https://imerss.github.io/r-scrollytelling-template/R-Markdown-Background-Rewoven.html](https://imerss.github.io/r-scrollytelling-template/R-Markdown-Background-Rewoven.html).
 
 The overall URL of your documents published in GitHub pages will start with `https://<your-account>.github.io/<your-repository>`.
 
@@ -105,4 +108,5 @@ The overall URL of your documents published in GitHub pages will start with `htt
 
 To suggest improvements to these instructions and publishing system, please
 [raise an issue](https://github.com/IMERSS/r-scrollytelling-template/issues). For a wider background
-surrounding this project and its philosophy, please go to [Knitting Data Communities](https://continuing-creativity.github.io/knitting-data-communities/).
+surrounding this project and its philosophy, please go to
+[Knitting Data Communities](https://lichen-community-systems/knitting-data-communities/).
