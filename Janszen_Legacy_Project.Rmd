@@ -10,7 +10,7 @@ knit: (function(inputFile, encoding) {
 
 Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia's natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea. 
 
-![Harvey Janszen - Galiano Island, BC - May 3, 2019](media/HJ.png)
+![Harvey Janszen - Galiano Island, BC - May 3, 2019](media/HJ.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/basemap.R")
@@ -30,7 +30,7 @@ Map
 
 Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from the Ballingall Islets, Galiano Island, Georgeson Island, Mayne Island, North Pender Island, Parker Island, Salt Spring Island, Samuel Island, Saturna Island, South Pender Islands, and Wise Island, with a focus on the flora of Saturna Island. This floristics project formed the basis for Harvey's 'Vascular plants of Saturna Island, British Columbia' which in 1977 appeared in *Syesis*, a scholarly journal published by the British Columbia Provincial Museum.
 
-![Flora of Saturna ca. 1973–1981](media/1973–1981.png)
+![Flora of Saturna ca. 1973–1981](media/1973–1981.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1973–1981.R")
@@ -42,7 +42,7 @@ digitized.plot
 
 Journal documenting floristic surveys of Burnaby Lake, Burns Bog, Cabbage Island, Campbell River, Chilliwack River Provincial Park, Denman Island, Galiano Island, Golden Ears Provincial Park, Hornby Island, Isabella Islets, Lopez Island, Mayne Island, North Pender, Orcas Island, Parker Island, Powell River, Prevost Island, Qualicum Beach, Salt Spring Island, San Juan Island, Saturna Island, Sidney Island, Somenos Lake, South Pender, the Squamish estuary, Stanley Park, Texada, the UBC Research Forest, Waldron Island, Wise Island, and Wolf Creek. The journal includes collections numbering from 1,930 to 2,629.
 
-![Journal ca. 1981–1996](media/1981–1996.png)
+![Journal ca. 1981–1996](media/1981–1996.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1981-1996.R")
@@ -54,7 +54,7 @@ digitized.plot
 
 Journal documenting floristic surveys of: Metchosin, Saturna Island, Saltspring Island, Sidney Island, Texada Island, Tumbo Island, and Valdes Island. The journal includes collection records numbering from 2,630 to 2,920, including detailed population assessments and georeferenced localities for *Woodwardia* and various Ophioglossaceae, as well as field notes and species lists.
 
-![Journal ca. 1996-2000](media/1996-2000.png)
+![Journal ca. 1996-2000](media/1996-2000.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1996-2000.R")
@@ -66,7 +66,7 @@ digitized.plot
 
 Field notes documenting floristic inventories of: the Cowichan River, Galiano Island, Hornby Island, Mount Tzouhalem, Saturna Island, Sidney Island, and surveys targeting *Crassula connata* on Saltspring Island, Tree Island, and Valdes Island. Collections numbering from 2,921–2,961.
 
-![Unbound field notes ca. 1999–2003](media/1999–2003.png)
+![Unbound field notes ca. 1999–2003](media/1999–2003.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1999-2003.R")
@@ -78,7 +78,7 @@ digitized.plot
 
 Field notes documenting floristic inventories of Galiano Island, Lake Helen Mackenzie, Saturna Island, Strathcona Provincial Park, Tumbo Island, and Valdes Island—including records of rare vascular plant species such as *Meconella oregana*, *Ranunculus californicus*, and *Sanicula bipinnatifida*. Collections numbering from 2,962–2,971.
 
-![Field notes ca. 2003–2017](media/2003-2017.png)
+![Field notes ca. 2003–2017](media/2003-2017.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/2003-2017.R")

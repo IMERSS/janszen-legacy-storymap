@@ -1,16 +1,15 @@
 .mxcw-map {
-    height: 80%;
-    flex: 1 1 480px;
+    height: 50%;
+    flex: 1 1 360px;
 }
 
 .mxcw-data {
     height: revert;
-    flex: 0 1 580px;
+    flex: 1 1 580px;
     overflow-y: auto;
 }
 
 .mxcw-leftPane {
-    height: 100vh;
 }
 
 body {
