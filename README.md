@@ -86,8 +86,9 @@ Once your customised map knits properly using the R Studio "Knit" process, you c
 
 from the terminal in the project folder. Commit and push the output from this stage using R Studio or git as you prefer.
 
-If you want to reknit to different input or output filenames, edit the reweaveJobs block in [src/js/reweave.js](src/js/reweave.js).
-To customise the markup which frames the reknitted output, you can edit the HTML template at [src/html/template.html](src/html/template.html).
+If you want to reknit to different input or output filenames, edit the reknitJobs block in the configuration file
+at [config.json5](config.json5). To customise the markup which frames the reknitted output, you can edit the HTML
+template at [src/html/template.html](src/html/template.html).
 
 ## Setting up GitHub Pages to publish your markup
 
@@ -97,10 +98,9 @@ tab on your repository's settings, as shown in the image below:
 
 ![GitHub Pages configuration](img/gh-pages.png)
 
-You can find out what URL your markup will be published at by looking in the
-[docs](docs) directory of your own repository. For example, the
-[docs/R-Markdown-Background-Rewoven.html](docs/R-Markdown-Background-Rewoven.html) file is published at
-[https://imerss.github.io/r-scrollytelling-template/R-Markdown-Background-Rewoven.html](https://imerss.github.io/r-scrollytelling-template/R-Markdown-Background-Rewoven.html).
+You can find our what URL your markup will be published at by looking in the [docs](docs) directory of your own
+repository. For example, the [docs/R-Markdown-Background-Reknitted.html](docs/R-Markdown-Background-Reknitted.html)
+file is published at [https://imerss.github.io/r-scrollytelling-template/R-Markdown-Background-Reknitted.html](https://imerss.github.io/r-scrollytelling-template/R-Markdown-Background-Reknitted.html).
 
 The overall URL of your documents published in GitHub pages will start with `https://<your-account>.github.io/<your-repository>`.
 
