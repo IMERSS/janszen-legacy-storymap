@@ -81,17 +81,51 @@ colors <-  c("#ffcf20FF", "#10a53dFF", "#541352FF")
 
 digitized.summary <- data.frame(Collection,Records)
 
-digitized.plot <- digitized.summary %>% plot_ly(labels = ~Collection, values = ~Records, 
+digitized.records.plot <- digitized.summary %>% plot_ly(labels = ~Collection, values = ~Records, 
                                                 textposition = 'inside',
                                                 textinfo = 'label+percent',
                                                 insidetextfont = list(color = '#FFFFFF'),
                                                 hoverinfo = 'text',
                                                 marker = list(colors = colors,
                                                               line = list(color = '#FFFFFF', width = 1)), showlegend = T)
-digitized.plot <- digitized.plot %>% add_pie(hole = 0.6)
-digitized.plot <- digitized.plot %>% layout(title = "Records digitized by collection",  showlegend = T,
+digitized.records.plot <- digitized.records.plot %>% add_pie(hole = 0.6)
+digitized.records.plot <- digitized.records.plot %>% layout(title = "Records digitized by collection",  showlegend = T,
                                             xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
                                             yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
 
-digitized.plot
+digitized.records.plot
+
+# Create pie chart summarizing no. of pages digitized from journal
+
+digitized.journal <- read.csv("tabular_data/digitization-progress_2023-03-14.csv")
+
+digitized.journal <- digitized.journal %>% filter(journalNumber == 7)
+
+# Summary digitized vs undigitized pages
+
+digitized <- digitized.journal$total_digitized_pages
+undigitized <- digitized.journal$journalPages - digitized.journal$total_digitized_pages
+
+# Create Plotly Donut Chart
+
+Digitized <- c("Digitized", "Undigitized")
+Pages <- c(digitized, undigitized)
+
+digitized.journal.summary <- data.frame(Digitized,Pages)
+
+colors.2 <-  c("#10a53dFF", "#541352FF")
+
+digitized.journal.plot <- digitized.journal.summary %>% plot_ly(labels = ~Digitized, values = ~Pages, 
+                                                                textposition = 'inside',
+                                                                textinfo = 'label+percent',
+                                                                insidetextfont = list(color = '#FFFFFF'),
+                                                                hoverinfo = 'text',
+                                                                marker = list(colors = colors.2,
+                                                                              line = list(color = '#FFFFFF', width = 1)), showlegend = T)
+digitized.journal.plot <- digitized.journal.plot %>% add_pie(hole = 0.6)
+digitized.journal.plot <- digitized.journal.plot %>% layout(title = "Journal Pages Digitized",  showlegend = T,
+                                                            xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+                                                            yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
+
+digitized.journal.plot
 

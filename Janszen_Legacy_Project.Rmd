@@ -35,7 +35,8 @@ Journal documenting Harvey’s earliest collections, including a total of 1,929 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1973–1981.R")
 Map
-digitized.plot
+digitized.records.plot
+digitized.journal.plot
 ```
 
 ## Journal ca. 1981–1996
@@ -47,7 +48,8 @@ Journal documenting floristic surveys of Burnaby Lake, Burns Bog, Cabbage Island
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1981-1996.R")
 Map
-digitized.plot
+digitized.records.plot
+digitized.journal.plot
 ```
 
 ## Journal ca. 1996-2000
@@ -59,7 +61,8 @@ Journal documenting floristic surveys of: Metchosin, Saturna Island, Saltspring 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1996-2000.R")
 Map
-digitized.plot
+digitized.records.plot
+digitized.journal.plot
 ```
 
 ## Unbound field notes ca. 1999–2003
@@ -71,7 +74,8 @@ Field notes documenting floristic inventories of: the Cowichan River, Galiano Is
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1999-2003.R")
 Map
-digitized.plot
+digitized.records.plot
+digitized.journal.plot
 ```
 
 ## Field notes ca. 2003–2017
@@ -83,7 +87,8 @@ Field notes documenting floristic inventories of Galiano Island, Lake Helen Mack
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/2003-2017.R")
 Map
-digitized.plot
+digitized.records.plot
+digitized.journal.plot
 ```
 
 ## Curation of regional species lists
