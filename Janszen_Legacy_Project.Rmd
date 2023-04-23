@@ -54,7 +54,7 @@ digitized.journal.plot
 
 ## Journal ca. 1996-2000
 
-Journal documenting floristic surveys of: Metchosin, Saturna Island, Saltspring Island, Sidney Island, Texada Island, Tumbo Island, and Valdes Island. The journal includes collection records numbering from 2,630 to 2,920, including detailed population assessments and georeferenced localities for *Woodwardia* and various Ophioglossaceae, as well as field notes and species lists.
+Journal documenting floristic surveys of Metchosin, Saturna Island, Saltspring Island, Sidney Island, Texada Island, Tumbo Island, and Valdes Island. The journal includes collection records numbering from 2,630 to 2,920, including detailed population assessments and georeferenced localities for *Woodwardia* and various Ophioglossaceae, as well as field notes and species lists.
 
 ![Journal ca. 1996-2000](media/1996-2000.png){.data-pane}
 
@@ -67,7 +67,7 @@ digitized.journal.plot
 
 ## Unbound field notes ca. 1999–2003
 
-Field notes documenting floristic inventories of: the Cowichan River, Galiano Island, Hornby Island, Mount Tzouhalem, Saturna Island, Sidney Island, and surveys targeting *Crassula connata* on Saltspring Island, Tree Island, and Valdes Island. Collections numbering from 2,921–2,961.
+Field notes documenting floristic inventories of the Cowichan River, Galiano Island, Hornby Island, Mount Tzouhalem, Saturna Island, Sidney Island, and surveys targeting *Crassula connata* on Saltspring Island, Tree Island, and Valdes Island. Collections numbering from 2,921–2,961.
 
 ![Unbound field notes ca. 1999–2003](media/1999–2003.png){.data-pane}
 
@@ -93,7 +93,7 @@ digitized.journal.plot
 
 ## Curation of regional species lists
 
-Before Harvey passed, he reached out to others in the community to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his final request and collectively reviewing the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and surrounding islets. Curation of the flora of the San Juan Islands is being led by Peter Dunwiddie and Adam Martin. Annotated checklists documenting the flora of the Saanich Peninsula and southern Gulf Islands will be published as an open access resource under Harvey's name.
+Before Harvey passed, he reached out to others in the botany community to invite their review of the comprehensive species lists he had dedicated his life to compiling for the region. Today, we are honouring his final request and collectively reviewing the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and surrounding islets. Curation of the flora of the San Juan Islands is being led by Peter Dunwiddie and Adam Martin. Annotated checklists documenting the flora of the Saanich Peninsula and southern Gulf Islands will be published as an open access resource under Harvey's name.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/comprehensive_lists.R")
