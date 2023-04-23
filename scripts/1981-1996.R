@@ -87,7 +87,9 @@ digitized.records.plot <- digitized.summary %>% plot_ly(labels = ~Collection, va
                                                 insidetextfont = list(color = '#FFFFFF'),
                                                 hoverinfo = 'text',
                                                 marker = list(colors = colors,
-                                                              line = list(color = '#FFFFFF', width = 1)), showlegend = T)
+                                                line = list(color = '#FFFFFF', width = 1)), showlegend = T,
+                                                width = 450,
+                                                height = 300)  
 digitized.records.plot <- digitized.records.plot %>% add_pie(hole = 0.6)
 digitized.records.plot <- digitized.records.plot %>% layout(title = "Records digitized by collection",  showlegend = T,
                                             xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
@@ -121,7 +123,9 @@ digitized.journal.plot <- digitized.journal.summary %>% plot_ly(labels = ~Digiti
                                                                 insidetextfont = list(color = '#FFFFFF'),
                                                                 hoverinfo = 'text',
                                                                 marker = list(colors = colors.2,
-                                                                              line = list(color = '#FFFFFF', width = 1)), showlegend = T)
+                                                                line = list(color = '#FFFFFF', width = 1)), showlegend = T,
+                                                                width = 450,
+                                                                height = 300)  
 digitized.journal.plot <- digitized.journal.plot %>% add_pie(hole = 0.6)
 digitized.journal.plot <- digitized.journal.plot %>% layout(title = "Journal Pages Digitized",  showlegend = T,
                                                             xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
