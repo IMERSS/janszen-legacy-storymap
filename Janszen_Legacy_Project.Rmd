@@ -1,7 +1,7 @@
 ---
 title: Janszen Legacy Project
 author: Antranig Basman, Emma Menchions, Andrew Simon
-date: February 28th, 2023
+date: May 10th, 2023
 output: html_document
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "docs") })
@@ -28,12 +28,12 @@ Map
 
 ## Flora of Saturna ca. 1973–1981
 
-Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from the Ballingall Islets, Galiano Island, Georgeson Island, Mayne Island, North Pender Island, Parker Island, Salt Spring Island, Samuel Island, Saturna Island, South Pender Islands, and Wise Island, with a focus on the flora of Saturna Island. These surveys formed the basis for Harvey's 'Vascular plants of Saturna Island, British Columbia' which in 1977 appeared in *Syesis*, a scholarly journal published by the British Columbia Provincial Museum.
+Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from the Ballingall Islets, Galiano Island, Georgeson Island, Mayne Island, North Pender Island, Parker Island, Salt Spring Island, Samuel Island, Saturna Island, South Pender Islands, and Wise Island, with a focus on the flora of Saturna Island. These Saturna Island surveys formed the basis for Harvey's 'Vascular plants of Saturna Island, British Columbia' which in 1977 appeared in *Syesis*, a scholarly journal published by the British Columbia Provincial Museum.
 
 ![Flora of Saturna ca. 1973–1981](media/1973–1981.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
-source("scripts/1973–1981.R")
+source("scripts/1973-1981.R")
 Map
 digitized.records.plot
 digitized.journal.plot
@@ -120,7 +120,7 @@ Through this initiative, we are carrying on Harvey's legacy by:
 
 We thank those who have come together to honour the life and legacy of Harvey Janszen:
 
-Geraldine Allen, Antranig Basman, Ryan Batten, Eleanor Brouard-John, Adolf Ceska, Quentin Cronk, Ian Cruickshank, Marta Donovan, Peter Dunwiddie, Matt Fairbarns, David Giblin, Pam Janszen, Linda Jennings,  Mike Lavender, Pippi Lawn, Frank Lomer, Terry Ludwar, Kendrick Marr, Andy MacKinnon, Adam Martin, Emma Menchions, James Miskelly, Jenifer Penny, Hans Roemer, Andrew Simon, Angela Wood, and Alexander Wright.
+Geraldine Allen, Antranig Basman, Ryan Batten, Eleanor Brouard-John, Adolf Ceska, Quentin Cronk, Ian Cruickshank, Marta Donovan, Peter Dunwiddie, Paige Erickson-McGee, Matt Fairbarns, David Giblin, Pam Janszen, Linda Jennings,  Mike Lavender, Pippi Lawn, Frank Lomer, Terry Ludwar, Kendrick Marr, Andy MacKinnon, Adam Martin, Finn McGhee, Emma Menchions, James Miskelly, Jenifer Penny, Hans Roemer, Andrew Simon, Angela Wood, and Alexander Wright.
 
 This project generously supported by the [Canadian Institute for Ecology and Evolution](https://www.ciee-icee.ca/ldp.html) and the [Institute for Multidisciplinary Ecological Research in the Salish Sea](https://www.imerss.org)
 
