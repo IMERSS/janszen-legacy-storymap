@@ -1,8 +1,11 @@
-library(sf)
+library(dplyr)
 library(leaflet)
+library(plotly)
 library(raster)
+library(sf)
 
 source("scripts/utils.R")
+source("scripts/sizes.R")
 
 # Layer 2: Boundary
 boundary <- mx_read("spatial_data/vectors/boundary")
@@ -100,12 +103,13 @@ digitized.records.plot <- digitized.summary %>% plot_ly(labels = ~Collection, va
                                                 hoverinfo = 'text',
                                                 marker = list(colors = colors,
                                                 line = list(color = '#FFFFFF', width = 1)), showlegend = T,
-                                                width = 450,
-                                                height = 300)
+                                                width = jl_plot_width,
+                                                height = jl_plot_height)
 digitized.records.plot <- digitized.records.plot %>% add_pie(hole = 0.6)
 digitized.records.plot <- digitized.records.plot %>% layout(title = "Records digitized by collection",  showlegend = T,
                                             xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
-                                            yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
+                                            yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+                                            margin = jl_plot_margin)
 
 digitized.records.plot
 
@@ -136,12 +140,13 @@ digitized.journal.plot <- digitized.journal.summary %>% plot_ly(labels = ~Digiti
                                                                 hoverinfo = 'text',
                                                                 marker = list(colors = colors.2,
                                                                               line = list(color = '#FFFFFF', width = 1)), showlegend = T,
-                                                                width = 450,
-                                                                height = 300) 
+                                                                width = jl_plot_width,
+                                                                height = jl_plot_height)
 digitized.journal.plot <- digitized.journal.plot %>% add_pie(hole = 0.6)
 digitized.journal.plot <- digitized.journal.plot %>% layout(title = "Journal Pages Digitized",  showlegend = T,
                                                             xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
-                                                            yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
+                                                            yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+                                                            margin = jl_plot_margin)
 
 digitized.journal.plot
 
