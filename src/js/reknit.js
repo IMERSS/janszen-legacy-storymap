@@ -72,7 +72,7 @@ const movePlotlyWidgets = function (template, sections, container) {
         console.log("Found section for plotly widget at index " + index);
         if (index !== -1) {
             toMove.setAttribute("data-section-index", "" + index);
-            dataDivs[index].appendChild(toMove);
+            dataDivs[index].prepend(toMove);
         } else {
             console.log("Ignoring widget at index " + i + " since it has no sibling map");
         }
