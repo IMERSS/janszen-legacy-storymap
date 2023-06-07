@@ -11,6 +11,15 @@ knit: (function(inputFile, encoding) {
 Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia's natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea. 
 
 ![Harvey Janszen - Galiano Island, BC - May 3, 2019](media/HJ.png){.data-pane}
+"While Harvey was an excellent botanist, he was so much more than that. He was a family man, a community volunteer, and an elected official. We were staples in Saturna’s Theatre on the Rock in its heyday. We also had season’s tickets to the ballet and the opera in Victoria for many years. Harvey loved opera!
+
+I have fond memories of going to Monroe’s Book Store with Harvey—they always let us bring the Corgis in and gave them treats. And Harvey and I always left with a pile of new books. All kinds of books—but our collection of “natural history” books was by far the largest. Birds, bugs, astronomy, plants, wildflowers, fossils, butterflies, bats, even slugs (Harvey’s last interest). If it was outside, we were interested!
+
+We always traveled with Roadside Geology books. Our souvenirs were rocks, fossils, shells, seeds, feathers.
+
+And that man could remember everything he read! He could also master anything he chose to, teaching himself to play a variety of musical instruments, fixing all kinds of mechanical things, becoming an internet technician, and a plumber to pay the bills—which he always said he learned at the Low Temperature Lab for the Atomic Energy Commission while he was an undergrad at Berkeley.
+
+Harvey was a brilliant, complex man, and is deeply missed." — Pam Janszen
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/basemap.R")
