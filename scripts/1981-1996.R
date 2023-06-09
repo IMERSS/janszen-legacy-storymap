@@ -1,4 +1,5 @@
 library(dplyr)
+library(stringr)
 library(leaflet)
 library(plotly)
 library(raster)
