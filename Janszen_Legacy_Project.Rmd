@@ -1,25 +1,29 @@
 ---
 title: Janszen Legacy Project
-author: Antranig Basman, Emma Menchions, Andrew Simon
-date: May 10th, 2023
-output: html_document
+author: Antranig Basman, Emma Menchions, Andrew Simon, Pam Janszen
+date: June 7th, 2023
+output: 
+  html_document:
+    self_contained: false
 knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "docs") })
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "docs", output_options = list(copy_resources = TRUE)) })
 ---
 ## Project Summary
 
 Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia's natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea. 
 
 ![Harvey Janszen - Galiano Island, BC - May 3, 2019](media/HJ.png){.data-pane}
-"While Harvey was an excellent botanist, he was so much more than that. He was a family man, a community volunteer, and an elected official. We were staples in Saturna’s Theatre on the Rock in its heyday. We also had season’s tickets to the ballet and the opera in Victoria for many years. Harvey loved opera!
+<div class="data-pane">
+<p>"While Harvey was an excellent botanist, he was so much more than that. He was a family man, a community volunteer, and an elected official. We were staples in Saturna’s Theatre on the Rock in its heyday. We also had season’s tickets to the ballet and the opera in Victoria for many years. Harvey loved opera!</p>
 
-I have fond memories of going to Monroe’s Book Store with Harvey—they always let us bring the Corgis in and gave them treats. And Harvey and I always left with a pile of new books. All kinds of books—but our collection of “natural history” books was by far the largest. Birds, bugs, astronomy, plants, wildflowers, fossils, butterflies, bats, even slugs (Harvey’s last interest). If it was outside, we were interested!
+<p>I have fond memories of going to Monroe’s Book Store with Harvey—they always let us bring the Corgis in and gave them treats. And Harvey and I always left with a pile of new books. All kinds of books—but our collection of “natural history” books was by far the largest. Birds, bugs, astronomy, plants, wildflowers, fossils, butterflies, bats, even slugs (Harvey’s last interest). If it was outside, we were interested!</p>
 
-We always traveled with Roadside Geology books. Our souvenirs were rocks, fossils, shells, seeds, feathers.
+<p>We always traveled with Roadside Geology books. Our souvenirs were rocks, fossils, shells, seeds, feathers.</p>
 
-And that man could remember everything he read! He could also master anything he chose to, teaching himself to play a variety of musical instruments, fixing all kinds of mechanical things, becoming an internet technician, and a plumber to pay the bills—which he always said he learned at the Low Temperature Lab for the Atomic Energy Commission while he was an undergrad at Berkeley.
+<p>And that man could remember everything he read! He could also master anything he chose to, teaching himself to play a variety of musical instruments, fixing all kinds of mechanical things, becoming an internet technician, and a plumber to pay the bills—which he always said he learned at the Low Temperature Lab for the Atomic Energy Commission while he was an undergrad at Berkeley.</p>
 
-Harvey was a brilliant, complex man, and is deeply missed." — Pam Janszen
+<p>Harvey was a brilliant, complex man, and is deeply missed." — Pam Janszen</p>
+</div>
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/basemap.R")
@@ -39,7 +43,7 @@ Map
 
 Journal documenting Harvey’s earliest collections, including a total of 1,929 specimens collected from the Ballingall Islets, Galiano Island, Georgeson Island, Mayne Island, North Pender Island, Parker Island, Salt Spring Island, Samuel Island, Saturna Island, South Pender Islands, and Wise Island, with a focus on the flora of Saturna Island. These Saturna Island surveys formed the basis for Harvey's 'Vascular plants of Saturna Island, British Columbia' which in 1977 appeared in *Syesis*, a scholarly journal published by the British Columbia Provincial Museum.
 
-![Flora of Saturna ca. 1973–1981](media/1973–1981.png){.data-pane}
+![Flora of Saturna ca. 1973–1981](media/1973-1981.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1973-1981.R")
@@ -52,7 +56,7 @@ digitized.journal.plot
 
 Journal documenting floristic surveys of Burnaby Lake, Burns Bog, Cabbage Island, Campbell River, Chilliwack River Provincial Park, Denman Island, Galiano Island, Golden Ears Provincial Park, Hornby Island, Isabella Islets, Lopez Island, Mayne Island, North Pender, Orcas Island, Parker Island, Powell River, Prevost Island, Qualicum Beach, Salt Spring Island, San Juan Island, Saturna Island, Sidney Island, Somenos Lake, South Pender, the Squamish estuary, Stanley Park, Texada, the UBC Research Forest, Waldron Island, Wise Island, and Wolf Creek. The journal includes collections numbering from 1,930 to 2,629.
 
-![Journal ca. 1981–1996](media/1981–1996.png){.data-pane}
+![Journal ca. 1981–1996](media/1981-1996.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1981-1996.R")
@@ -78,7 +82,7 @@ digitized.journal.plot
 
 Field notes documenting floristic inventories of the Cowichan River, Galiano Island, Hornby Island, Mount Tzouhalem, Saturna Island, Sidney Island, and surveys targeting *Crassula connata* on Saltspring Island, Tree Island, and Valdes Island. Collections numbering from 2,921–2,961.
 
-![Unbound field notes ca. 1999–2003](media/1999–2003.png){.data-pane}
+![Unbound field notes ca. 1999–2003](media/1999-2003.png){.data-pane}
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/1999-2003.R")
