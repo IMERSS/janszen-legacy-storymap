@@ -24,6 +24,14 @@ body {
     display: flex;
 }
 
+.mxcw-widgetPane.mxcw-activeWidgetPane:first-child {
+    flex-flow: row;
+}
+
+.mxcw-widgetPane.mxcw-activeWidgetPane:first-child > div.data-pane {
+    padding-left: 2rem;
+}
+
 .mxcw-widgetPane {
     flex-flow: row wrap;
     flex-direction: row;
@@ -34,3 +42,4 @@ body {
     scale: 75%;
     transform-origin: left top;*/
 }
+
