@@ -30,7 +30,7 @@ round_sf <- function (fc, digits) {
     } else if (inherits(one, "POLYGON")) {
       one <- roundpoly(one, digits)
     } else if (inherits(one, "XY")) {
-      one <- round(one) 
+      one # Don't do anything to points, they are exact
     } else if (!st_is_empty(one)) {
       stop(paste("I don't know what it is ", class(one)))
     }
