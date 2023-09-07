@@ -49,12 +49,36 @@ body {
     transition-property: max-height, padding, margin-bottom;
     transition-duration: 1s;
     overflow: clip;
+    z-index: 100;
+}
+
+.mxcw-banner {
+    position: relative;
+    z-index: 100;
 }
 
 .mxcw-acknow.mxcw-hidden {
     max-height: 0;
     padding: 0;
     margin-bottom: 0;
+}
+
+.mxcw-ack-dimmer {
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition-property: background;
+    transition-duration: 1s;
+    background: #888c;
+    pointer-events: none;
+}
+
+.mxcw-ack-dimmer.mxcw-hidden {
+    background: none
 }
 
 a {

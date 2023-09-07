@@ -435,10 +435,13 @@ maxwell.registerListeners = function (instance) {
     instance.emitter.on("updateActivePane", function (event) {
         const activePane = event.activePane;
         const ack = document.querySelector(".mxcw-acknow");
+        const dimmer = document.querySelector(".mxcw-ack-dimmer");
         if (activePane === 0) {
             ack.classList.remove("mxcw-hidden");
+            dimmer.classList.remove("mxcw-hidden");
         } else {
             ack.classList.add("mxcw-hidden");
+            dimmer.classList.add("mxcw-hidden");
         }
     });
 
