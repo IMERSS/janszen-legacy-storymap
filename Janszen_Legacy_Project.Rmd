@@ -8,6 +8,10 @@ output:
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "docs", output_options = list(copy_resources = TRUE)) })
 ---
+## Acknowledgement
+
+<span class="mxcw-nonLeafletPane mxcw-paneName-Acknowledgement html-widget leaflet"></span>
+
 ## Project Summary
 
 Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia's natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea. 

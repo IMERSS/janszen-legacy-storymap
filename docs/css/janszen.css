@@ -39,6 +39,29 @@ body {
     margin: 1em;
 }
 
+.mxcw-acknow {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    background-color: #555;
+    color: #eee;
+    padding: 5px;
+    max-height: 9em;
+    transition-property: max-height, padding, margin-bottom;
+    transition-duration: 1s;
+    overflow: clip;
+}
+
+.mxcw-acknow.mxcw-hidden {
+    max-height: 0;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+a {
+    /* Taken from native-land.ca */
+    color: #377dff;
+}
+
 .mxcw-widgetPane > div {
 /*  Better to control plot size in R
     scale: 75%;

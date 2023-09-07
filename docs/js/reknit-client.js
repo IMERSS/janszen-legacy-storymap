@@ -95,7 +95,7 @@ maxwell.findLeafletWidgets = function () {
         const id = widget.id;
         const dataNode = document.querySelector("[data-for=\"" + id + "\"");
         console.log("Got data node ", dataNode);
-        const data = JSON.parse(dataNode.innerHTML);
+        const data = dataNode && JSON.parse(dataNode.innerHTML);
         console.log("Got data ", data);
         const section = widget.closest(".section.level2");
         const heading = section.querySelector("h2");
@@ -289,9 +289,9 @@ maxwell.decodeLayoutId = function (call) {
  * @param {Integer} index - The index of the widget/section heading in the document structure
  */
 maxwell.leafletWidgetToPane = function (map, widget, index) {
-    const calls = widget.data.x.calls;
     const paneInfo = maxwell.allocatePane(map, index);
     const {paneOptions, group} = paneInfo;
+    const calls = widget.data ? widget.data.x.calls : [];
     calls.forEach(function (call) {
         const overridePane = maxwell.decodeLayoutId(call);
         let overridePaneInfo, overridePaneOptions, overrideGroup;
@@ -352,10 +352,16 @@ maxwell.addDocumentListeners = function (instance) {
     const content = document.querySelector(".mxcw-content");
     content.addEventListener("scroll", function () {
         const scrollTop = content.scrollTop;
-        const offsets = sectionHolders.map(widget => widget.section.offsetTop);
-        let index = offsets.findIndex(offset => offset > (scrollTop - 10));
-        if (index === -1) {
+        const offsets = sectionHolders.map(widget => widget.section.offsetTop - content.offsetTop);
+        // See diagram - we scroll when the next heading's top gets close enough to the viewport top
+        let index = offsets.findIndex(offset => (scrollTop + 60) < offset) - 1;
+        if (index === -2) {
             index = sectionHolders.length - 1;
+        } else if (index === -1) {
+            index = 0;
+        }
+        if (index !== instance.activeSection) {
+            console.log("Section change: offsetTops are ", offsets, " scrollTop is " + scrollTop + " new index " + index);
         }
         instance.updateActiveSection(index);
     });
@@ -375,6 +381,16 @@ maxwell.setSubPaneVisibility = function (instance, event) {
     const subPanes = instance.leafletWidgets[event.paneIndex].subPanes.map(paneInfo => paneInfo.pane);
     console.log("updateSlider subPanes ", subPanes);
     maxwell.toggleActiveClass(subPanes, event.subPaneIndex, "mxcw-activeMapPane");
+};
+
+// TODO: Total hack to skip first pane - upgrade all of this to marine atlas' framework
+maxwell.findX = function (widgets, activePane) {
+    let data;
+    do {
+        data = widgets[activePane].data;
+        activePane++;
+    } while (!data);
+    return data.x;
 };
 
 maxwell.registerListeners = function (instance) {
@@ -403,7 +419,7 @@ maxwell.registerListeners = function (instance) {
         const widgetPanes = widgets.map(widget => widget.pane);
         maxwell.toggleActiveClass(widgetPanes, -1, "mxcw-activeMapPane");
         widgetPanes[activePane].style.display = "block";
-        const zoom = maxwell.flyToBounds(instance.map, widgets[activePane].data.x);
+        const zoom = maxwell.flyToBounds(instance.map, maxwell.findX(widgets, activePane));
         zoom.then(function () {
             maxwell.toggleActiveClass(widgetPanes, activePane, "mxcw-activeMapPane");
             window.setTimeout(function () {
@@ -415,6 +431,17 @@ maxwell.registerListeners = function (instance) {
             }, 1);
         });
     });
+    // TODO: Move this into acknowledgement grade
+    instance.emitter.on("updateActivePane", function (event) {
+        const activePane = event.activePane;
+        const ack = document.querySelector(".mxcw-acknow");
+        if (activePane === 0) {
+            ack.classList.remove("mxcw-hidden");
+        } else {
+            ack.classList.add("mxcw-hidden");
+        }
+    });
+
     if (instance.dataPanes) {
         instance.emitter.on("updateActivePane", function (event) {
             const paneIndex = event.activePane;
@@ -496,10 +523,12 @@ maxwell.instantiateLeaflet = function (selector, options) {
     const node = document.querySelector(selector);
     const map = L.map(node);
 
-    const data0 = leafletWidgets[0].data.x;
-    maxwell.applyView(map, data0);
+    const firstWidget = leafletWidgets.find(widget => widget.data);
 
-    const tiles = maxwell.findCall(data0.calls, "addTiles");
+    const firstX = firstWidget.data.x;
+    maxwell.applyView(map, firstX);
+
+    const tiles = maxwell.findCall(firstX.calls, "addTiles");
     L.tileLayer(tiles.args[0], tiles.args[3]).addTo(map);
 
     leafletWidgets.forEach((widget, i) => maxwell.leafletWidgetToPane(map, widget, i));
