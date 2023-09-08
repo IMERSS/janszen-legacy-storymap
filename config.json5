@@ -3,26 +3,28 @@
         infile: "%maxwell/docs/Janszen_Legacy_Project.html",
         outfile: "%maxwell/docs/Janszen_Legacy_Project-Reknitted.html",
         options: {
-            template: "%maxwell/src/html/template.html"
+            template: "%maxwell/src/html/template.html",
+            scrollyPageOptions: {
+                zoomDuration: 2000
+            },
+            paneHandlers: {
+                Acknowledgement: {
+                    type: "maxwell.acknowledgementPaneHandler",
+                }
+            }
         }
         }],
-    copyJobs: [{
-        source: "%maxwell/src/js/client/reknit-client.js",
-        target: "%maxwell/docs/js/reknit-client.js"
+    copyJobs: [ {
+        source: "%maxwell/src/js/client/*.js",
+        target: "%maxwell/docs/js/"
     }, {
-        source: "%maxwell/src/js/client/plotly-2.1.1.js",
-        target: "%maxwell/docs/js/plotly-2.1.1.js"
+        source: "%infusion/dist/infusion-framework.js",
+        target: "%maxwell/docs/js/infusion-framework.js",
+        replaceSource: "sourceMappingURL=infusion-framework.js.map",
+        replaceTarget: "sourceMappingURL=../../node_modules/infusion/dist/infusion-framework.js.map"
     }, {
-        source: "%maxwell/src/js/client/htmlwidgets.js",
-        target: "%maxwell/docs/js/htmlwidgets.js"
-    }, {
-        source: "%maxwell/src/js/client/htmlwidgets-plotly.js",
-        target: "%maxwell/docs/js/htmlwidgets-plotly.js"
-    }, {
-        source: "%maxwell/src/css/maxwell.css",
-        target: "%maxwell/docs/css/maxwell.css"
-    }, {
-        source: "%maxwell/src/css/janszen.css",
-        target: "%maxwell/docs/css/janszen.css"
-    }]
+        source: "%maxwell/src/css/*.css",
+        target: "%maxwell/docs/css"
+    }
+    ]
 }

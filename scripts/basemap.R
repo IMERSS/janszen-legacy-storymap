@@ -19,4 +19,3 @@ Map <- leaflet() %>%
   fitBounds(bbox[1], bbox[2], bbox[3], bbox[4])
   
 print(Map)
-  

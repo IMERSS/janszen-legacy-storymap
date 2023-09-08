@@ -10,7 +10,10 @@ knit: (function(inputFile, encoding) {
 ---
 ## Acknowledgement
 
-<span class="mxcw-nonLeafletPane mxcw-paneName-Acknowledgement html-widget leaflet"></span>
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+source("scripts/ackmap.R")
+Map
+```
 
 ## Project Summary
 
