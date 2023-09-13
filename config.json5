@@ -5,12 +5,9 @@
         options: {
             template: "%maxwell/src/html/template.html",
             scrollyPageOptions: {
-                zoomDuration: 2000
+                zoomDuration: 1500
             },
             paneHandlers: {
-                Acknowledgement: {
-                    type: "maxwell.acknowledgementPaneHandler",
-                }
             }
         }
         }],

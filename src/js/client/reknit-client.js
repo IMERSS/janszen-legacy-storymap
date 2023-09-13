@@ -229,9 +229,15 @@ maxwell.projectArgs = function (args, index) {
     return args.map(arg => Array.isArray(arg) ? arg[index] : arg);
 };
 
-maxwell.divIcon = function (label, className) {
+// From https://stackoverflow.com/a/45205645
+maxwell.renderStyle = function (style) {
+    return Object.entries(style).map(([k, v]) => `${k}:${v}`).join(";");
+};
+
+maxwell.divIcon = function (label, className, style) {
+    const styleText = style ? " style=\"" + maxwell.renderStyle(style) + "\"" : "";
     return L.divIcon({
-        html: "<div>" + label + "</div>",
+        html: `<div${styleText}>${label}</div>`,
         iconSize: null,
         className: className
     });
@@ -412,7 +418,7 @@ maxwell.addMarkers = function (lat, lon, iconOrRadius, options, label, labelOpti
     } else {
         const icon = iconOrRadius;
         const Licon = icon.iconWidth === 1 ?
-            maxwell.divIcon(label) :
+            maxwell.divIcon(label, null, labelOptions.style) :
             L.icon({
                 iconUrl: icon.iconUrl,
                 iconSize: [icon.iconWidth, icon.iconHeight]

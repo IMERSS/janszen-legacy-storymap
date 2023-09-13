@@ -1,14 +1,28 @@
 ---
 title: Janszen Legacy Project
-author: Antranig Basman, Emma Menchions, Andrew Simon, Pam Janszen
-date: June 7th, 2023
 output: 
   html_document:
     self_contained: false
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "docs", output_options = list(copy_resources = TRUE)) })
 ---
-## Acknowledgement
+## Land Acknowledgement
+
+<div class="mxcw-acknow">
+The Janszen Legacy Project takes place in and throughout the shared, unceded, and asserted territories of many nations, including the
+<a target="_blank" href="https://penelakut.ca/">pune’luxutth’</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/quwutsun/">quw’utsun’</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/snuneymuxw/">snuneymuhw</a>,
+<a target="_blank" href="http://lyackson.bc.ca/">leey’qsun</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/stzuminus/">shts’um’inus</a>,
+<a target="_blank" href="https://www.tlaaminnation.com/">tla'amin</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/tsawwassen-sc%C9%99wa%CE%B8en/">tsawwassen</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/lekwungen-songhees/">lekwungen</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/lummi/">lhaq'temish</a> and
+<a target="_blank" href="https://native-land.ca/maps/territories/wsanec/">W̱SÁNEĆ</a> peoples, as well as the Indigenous
+families who have been stewards of these lands and waters since time immemorial. May these legacy biodiversity data be shared in a good way with
+respect to all who hold rights and responsibilities within the region, for the benefit of present day and future generations.
+</div>
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 source("scripts/ackmap.R")
@@ -134,7 +148,7 @@ Through this initiative, we are carrying on Harvey's legacy by:
 
 * Digitizing Harvey's journals, including list records and field observations
 
-* Curating this dataset to DarwinCore standards for publication in an open access data depository
+* Curating this dataset to Darwin Core standards for publication in an open access data depository
 
 ## Acknowledgments
 
@@ -145,6 +159,11 @@ Geraldine Allen, Antranig Basman, Ryan Batten, Eleanor Brouard-John, Adolf Ceska
 This project generously supported by the [Canadian Institute for Ecology and Evolution](https://www.ciee-icee.ca/ldp.html) and the [Institute for Multidisciplinary Ecological Research in the Salish Sea](https://www.imerss.org)
 
 ![my caption](media/ciee_imerss.png)\
+
+## Authors
+Antranig Basman, Emma Menchions, Pam Janszen, Andrew Simon
+
+June 7th, 2023
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

@@ -1,7 +1,14 @@
 library(sf)
+library(geojsonsf)
+library(jsonlite)
 
 lat_lon <- function (data) {
   return (st_transform(data, "+proj=longlat +datum=WGS84"))
+}
+
+# Attach the region's label as an "mx_regionId" option in the output data
+labelToOption <- function (label) {
+  return (list(mx_regionId = label))
 }
 
 roundmulti <- function (multi, digits) {
@@ -46,7 +53,27 @@ mx_read <- function (filename, digits = 4) {
   rounded <- round_sf(trans, digits);
 }
 
-# Attach the region's label as an "mx_regionId" option in the output data
-labelToOption <- function (label) {
-  return (list(mx_regionId = label))
+mx_http_fetch <- function (target, url) {
+  response <- httr::GET(url, httr::progress())
+  
+  # Check if the download was successful
+  if (httr::status_code(response) == 200) {
+    # Write the downloaded content to the file
+    base::writeBin(httr::content(response, "raw"), target)
+    size <- file.info(target)$size
+    cat("Downloaded ", size, " bytes as ", target, "\n")
+    
+  } else {
+    stop("Error ", httr::status_code(response), " when downloading file ", url, "\n");
+  }
 }
+
+fetch_first_nations_territories = function () {
+    file_path <- "external_data/indigenousTerritories.json"
+    if (!file.exists(file_path)) {
+        mx_http_fetch(file_path, "https://native-land.ca/wp-content/themes/NLD-2021/files/indigenousTerritories.json")
+    }
+    geojsonsf::geojson_sf(file_path)
+}
+
+

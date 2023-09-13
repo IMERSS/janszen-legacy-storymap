@@ -39,23 +39,31 @@ body {
     margin: 1em;
 }
 
+/** For some reason without this content pane is clipped at top */
+#header {
+    min-height: 5px;
+}
+
 .mxcw-acknow {
-    font-size: 1.5em;
+/*    font-size: 1.5em; */
     margin-bottom: 0.5em;
-    background-color: #555;
+    background-color: #444;
     color: #eee;
     padding: 5px;
-    max-height: 9em;
+/* Definitions left over from when we used to do this with a sliding animation */
+/*    max-height: 9em;
     transition-property: max-height, padding, margin-bottom;
     transition-duration: 1s;
     overflow: clip;
-    z-index: 100;
+    z-index: 100;*/
 }
 
 .mxcw-banner {
     position: relative;
     z-index: 100;
 }
+
+/** Dimmer no longer used after Dana's redesign **/
 
 .mxcw-acknow.mxcw-hidden {
     max-height: 0;
@@ -82,8 +90,12 @@ body {
 }
 
 a {
-    /* Taken from native-land.ca */
-    color: #377dff;
+    /* Taken from native-land.ca and then adjusted for WCAG */
+    color: #7EB3F9;
+}
+
+.leaflet-marker-icon {
+    white-space: nowrap;
 }
 
 .mxcw-widgetPane > div {
