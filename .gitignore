@@ -105,4 +105,4 @@ dist
 .Rproj.user
 
 .DS_Store
-.RHistory
+.Rhistory
