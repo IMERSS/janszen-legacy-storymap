@@ -15,10 +15,13 @@
 
 body {
     overflow: hidden;
+    margin-left: 1.5em;
 }
 
 .mxcw-content {
     font-size: 20px;
+    /** Bigger margins than core as per Dana */
+    padding: 0 2.5rem 0 2.5rem;
 }
 
 .mxcw-widgetPane.mxcw-activeWidgetPane {
@@ -37,6 +40,10 @@ body {
     flex-flow: row wrap;
     flex-direction: row;
     margin: 1em;
+}
+
+div.figure img {
+    margin-right: 2em;
 }
 
 /** For some reason without this content pane is clipped at top */
@@ -96,6 +103,7 @@ a {
 
 .leaflet-marker-icon {
     white-space: nowrap;
+    z-index: 1000 !important;
 }
 
 .mxcw-widgetPane > div {

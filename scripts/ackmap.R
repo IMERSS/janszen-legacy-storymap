@@ -4,6 +4,14 @@ library(raster)
 
 source("scripts/utils.R")
 
+nudgePoint <- function (frame, slugValue, amount) {
+    filtered <- frame[frame$Slug == slugValue, ];
+    coords <- st_coordinates(filtered$geometry);
+    coords[, "Y"] <- coords[, "Y"] + amount
+    frame[frame$Slug==slugValue, ]$geometry <- st_sfc(st_point(coords))
+    frame
+}
+
 # Layer 1: Boundary
 boundary <- mx_read("spatial_data/vectors/Salish_Sea")
 
@@ -22,6 +30,10 @@ territories <- allTerritories[allTerritories$Slug %in% toSelect, ]
 st_agr(territories) = "constant"
 # https://gis.stackexchange.com/questions/43543/how-to-calculate-polygon-centroids-in-r-for-non-contiguous-shapes
 centres <- sf::st_centroid(territories)
+
+# Nudge some labels so they do not overlap
+centres <- nudgePoint(centres, "lummi", -0.05)
+centres <- nudgePoint(centres, "stzuminus", -0.05)
 
 bbox <- st_bbox(territories) %>% as.vector()
 

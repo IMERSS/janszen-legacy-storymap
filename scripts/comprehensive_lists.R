@@ -25,6 +25,7 @@ San.Juans <- mx_read("spatial_data/vectors/lists/San_Juan_Islands")
 
 # Layer 7: Saltspring Island
 Saltspring <- mx_read("spatial_data/vectors/lists/Saltspring_Island")
+Saltspring$Name <- "Salt Spring Island"
 
 # Define map bounds based on extent of combined SHP files
 
