@@ -42,7 +42,13 @@ body {
     margin: 1em;
 }
 
-div.figure img {
+/** Hard-coded override so Harvey's picture floats left in 2nd panel */
+.mxcw-data div:nth-child(2).mxcw-widgetPane {
+    flex-flow: row;
+    flex-direction: row-reverse;
+}
+
+.mxcw-data div:nth-child(2).mxcw-widgetPane .figure {
     margin-right: 2em;
 }
 
