@@ -8,7 +8,7 @@ knit: (function(inputFile, encoding) {
 ---
 ## Land Acknowledgement
 
-<div class="mxcw-acknow">
+<div class="mxcw-acknow data-pane">
 The Janszen Legacy Project takes place in and throughout the shared, unceded, and asserted territories of many nations, including the
 <a target="_blank" href="https://native-land.ca/maps/territories/cayuse-umatilla-and-walla-walla/">cayuse</a>, 
 <a target="_blank" href="https://native-land.ca/maps/territories/halalt/">halalt</a>, 
