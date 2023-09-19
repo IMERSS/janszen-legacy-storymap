@@ -59,7 +59,10 @@ centres <- nudgePoint(centres, "lekwungen-songhees", -0.03)
 
 centres <- nudgePoint(centres, "x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m", 0.07) # Musqueam
 
-bbox <- st_bbox(boundary) %>% as.vector()
+stbox <- st_bbox(boundary)
+stbox <- st_expand(stbox, -0.15)
+
+bbox <- as.vector(stbox)
 
 # Render leaflet map
 
@@ -71,7 +74,7 @@ Map <- leaflet(options=list(mx_mapId="Acknowledgement")) %>%
   addLabelOnlyMarkers(data = centres,
                       label = ~Name,
                       labelOptions = labelOptions(noHide = TRUE, direction = "top", textOnly = TRUE,
-                                                  style=list("color"="white", "font-size"="15px"))) %>%
+                                                  style=list("color"="white", "font-size"="12px"))) %>%
   fitBounds(bbox[1], bbox[2], bbox[3], bbox[4])
   
 print(Map)
