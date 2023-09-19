@@ -10,18 +10,39 @@ knit: (function(inputFile, encoding) {
 
 <div class="mxcw-acknow">
 The Janszen Legacy Project takes place in and throughout the shared, unceded, and asserted territories of many nations, including the
+<a target="_blank" href="https://native-land.ca/maps/territories/cayuse-umatilla-and-walla-walla/">cayuse</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/halalt/">halalt</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/katzie/">katzie</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/klallam/">klallam</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/homalco/">homalco</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/komoks/">komoks</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/kwakwakawakw/">kwakwakawakw</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/kwantlen/">kwantlen</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/lig%CA%B7ildax%CA%B7/">laich-kwil-tach</a>, 
+<a target="_blank" href="http://lyackson.bc.ca/">leey’qsun</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/lekwungen-songhees/">lekwungen</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/lummi/">lhaq'temish</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/x%CA%B7m%C9%99%CE%B8k%CA%B7%C9%99y%C9%99m/">musqueam</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/nlakapamux/">nlakapamux</a>, 
 <a target="_blank" href="https://penelakut.ca/">pune’luxutth’</a>,
 <a target="_blank" href="https://native-land.ca/maps/territories/quwutsun/">quw’utsun’</a>,
-<a target="_blank" href="https://native-land.ca/maps/territories/snuneymuxw/">snuneymuhw</a>,
-<a target="_blank" href="http://lyackson.bc.ca/">leey’qsun</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/samish/">samish</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/scianew/">scianew</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/semiahmoo/">semiahmoo</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/shishalh/">shishalh</a>,
 <a target="_blank" href="https://native-land.ca/maps/territories/stzuminus/">shts’um’inus</a>,
-<a target="_blank" href="https://www.tlaaminnation.com/">tla'amin</a>,
-<a target="_blank" href="https://native-land.ca/maps/territories/tsawwassen-sc%C9%99wa%CE%B8en/">tsawwassen</a>,
-<a target="_blank" href="https://native-land.ca/maps/territories/lekwungen-songhees/">lekwungen</a>,
-<a target="_blank" href="https://native-land.ca/maps/territories/lummi/">lhaq'temish</a> and
-<a target="_blank" href="https://native-land.ca/maps/territories/wsanec/">W̱SÁNEĆ</a> peoples, as well as the Indigenous
-families who have been stewards of these lands and waters since time immemorial. May these legacy biodiversity data be shared in a good way with
-respect to all who hold rights and responsibilities within the region, for the benefit of present day and future generations.
+<a target="_blank" href="https://native-land.ca/maps/territories/snaw-naw-as/">snaw-naw-as</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/snuneymuxw/">snuneymuhw</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/skwxwu7mesh-uxwumixw/">skwxwu7mesh-uxwumixw</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/stolo-treaty-association/">stolo</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/sliammon/">tla'amin</a>,
+<a target="_blank" href="https://native-land.ca/maps/territories/tsawwassen-sc%C9%99wa%CE%B8en/">tsawwassen</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/tulalip/">tulalip</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/cayuse-umatilla-and-walla-walla/">umatilla</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/cayuse-umatilla-and-walla-walla/">walla walla</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/we-wai-kai/">we-wai-kai</a>, 
+<a target="_blank" href="https://native-land.ca/maps/territories/we-wai-kum/">we-wai-kum</a>, and 
+<a target="_blank" href="https://native-land.ca/maps/territories/wsanec/">W̱SÁNEĆ</a> peoples, as well as the Indigenous families who have been stewards of these lands and waters since time immemorial. May these legacy biodiversity data be shared in a good way with respect to all who hold rights and responsibilities within the region, for the benefit of present day and future generations.
 </div>
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}

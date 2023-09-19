@@ -21,9 +21,11 @@ boundary <- mx_read("spatial_data/vectors/Salish_Sea")
 
 allTerritories <- fetch_first_nations_territories()
 
+print(allTerritories, n = Inf)
+
 # Not yet found: pune’luxutth’, leey’qsun, tla'amin
 # some invalid Unicode character in wsanec slug
-toSelect <- c("quwutsun", "snuneymuxw", "stzuminus", "tsawwassen-sc%cc%93%c9%99wa%ce%b8en", "lekwungen-songhees", "lummi", "w%cc%b1sanec")
+toSelect <- c("kwantlen", "katzie", "tulalip", "samish", "scianew", "klallam", "cayuse-umatilla-and-walla-walla", "nlakapamux", "stolo-treaty-association", "halalt", "semiahmoo", "snaw-naw-as", "kwakwakawakw", "lig%ca%b7ildax%ca%b7", "we-wai-kai", "we-wai-kum", "komoks", "homalco", "sliammon", "shishalh", "skwxwu7mesh-uxwumixw","x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m", "quwutsun", "snuneymuxw", "stzuminus", "tsawwassen-sc%cc%93%c9%99wa%ce%b8en", "lekwungen-songhees", "lummi", "w%cc%b1sanec")
 
 territories <- allTerritories[allTerritories$Slug %in% toSelect, ]
 # https://github.com/r-spatial/sf/issues/406
