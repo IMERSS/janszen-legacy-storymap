@@ -4,10 +4,11 @@ library(raster)
 
 source("scripts/utils.R")
 
-nudgePoint <- function (frame, slugValue, amount) {
+nudgePoint <- function (frame, slugValue, latAmount=0, longAmount=0) {
     filtered <- frame[frame$Slug == slugValue, ];
     coords <- st_coordinates(filtered$geometry);
-    coords[, "Y"] <- coords[, "Y"] + amount
+    coords[, "X"] <- coords[, "X"] + longAmount
+    coords[, "Y"] <- coords[, "Y"] + latAmount
     frame[frame$Slug==slugValue, ]$geometry <- st_sfc(st_point(coords))
     frame
 }
@@ -21,11 +22,12 @@ boundary <- mx_read("spatial_data/vectors/Salish_Sea")
 
 allTerritories <- fetch_first_nations_territories()
 
-print(allTerritories, n = Inf)
-
 # Not yet found: pune’luxutth’, leey’qsun, tla'amin
 # some invalid Unicode character in wsanec slug
-toSelect <- c("kwantlen", "katzie", "tulalip", "samish", "scianew", "klallam", "cayuse-umatilla-and-walla-walla", "nlakapamux", "stolo-treaty-association", "halalt", "semiahmoo", "snaw-naw-as", "kwakwakawakw", "lig%ca%b7ildax%ca%b7", "we-wai-kai", "we-wai-kum", "komoks", "homalco", "sliammon", "shishalh", "skwxwu7mesh-uxwumixw","x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m", "quwutsun", "snuneymuxw", "stzuminus", "tsawwassen-sc%cc%93%c9%99wa%ce%b8en", "lekwungen-songhees", "lummi", "w%cc%b1sanec")
+toSelect <- c("kwantlen", "katzie", "tulalip", "samish", "scianew", "klallam", "cayuse-umatilla-and-walla-walla", 
+              "nlakapamux", "stolo-treaty-association", "halalt", "semiahmoo", "snaw-naw-as", "kwakwakawakw", "lig%ca%b7ildax%ca%b7", 
+              "we-wai-kai", "we-wai-kum", "komoks", "homalco", "sliammon", "shishalh", "skwxwu7mesh-uxwumixw","x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m", 
+              "quwutsun", "snuneymuxw", "stzuminus", "tsawwassen-sc%cc%93%c9%99wa%ce%b8en", "lekwungen-songhees", "lummi", "w%cc%b1sanec")
 
 territories <- allTerritories[allTerritories$Slug %in% toSelect, ]
 # https://github.com/r-spatial/sf/issues/406
@@ -34,10 +36,30 @@ st_agr(territories) = "constant"
 centres <- sf::st_centroid(territories)
 
 # Nudge some labels so they do not overlap
-centres <- nudgePoint(centres, "lummi", -0.05)
+centres <- nudgePoint(centres, "lummi", -0.08)
 centres <- nudgePoint(centres, "stzuminus", -0.05)
+centres <- nudgePoint(centres, "lig%ca%b7ildax%ca%b7", -0.1)
+centres <- nudgePoint(centres, "scianew", -0.15)
 
-bbox <- st_bbox(territories) %>% as.vector()
+centres <- nudgePoint(centres, "samish", -0.06)
+centres <- nudgePoint(centres, "komoks", -0.1)
+centres <- nudgePoint(centres, "katzie", 0.1)
+centres <- nudgePoint(centres, "semiahmoo", -0.05)
+
+centres <- nudgePoint(centres, "snaw-naw-as", -0.02)
+centres <- nudgePoint(centres, "snuneymuxw", 0.09)
+centres <- nudgePoint(centres, "stolo-treaty-association", -0.2, 1)
+
+centres <- nudgePoint(centres, "shishalh", -0.17)
+centres <- nudgePoint(centres, "skwxwu7mesh-uxwumixw", -0.1)
+
+centres <- nudgePoint(centres, "quwutsun", 0, -0.7)
+centres <- nudgePoint(centres, "kwantlen", 0.7)
+centres <- nudgePoint(centres, "lekwungen-songhees", -0.03)
+
+centres <- nudgePoint(centres, "x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m", 0.07) # Musqueam
+
+bbox <- st_bbox(boundary) %>% as.vector()
 
 # Render leaflet map
 
