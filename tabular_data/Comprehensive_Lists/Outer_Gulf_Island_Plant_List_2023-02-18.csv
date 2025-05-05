@@ -1,0 +1,913 @@
+area,Family,TaxonName,iNatTaxon,HJ_comment,FPNW_note,critical_comments,reviewed,review_status
+ogi,Alismataceae,Alisma lanceolatum,,NA,,"added by AS, based on Pender Island iNat observation; reports of Alisma gramineum may refer to A. lanceolatum (see Saanich list)","AS, AW, FL",complete
+ogi,Amaranthaceae,Amaranthus albus,Amaranthus albus,"HJ Otter Bay, N Pender 1982. Foulkes Village Bay, Mayne 1926, HJ Village Bay 1980. Records at V and CPNWH appear as both albus and blitoides. (?)",,"HJ material from Southern Gulf Islands, Amaranthus graecizans (misapplied); Specimens positively determined as A. albus by Mihai Costea, who has published extensively on Amaranthus (AS); the genus level taxonomy that Mihai provided you is current, and most of the taxa on the list do occur in the area of interest. (DG)","AS, DG, FL",complete
+ogi,Amaranthaceae,Amaranthus blitoides,Amaranthus blitoides,Miner's Bay HJ 1980 Otter Bay HJ 1982. M Foulks Mayne 1926.HJ old dump Saturna 2020.,,"Specimens positively determined as A. blitoides by Mihai Costea, who has published extensively on Amaranthus (AS); the genus level taxonomy that Mihai has provided is current, and most of the taxa on the list do occur in the area of interest. (DG)","AS, DG",complete
+ogi,Amaranthaceae,Amaranthus powellii,Amaranthus powellii,"Gardens, waste ground. All islands.",,"HJ material from Southern Gulf Islands positively determined by Mihai Costea, who has published extensively on Amaranthus (AS)","AS, DG",complete
+ogi,Amaranthaceae,Amaranthus retroflexus,Amaranthus retroflexus,"Gardens, waste ground. All islands.",,"HJ material from Southern Gulf Islands positively determined by Mihai Costea, who has published extensively on Amaranthus (AS)","AS, DG",complete
+ogi,Amaranthaceae,Atriplex dioica,Atriplex dioica,"TRA N Pender 1957, Sczcawinski S Pender 1955.",,"Harvey doesn't recognize Atriplex patula in OGI, Saanich or SSI; synonymizes A. prostrata with A. patula var. hastata (which he only recognizes in SJIs) that Harvey recognized Atriplex dioica but not A. patula in his revised flora suggests to me that he had come to recognize A. dioica as a common species to which the name Atriplex patula may have historically been misapplied? (AS); A. patula is a Eurasian weed and probably based on old taxonomy.  I would not trust it without a verifying specimen; Atriplex dioica is in for sure.  It is the common native on sea beaches in the whole range. (FL)","AS, FL",complete
+ogi,Amaranthaceae,Atriplex gmelinii,Atriplex gmelinii,Strand and mudflats. All islands. Including A. prostrata = A. patula var hastata,,"Harvey synonymizes A. gmelinii with A. patula var. obtusa or zosterifolia; the only records from south coast of BC have dated annotations (AS); Atriplex gmelinii is perhaps doubtful, it is not often found here, but certainly possible; A. prostrata is a beach plant with triangular leaves and rather frequent so should be there. (FL)","AS, FL",complete
+ogi,Amaranthaceae,Atriplex prostrata,Atriplex gmelinii,NA,,A. prostrata is a beach plant with triangular leaves and rather frequent so should be there. (FL),"AS, FL",complete
+ogi,Amaranthaceae,Chenopodium album,Chenopodium album,Gardens and waste places. All islands.,,species you show are correct and present in the area (DG); Chenopodium probstii (syn. Chenopodium album var. album?) reportedly non-established in BC; remove?,"AS, DG",in progress
+ogi,Amaranthaceae,Oxybasis rubra var. humilis,Oxybasis rubra humilis,"Salt marshes, Saturna, Tumbo, S Pender.",,Species you show are correct and present in the area (DG) ,"DG, PD",complete
+ogi,Amaranthaceae,Salicornia depressa,Salicornia depressa,"Bennett Wise Island 2001. Lamb and Gibbs Galiano location? iNaturalist report Mortimer Spit, N Pender 2017.",,Also on Prevost (HJ7 obs),"AS, DG",complete
+ogi,Amaranthaceae,Salicornia pacifica,Salicornia pacifica,"Mud flats, salt marshes and beaches. All islands.","recorded by HJ: ‘Salicornia pacifica’; “FPNW2 appears to be following FNA (2003) which reports Sarcocornia perennis (prostrate, with woody stems readily rooting in the substrate) from BC and S. pacifica (procumbent to erect shrubs in which woody stems usually do not root) to include east coast of North America (New Hampshire south to Florida) , California and Mexico, but NOT BC. http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=129207; VASCAN has updated their names to Salicornia pacifica following a more recent treatment by Piirainen et al. 2017 that proposes a new infrageneric classification for Salicornia (incl. Sarcocornia) and shows Salicornia pacifica present in BC.Salicornia perennis is excluded. http://data.canadensys.net/vascan/search?q=sarcocorniaSo, you could move ahead of the pack and call your material Salicornia pacifica Standley sensu Piirianen et al. 2017 OR you could use the synonym Sarcocornia pacifica. I’ll propose the name change (Sarcocornia pacifica to Salicornia pacifica) for fall review, but it would not show up in Species Explorer/E-Flora until next year.” –MD",=Salicornia pacifica,"AS, DG, MD ",in progress
+ogi,Amaryllidaceae,Allium acuminatum,Allium acuminatum,"Grassy, south facing bluffs. All islands.",,,AS,complete
+ogi,Amaryllidaceae,Allium amplectens,Allium amplectens,"Saturna, Samuel, Mayne, Galiano, North Pender. Grassy ledges, sometimes with vernal seepage. All known popuations consist of several hundred plants in very small area with no apparent spreading to nearby similar habitat. Several populations just above high tide line in Active Pass.",,,AS,complete
+ogi,Amaryllidaceae,Allium cernuum,Allium cernuum,"South facing bluffs, dry ridges throughout, all islands.",,,AS,complete
+ogi,Amaryllidaceae,Allium geyeri var. tenerum,Allium geyeri tenerum,"Owl Island near Prevost Island. Rock Outcrop. 8 clumps in two spots at one site only with Grindelia stricta, rocky point near saltspray zone. Sinclair, MD, FL.",,,AS,complete
+ogi,Amaryllidaceae,Allium vineale,Allium vineale,Meadows and old fields occasional escape. Mayne and Galiano.,,"Allium vineale is a rapidly spreading weed occurring in many places in the Victoria area, including parks like Uplands, Chinese Cemetery, Trafalgar, and along roads, boulevards and lawns. (MF)","MF, AS",complete
+ogi,Amaryllidaceae,Narcissus pseudonarcissus,Narcissus pseudonarcissus,Persisting from cultivation,,"Retain as adventive on separate list? Otherwise add to the list for the Saanich Peninsula, where it also known (AS); Should we also include Narcissus poeticus (Frank Lomer, Sidney BC, V253388; see also Peter Dunwiddie, Patos Island, WA), which is reported for the region? (AS)",AS,in progress
+ogi,Anacardiaceae,Toxicodendron diversilobum,Toxicodendron diversilobum,Dry woods and exposed rocky places; Galiano and Valdez. DeCourcy also.,,,"AS, AJW",complete
+ogi,Apiaceae,Angelica genuflexa,Angelica genuflexa,"HLR Bodega Ridge, Galiano 1995 ( id? Poss lucida), TRA Mayne date?location?",,review OGI records,"AS, AJW",in progress
+ogi,Apiaceae,Anthriscus caucalis,Anthriscus caucalis,"FL Prevost Island 2004, Port Browning, N Pender 2003, A&OC De Courcy 1980, Calder Virago Point, Galiano 1961, HJ Bellhouse Park, Galiano 1999. Cabbage Island Erickson-McGee iNaturalist report 2020. Widespread on small islets throughout.",,,"AS, AJW",complete
+ogi,Apiaceae,Carum carvi,Carum carvi,HJ Bedwell Harbour salt marsh and beach 1979.,,,"AS, AJW",complete
+ogi,Apiaceae,Cicuta douglasii,Cicuta douglasii,"HJ Galiano Sphagnum bog 1975, JKH N Pender 1896",,,"AS, AJW",complete
+ogi,Apiaceae,Conioselinum pacificum,Conioselinum gmelinii,"Beaches and sandy shorelines, all islands.",FPNW does not recognize C. gmelinii though these taxa are synonymized in annotations on CPNWH,"Combination C. gmelinii (Bray) Steud. of 1840 is a synonym of the Asian C. tataricum.  C. gmeliniii J.M. Coult. & Rose of 1900  is an illegitimate name because of the publication of the 1840 name.  The latter name is referential to our C. pacificum. (DG); while both Bray and Chamisso & Schlechtendal thought they were describing the same plant as Gmelin's pre-Linnaean phrase name, neither were... Bray's plant is from Latvia, C&S's is from the Bering coast of Alaska, and Gmelin's ""in omni Sibiria crescens"". (C&S's name is also illegitimate, for a separate reason than Coulter & Rose's.) Interestingly, the most recent (2003) revision of Conioselinum does (as David mentioned) dramatically expand C. tataricum from central Asia to include both Bray's and Gmelin's concept. That paper also calls our plants C. chinense, but as they really only focus on Eurasia they appear to be parroting Mathias and Constance's treatment in the vol 28 of the North American Flora (1944-1945). Cronquist's criticisms (Vasc Plants PNW vol 3, 1961) appear completely justified, and the M&C measurements appear to be based almost exclusively on Pacific material (their seed size figures exclude those for New England material given by Cronquist). The M&C treatment was prepared while Mathias was still at Berkeley with Constance, and it's entirely possible that they had insufficient material of C. chinense sensu stricto from New England. The 2003 paper does not cite Cronquist.","AS, AJW, DG",complete
+ogi,Apiaceae,Conium maculatum,Conium maculatum,"HJ Narvaez Bay driveways, Saturna 2020. Shore access, Active Pass Drive, Galiano. Shark Pl. N Pender 2020.",,,"AS, AJW",complete
+ogi,Apiaceae,Daucus carota,Daucus carota,"Roadsides, cultivated ground, meadows, all islands.",,,"AS, AJW",complete
+ogi,Apiaceae,Daucus pusillus,Daucus pusillus,"Dry, open places, grassy bluffs, all islands.",,,"AS, AJW",complete
+ogi,Apiaceae,Heracleum mantegazzianum,Heracleum mantegazzianum,"Roadside, North Pender.",,,"AS, AJW",complete
+ogi,Apiaceae,Heracleum maximum,Heracleum maximum,"HJ Winter Cove, Saturna in shoreline in Rosa nutkana thicket 1989.",,,"AS, AJW",complete
+ogi,Apiaceae,Lomatium grayi,Lomatium grayi,"HJ sea cliffs below Bodega Ridge, Galiano 1982. Now treated as Lomatium papilioniferum J.A. Alexander & W. Whaley. BC material was previously misapplied as Lomatium grayi. Lomatium grayi s.s. occurs only in SE Idaho, Colorado, Utah, Wyoming and New Mexico (Alexander et al. 2018).",,"retain as Lomatium papilioniferum (Alexander et al., 2018) ","AS, AJW",in progress
+ogi,Apiaceae,Lomatium nudicaule,Lomatium nudicaule,"Seaside meadows, grassy shorelines and banks, all islands.",,,"AS, AJW",complete
+ogi,Apiaceae,Lomatium utriculatum,Lomatium utriculatum,"Grassy bluffs, rocky meadows, all islands.",,,"AS, AJW",complete
+ogi,Apiaceae,Oenanthe sarmentosa,Oenanthe sarmentosa,"Pools and streams in shady woods, lake edges and ditches, all islands.",,,"AS, AJW",complete
+ogi,Apiaceae,Osmorhiza berteroi,Osmorhiza berteroi,"Open woodlands, trails, all islands.",,,"AS, AJW",complete
+ogi,Apiaceae,Perideridia montana,Perideridia gairdneri,"Straley Georgeson Bay Road, Galiano 1989. HJ Moss balds north slope of Mt Sutile, Galiano 2003. HJ Brown Ridge, Saturna 1986.",,,"AS, AJW",complete
+ogi,Apiaceae,Petroselinum crispum,Petroselinum crispum,"FL Sturdies Bay ferry dock, Galiano, sandstone ledges and scree above beach; growing with Tanacetum parthenium, 2014. On Lomer & Penny's non-established list.",,"on list of non-established BC plants (AS); spreading unchecked at several locations including on Trial Island – I suggest we consider it an irreversible part of the regional flora now (MF); we still have retained this on established flora, with the following description. “Occasional garden escape, only rarely persisting.” We have records from only two islands – San Juan (with several, at least one persistent) and Yellow (where it went wild for a few years nearby a garden plant but is no longer present) (PD).","AS, AJW, MF, PD",in progress
+ogi,Apiaceae,Sanicula bipinnatifida,Sanicula bipinnatifida,"HLR Dionisio Point, Galiano 1993. HJ East Point, Saturna 1994, HJ&MF Brown Ridge, Saturna 1995.",,,"AS, AJW",complete
+ogi,Apiaceae,Sanicula crassicaulis var. crassicaulis,Sanicula crassicaulis,"Dry transitional forest, rocky slopes above salt water, all islands. Vars crassicaulis and tripartata both reported for Galiano.",,,"AS, AJW, PD",complete
+ogi,Apiaceae,Sanicula crassicaulis var. tripartita,Sanicula crassicaulis,NA,,,"AS, AJW, PD",complete
+ogi,Apiaceae,Torilis arvensis,Torilis arvensis,"HJ Saturna vineyard fields, roadsides Saturna 2020. HJ Village Bay Ferry terminal, Mayne 2020. AS Galiano 2020.",,,"AS, AJW",complete
+ogi,Apiaceae,Torilis japonica,Torilis japonica,"HJ Mt Sutil grassy bluffs, Galiano 1976. HJ Saturna Brown Ridge 2003. AS Tapovan Peace Park 2016. FL Valdez Island 2008.",,,"AS, AJW",complete
+ogi,Apiaceae,Yabea microcarpa,Yabea microcarpa,"HJ Brown Ridge and Mt Fisher Saturna, Calder Mt Norman, S Pender 1961, AS Galiano 2016",,,"AS, AJW",complete
+ogi,Apocynaceae,Apocynum androsaemifolium,Apocynum androsaemifolium,"HJ Mt Fisher, Saturna 1982, Hydro Cut Montague, Galiano 1984, Heck Hill, Mayne 1982.",,,AS,complete
+ogi,Apocynaceae,Vinca major,Vinca major,"Abandoned garden persistant, Saturna, Mayne, Galiano.",,Also on north east point of Prevost Island (HJ7 obs),"AS, EM",complete
+ogi,Apocynaceae,Vinca minor,Vinca minor,"Neglected lots and roadsides; a garden escapee, Mayne, Galiano, N Pender.",,,AS,complete
+ogi,Aquifoliaceae,Ilex aquifolium,Ilex aquifolium,"Adventive in moist woods, Galiano, Mayne, Saturna, N Pender",,,AS,complete
+ogi,Araceae,Lemna minor,Lemna minor,"Quiet standing water, lakes and ponds throughout. All islands. Many reports may be in error (name misapplied to native L. minuta) Re-check.",,misapplied to L. minuta?,AS,in progress
+ogi,Araceae,Lemna minuta,Lemna minuta,HLR ER 128 Sphagnum Bog Galiano 2019,,replaces L. minuta,AS,in progress
+ogi,Araceae,Lemna trisulca,Lemna trisulca,"Quiet ponds and lake margins. Known from Saturna, Galiano and N Pender.",,,,remaining
+ogi,Araceae,Lemna turionifera,Lemna turionifera,AS Mt Sutil ravine lake Galiano 2017.,,,,remaining
+ogi,Araceae,Lysichiton americanus,Lysichiton americanus,"Fens, wet spots, drainage channels. Common Galiano and North Pender. Absent S Pender, Mayne and Saturna.",,,AS,complete
+ogi,Araceae,Spirodela polyrrhiza,Spirodela polyrhiza,"Quiet standing water, lakes and ponds. Known from Saturna, Galiano and S Pender.",,,,remaining
+ogi,Araceae,Wolffia columbiana,Wolffia columbiana,"Calm, standing water , Lakes Saturna, Galiano, North Pender. Expect all islands.",,multiple Wolffia present?,"AS, FM",in progress
+ogi,Araliaceae,Hedera helix,Hedera helix,"Escaping into lowland, mesic forest, all islands.",,,,remaining
+ogi,Araliaceae,Hydrocotyle ranunculoides,Hydrocotyle ranunculoides,"HLR report Prevost Island. CDC 2008 update: Formerly not considered part of the flora in BC, this species is now considered historic (possibly extirpated) native taxon.",,,,remaining
+ogi,Asparagaceae,Asparagus officinalis,Asparagus officinalis,"Occasionally escaping, waste ground. Collected from Mayne and Galiano.",,Also on N Pender (HJ7 obs),EM,remaining
+ogi,Asparagaceae,Brodiaea coronaria,Brodiaea coronaria,"Dry, open, grassy slopes and rocky outcrops. All islands.",,,,remaining
+ogi,Asparagaceae,Camassia leichtlinii ssp. suksdorfii,Camassia leichtlinii suksdorfii,"South facing bluffs, shelves isolated from grazing. All islands.",,,,remaining
+ogi,Asparagaceae,Camassia quamash ssp. maxima,Camassia quamash maxima,Rare on islands; occuring with C. leichtlinii.,,,,remaining
+ogi,Asparagaceae,Hyacinthoides hispanica,Hyacinthoides hispanica,"Persisting from cultivation along with H. non-scripta. Straley Sturdies Bay, Galiano 1983.",,"reports of Hyacinthoides hispanica likely refer to Hyacinthoides × massartiana; see remarks from QC: ""Commonly naturalized in the LM and is a persistent relic of cult in SGI. Both H. hispanica and H. non-scripta are cultivated in BC but I have never seen them naturalized.""; PD & AM also report Hyacinthoides × massartiana","AS, QC",in progress
+ogi,Asparagaceae,Hyacinthoides massartiana,Hyacinthoides × massartiana,"Persisting from cultivation, AS Montague Harbour, Galiano 2017.",,see Hyacinthoides hispanica,"AS, QC",in progress
+ogi,Asparagaceae,Maianthemum dilatatum,Maianthemum dilatatum,"Moist to dry open forest Mayne, Galiano and North Pender. Rare on Saturna and South Pender.",,,AS,complete
+ogi,Asparagaceae,Maianthemum racemosum ssp. amplexicaule,Maianthemum racemosum amplexicaule,"HJ Creek draining into Georgeson Bay, Galiano 1980. L Baile Mt Elizabeth Park, N Pender 2020.",,,AS,complete
+ogi,Asparagaceae,Maianthemum stellatum,Maianthemum stellatum,"Mayne. Marshy ground with aspen, Edith Point",,,AS,complete
+ogi,Asparagaceae,Muscari armeniacum,Muscari armeniacum,Magner Galiano 2015. habitat?,,,,remaining
+ogi,Asparagaceae,Ornithogalum umbellatum,Ornithogalum umbellatum,Persisting from cultivation. Galiano location?,,,,remaining
+ogi,Asparagaceae,Triteleia grandiflora,Triteleia grandiflora,Tweedale dry shoreline forest Linklater Road Galiano 2018. Possibly T. howellii? HJ,,list T. g. howellii?,AS,in progress
+ogi,Asparagaceae,Triteleia hyacinthina,Triteleia hyacinthina,"Grassy slopes on bluffs, all islands.",,,AS,complete
+ogi,Aspleniaceae,Asplenium trichomanes,Asplenium trichomanes,"Otter Bay woods below road North Pender. Ledges and cliffs Breezy Bay and west side Boot Cove, Saturna. Huggins trail off McCoskrie Road, Galiano. Several iNaturalist reports Galiano.",,,,remaining
+ogi,Asteraceae,Achillea millefolium complex,Achillea millefolium,"Roadsides, disturbed ground, all islands.",,listed as Achillea millefolium complex,AS,in progress
+ogi,Asteraceae,Adenocaulon bicolor,Adenocaulon bicolor,"Moist, shady woods, all islands.",,,AS,complete
+ogi,Asteraceae,Agoseris grandiflora var. leptophylla,Agoseris grandiflora leptophylla,"Grassy bluffs, all islands.",,,AS,complete
+ogi,Asteraceae,Agoseris heterophylla,Agoseris heterophylla,"Grassy bluffs and ridges, all islands.",,,,remaining
+ogi,Asteraceae,Ambrosia chamissonis,Ambrosia chamissonis,"Sandy beaches, shoreline dunes, all islands.",,,,remaining
+ogi,Asteraceae,Anaphalis margaritacea,Anaphalis margaritacea,"Open woods and roadsides, all islands.",,,AS,complete
+ogi,Asteraceae,Anisocarpus madioides,Anisocarpus madioides,"Dry, open Douglas-fir woodlands, all islands.",,,AS,complete
+ogi,Asteraceae,Anthemis arvensis,Anthemis arvensis,"HJ N Pender 1981, FN N Pender 2006.",,,,remaining
+ogi,Asteraceae,Anthemis cotula,Anthemis cotula,"Roadsides, waste ground, all islands.",,,,remaining
+ogi,Asteraceae,Arctium minus,Arctium minus,"Waste ground, roadside, all islands.",,,AS,complete
+ogi,Asteraceae,Artemisia absinthium,Artemisia absinthium,"TRA Mayne date? location? Cullen Mortimer Spit, S Pender iNaturalist observation 2020.",,,,remaining
+ogi,Asteraceae,Artemisia campestris var. scouleriana,Artemisia campestris pacifica,"Open, grassy shoreline cliffs, all islands.",,,AS,complete
+ogi,Asteraceae,Artemisia suksdorfii,Artemisia suksdorfii,"Bluffs and beaches, all islands.",,,AS,complete
+ogi,Asteraceae,Bellis perennis,Bellis perennis,"Lawns, meadows, pastures, waste ground, all islands.",,,AS,complete
+ogi,Asteraceae,Bidens amplissima,Bidens amplissima,"HJ Pond edge,Blackbird Hill, Scirpus wetland, Winter Cove Park, Saturna. Chatwin Spotlight Cove Galiano 2012. Chytyk same 2012. AS ER128 Galiano 2020.",,,,remaining
+ogi,Asteraceae,Bidens cernua,Bidens cernua,"AS Divina Road, Galiano 2016. AS Cook Rd Galiano 2020.",,,,remaining
+ogi,Asteraceae,Bidens frondosa,Bidens frondosa,"HJ Fen in Winter Cove, Saturna 1998.",,,,remaining
+ogi,Asteraceae,Carthamus creticus,Carthamus creticus,"Collected once in pasture, Mayne HJ. Not persisting. On Lomer & Penny's non-established list.",not in FPNW2,,,remaining
+ogi,Asteraceae,Centaurea cyanus,Centaurea cyanus,"Roadsides, and waste places;Saturna, Galiano, especially widespread N Pender",,,,remaining
+ogi,Asteraceae,Centaurea melitensis,Centaurea melitensis,"Samuel Island and Georgeson Island. Steep, grassy south-facing slopes just above salt water. HJ Tumbo Island 2007. Collection same places HLR. Also Fenneman Tumbo 2007.",,,,remaining
+ogi,Asteraceae,Centaurea nigra,Centaurea nigra,HJ Farm field North Pender 1981.,,,,remaining
+ogi,Asteraceae,Cichorium intybus,Cichorium intybus,"Roadsides, farm fields, meadows, all islands.",,,,remaining
+ogi,Asteraceae,Cirsium arvense,Cirsium arvense,"Roadsides, disturbed ground, fields, all islands.",,,,remaining
+ogi,Asteraceae,Cirsium brevistylum,Cirsium brevistylum,"Roadsides, disturbed ground, fields, all islands.",,,,remaining
+ogi,Asteraceae,Cirsium vulgare,Cirsium vulgare,"Disturbed ground, fields and roadside, all islands.",,,,remaining
+ogi,Asteraceae,Conyza canadensis,Erigeron canadensis,"Waste places and disturbed soil, farm yards, all islands.",,,,remaining
+ogi,Asteraceae,Cotula coronopifolia,Cotula coronopifolia,"TRA S Pender date? Location?, HJ Tumbo Island, Cabbage Island 1993.",,,,remaining
+ogi,Asteraceae,Crepis capillaris,Crepis capillaris,"Roadsides, waste places, all islands.",,,,remaining
+ogi,Asteraceae,Crepis nicaeensis,Crepis nicaeensis,Mayne location? Collection at CAN. Collector? Removed from BC checklist -no specimines 70+ years.,,,,remaining
+ogi,Asteraceae,Crepis vesicaria ssp. taraxacifolia,Crepis vesicaria taraxacifolia,"Eastham lists for Mayne, location? Not present GD.",,,,remaining
+ogi,Asteraceae,Crocidium multicaule,Crocidium multicaule,"JP,GD,HJ Kendrick Island 1998. HJ steep, seepy rock faces, Saturna 1974,1983. HJ Mt Sutil 1978.",,,,remaining
+ogi,Asteraceae,Doronicum pardalianches,Doronicum pardalianches,AS Montague Harbour parking lot 2017.,,,,remaining
+ogi,Asteraceae,Eriophyllum lanatum var. leucophyllum,Eriophyllum lanatum leucophyllum,"Grassy bluffs and ledges, all islands.",,,,remaining
+ogi,Asteraceae,Eutrochium maculatum var. bruneri,Eutrochium maculatum bruneri,Eastham lists in Prelim Flora of VI and QCI for Saturna. No collection vouchers known.,,,,remaining
+ogi,Asteraceae,Filago arvensis,Filago arvensis,HLR Blunden Island 2005.,,,,remaining
+ogi,Asteraceae,Filago pyramidata,Filago pyramidata,Note HJ 1974 collection in H&C2018. I generally treated Filago from islands as F. germanica = F. vulgaris,,,,remaining
+ogi,Asteraceae,Galinsoga quadriradiata,Galinsoga quadriradiata,"HJ large garden, Mayne 1994, Winery fields, Saturna 2002. AS Galiano 2018.",,,,remaining
+ogi,Asteraceae,Gamochaeta ustulata,Gamochaeta ustulata,"Roadside vernal pools, disturbed ground, all islands.",,,,remaining
+ogi,Asteraceae,Gnaphalium palustre,Gnaphalium palustre,"Roadside vernal pools, disturbed ground, all islands.",,,,remaining
+ogi,Asteraceae,Gnaphalium uliginosum,Gnaphalium uliginosum,"Roadside vernal pools, disturbed ground, all islands.",,,,remaining
+ogi,Asteraceae,Grindelia hirsutula,Grindelia hirsutula,"K&J Miskelly Galiano 2017. location? Saleh MacClure Rd, Galiano 1970.",,,,remaining
+ogi,Asteraceae,Grindelia integrifolia,Grindelia integrifolia,"Coastal bluffs, beaches, salt marshes and meadows, all islands. =G. stricta on Galiano list?",,,,remaining
+ogi,Asteraceae,Grindelia squarrosa,Grindelia squarrosa,AC re-id HJ collections A143 and 629 Mayne and Galiano as G. s.,,,,remaining
+ogi,Asteraceae,Hieracium albiflorum,Hieracium albiflorum,"Dry, open coniferous forest and margins, all islands.",,,,remaining
+ogi,Asteraceae,Hieracium aurantiacum,Pilosella aurantiaca,"Roadsides, waste ground, Saturna, Galiano. Doesn't appear to spread easily in area.",,,,remaining
+ogi,Asteraceae,Hypochaeris glabra,Hypochaeris glabra,"Roadside, disturbed and waste ground, all islands.",,,AS,complete
+ogi,Asteraceae,Hypochaeris radicata,Hypochaeris radicata,"Lawns, cultivated ground, waste ground, all islands.",,,AS,complete
+ogi,Asteraceae,Jacobaea maritima,Jacobaea maritima,"Persisting along rocky shoreline, Boot Cove, Saturna. Galiano location?",,,,remaining
+ogi,Asteraceae,Jacobaea vulgaris,Jacobaea vulgaris,"Roadside and logging roads, widespread all islands, spreading aggressivly. Cinnabar moths too.",,,,remaining
+ogi,Asteraceae,Jaumea carnosa,Jaumea carnosa,"Salt marshes and mud flats Saturna, Cabbage, Tumbo. JP N Pender 1996.",,,,remaining
+ogi,Asteraceae,Lactuca serriola,Lactuca serriola,"Roadsides, fields and waste places, all islands.",,,,remaining
+ogi,Asteraceae,Lapsana communis,Lapsana communis,"Roadside, disturbed ground, forest edges, all islands.",,,,remaining
+ogi,Asteraceae,Leontodon autumnalis,Scorzoneroides autumnalis,"RLT Helen Point, Mayne 1978. Straley Mayne 1987, TRA N Pender 1958.",,,,remaining
+ogi,Asteraceae,Leontodon saxatilis,Leontodon saxatilis,"Lawns, roadsides and waste places, all islands.",,,,remaining
+ogi,Asteraceae,Leucanthemum vulgare,Leucanthemum vulgare,"Fields, roadsides, and waste places, all islands.",,,,remaining
+ogi,Asteraceae,Luina hypoleuca,Luina hypoleuca,FL Prevost Island 2004.,,,,remaining
+ogi,Asteraceae,Madia exigua,Madia exigua,"Roadsides, grassy ridges, all islands.",,,AS,complete
+ogi,Asteraceae,Madia glomerata,Madia glomerata,"Roadsides, dry open places, all islands.",,,,remaining
+ogi,Asteraceae,Madia gracilis,Madia gracilis,"Grassy bluffs and ledges, all islands.",,,AS,complete
+ogi,Asteraceae,Madia sativa,Madia sativa,"Roadsides, all islands.",,,AS,complete
+ogi,Asteraceae,Matricaria discoidea,Matricaria discoidea,"Roadsides, disturbed ground, all islands.",,,,remaining
+ogi,Asteraceae,Mycelis muralis,Mycelis muralis,"Open, mesic forest, all islands.",,,AS,complete
+ogi,Asteraceae,Petasites frigidus var. palmatus,Petasites frigidus palmatus,Roadside and moist forest Galiano.,,,,remaining
+ogi,Asteraceae,Petasites hybridus,Petasites hybridus,"FL shoreline Greenburn Lake, S Pender 2006.",,,,remaining
+ogi,Asteraceae,Petasites japonicus,Petasites japonicus,"HJ Piggot Bay ditch, Mayne 1980. Also Indian Reserve, Galiano, Thieves Bay, N Pender.",,,,remaining
+ogi,Asteraceae,Pseudognaphalium stramineum,Pseudognaphalium stramineum,"HJ Logging road, Mt Park on Mayne 1975, Dinner Point Mayne 1980, Mt Sutil gravel pit Galiano 1981, salt marsh Parker Island 1981, Winter Cove Park roadside also East Point helicopter pad Saturna 1983. FL Ferry Terminal N Pender 2003. Bedwell Harbour shoreline, S Pender 2019.",,,,remaining
+ogi,Asteraceae,Pseudognaphalium thermale,Pseudognaphalium thermale,"Logged areas, roadsides, disturbed ground, all islands.",,,,remaining
+ogi,Asteraceae,Psilocarphus tenellus,Psilocarphus tenellus,"FL Gowland Point Rd and foot of Higgs Road, S Pender 2003, 2006. HJ old dump area Saturna 2020.",,,,remaining
+ogi,Asteraceae,Santolina chamaecyparissus,Santolina chamaecyparissus,"TRA N Pender. HJ Lighthouse Point, Prevost Island, persisting but not apparently established.",not in FPNW2,,,remaining
+ogi,Asteraceae,Senecio sylvaticus,Senecio sylvaticus,"Disturbed soil and waste places, all islands.",,,,remaining
+ogi,Asteraceae,Senecio vulgaris,Senecio vulgaris,"Roadsides, waste ground, cultivated ground, all islands",,,,remaining
+ogi,Asteraceae,Silybum marianum,Silybum marianum,"HJ Highways yard N Pender 1979. Garden Port Washington, N Pender 1981.",,,,remaining
+ogi,Asteraceae,Solidago lepida var. lepida,Solidago lepida lepida,"Grassy places and open woods, all islands. Generally rare on Gulf Islands.",,,,remaining
+ogi,Asteraceae,Soliva sessilis,Soliva sessilis,"Headley Lovers Leap view point Galiano 2019, HJ Winter Cove Park picnic area Saturna 2016. Cruickshank Portland Island 2016 Naturalist observation.",,,,remaining
+ogi,Asteraceae,Sonchus arvensis ssp. uliginosus,Sonchus arvensis uliginosus,"Landward edges of salt marshes, beach shoreline, all islands.",,,,remaining
+ogi,Asteraceae,Sonchus asper,Sonchus asper,"Disturbed ground, cultivated ground, all islands.",,,,remaining
+ogi,Asteraceae,Sonchus oleraceus,Sonchus oleraceus,"Disturbed ground, cultivated ground, all islands.",,,,remaining
+ogi,Asteraceae,Symphyotrichum chilense,Symphyotrichum chilense,"AW Galiano 1975, HJ DL3 Galiano 1982. BT (?name) Porlier Pass Road, Galiano 1966. S. chilensis x subspicatum reported for Galiano, documentation?",,,,remaining
+ogi,Asteraceae,Symphyotrichum novi-belgii var. novi-belgii,Symphyotrichum novi-belgii novi-belgii,"AS Lion's park, Galiano 2016. established? On Lomer & Penny's non-established list. Established garden escape in Metro Vancouver (including various cultivars or derivatives). Most weedy plants encountered in SW BC that look like S. chilense or S. subspicatum, or S. douglasii are this species (J. Fenneman, pers. comm. 2017).",not in FPNW2,,,remaining
+ogi,Asteraceae,Symphyotrichum subspicatum,Symphyotrichum subspicatum,All specimines need re-examination.,,,,remaining
+ogi,Asteraceae,Tanacetum parthenium,Tanacetum parthenium,"FL Galiano, HJ N Pender. Escaping in waste areas; HJ Otter Bay Ferry Landing, waste areas Magic Lake and Neptune Estates 1975. FL notes growing on sandstone ledges above shore at Sturdies Bay ferry terminal.",,,AS,complete
+ogi,Asteraceae,Tanacetum vulgare,Tanacetum vulgare,"Roadside and waste places, Saturna, Galiano.",,,AS,complete
+ogi,Asteraceae,Taraxacum erythrospermum,Taraxacum erythrospermum,"Lawns, roadsides, waste areas, grassy bluffs, all islands.",,Taraxacum needs attention; but probably beyond scope of this project,AS,in progress
+ogi,Asteraceae,Taraxacum officinale,Taraxacum officinale,"Lawns cultivated ground and disturbed places, all islands.",,Taraxacum needs attention; but probably beyond scope of this project,AS,in progress
+ogi,Asteraceae,Tragopogon porrifolius,Tragopogon porrifolius,"Roadside, fields, all islands.",,,,remaining
+ogi,Asteraceae,Tragopogon pratensis,Tragopogon pratensis,"HJ Roadside and fields, Saturna 1976.",,,,remaining
+ogi,Asteraceae,Tripleurospermum inodorum,Tripleurospermum inodorum,"HJ vacant lot Magic Lake, N Pender 1981.",,,,remaining
+ogi,Asteraceae,Tussilago farfara,Tussilago farfara,Robinson inland cliffs North Galiano 2019. Not on later lists? Photo on inaturalist looks convincing.,,no longer on iNat; must have been reidentified...?; remove AS,AS,in progress
+ogi,Asteraceae,Uropappus lindleyi,Uropappus lindleyi,"Steep, rocky slopes, Saturna, Galiano, N Pender.",,,AS,complete
+ogi,Athyriaceae,Athyrium filix-femina ssp. cyclosorum,Athyrium filix-femina cyclosorum,"Common throughout in moist forest, wetland edges, seepy spots.",,,AS,complete
+ogi,Balsaminaceae,Impatiens capensis,Impatiens capensis,"Rocky shoreline and beach Winter Cove, Saturna HJ 1994. Zika Galiano 2004. iNaturalist report Morning Beach, Galiano 2020.",,,,remaining
+ogi,Balsaminaceae,Impatiens glandulifera,Impatiens glandulifera,"Zika 50 m from trailhead on Grace Trail, west of Georgeson Bay Road, northeast slope of Mount Galiano, southeast end of Galiano.",,,,remaining
+ogi,Berberidaceae,Achlys triphylla,Achlys triphylla,"Shady, moist woods, occasionally in open, moist places and along streams. Forming dense stands under Alder regen. All islands.",,,AS,complete
+ogi,Berberidaceae,Berberis aquifolium,Berberis aquifolium,"Woods, thickets, and open exposed slopes, all islands.",,,AS,complete
+ogi,Berberidaceae,Berberis nervosa,Berberis nervosa,"Dry, open woods, all islands.",,,AS,complete
+ogi,Betulaceae,Alnus rubra,Alnus rubra,"Lowland early second growth, forest edges. All islands",,,AS,complete
+ogi,Betulaceae,Betula papyrifera,Betula papyrifera,Rare on islands. Galiano. Single occurance Samuel Island.,,review,AS,in progress
+ogi,Betulaceae,Corylus cornuta ssp. californica,Corylus cornuta californica,"TRA Gallager Bay Rd, Mayne.Check id of HJ collection same place.",,,AS,complete
+ogi,Blechnaceae,Struthiopteris spicant,Struthiopteris spicant,"All islands, common in mesic to subhygric forest, usually with North exposure.",,,,remaining
+ogi,Boraginaceae,Amsinckia intermedia,Amsinckia menziesii intermedia,"HJ Dinner Point, Mayne 1980. HJ Saturna 1975.",,,,remaining
+ogi,Boraginaceae,Amsinckia lycopsoides,Amsinckia lycopsoides,Macoun Mayne 1913.,,,,remaining
+ogi,Boraginaceae,Amsinckia menziesii,Amsinckia menziesii,"Dry, open places, rocky islets, all islands.",,,AS,complete
+ogi,Boraginaceae,Amsinckia retrorsa,Amsinckia menziesii menziesii,"HJ Oaks Bluff, N Pender 1979, HJ Bellhouse Point 1984. According to Matt Guillams from Santa Barbara Botanic Garden who is reviewing the UBC specimens, we have only A. menziesii in BC with no good specimens of A. retrorsa.",,removed from the BC Flora FL; remove from list,FL,in progress
+ogi,Boraginaceae,Amsinckia spectabilis,Amsinckia spectabilis,HJ Cabbage Island. 1995.,,,,remaining
+ogi,Boraginaceae,Borago officinalis,Borago officinalis,"AS Cable Bay Farm, Galiano 2018. Persisting in old gardens and flower beds Saturna.",,,,remaining
+ogi,Boraginaceae,Cynoglossum officinale,Cynoglossum officinale,"AS Mt Heck,Mayne 2020.",,,,remaining
+ogi,Boraginaceae,Echium vulgare,Echium vulgare,"Clement roadside Sturdies Bay, Galiano 1978. AW same location?, Galiano 1975. HJ Primal Point, Galiano 1975.",,,,remaining
+ogi,Boraginaceae,Myosotis arvensis,Myosotis arvensis,"Macoun Mayne 1914, roadsides and waste areas, Mayne, Galiano, N Pender.",,,AS,complete
+ogi,Boraginaceae,Myosotis discolor,Myosotis discolor,"Grassy bluffs, rocky meadows and disturbed open places, all islands.",,,AS,complete
+ogi,Boraginaceae,Myosotis laxa,Myosotis laxa,"Moist soils, fen edges and shallow water, all islands.",,,AS,complete
+ogi,Boraginaceae,Myosotis micrantha,Myosotis stricta,"A&OC Tumbo Island 1976, FL Oaks Bluff, N Pender 2006.",,,,remaining
+ogi,Boraginaceae,Myosotis scorpioides,Myosotis scorpioides,"HJ wet farm fields, Galiano 1975",,,AS,complete
+ogi,Boraginaceae,Myosotis sylvatica,Myosotis sylvatica,AW collection Georgeson Bay Road not found at V. re-identified?,,,,remaining
+ogi,Boraginaceae,Nemophila parviflora var. parviflora,Nemophila parviflora parviflora,"Moist open forest and edges, all islands.",,,AS,complete
+ogi,Boraginaceae,Nemophila pedunculata,Nemophila pedunculata,"Grassy ridges and bluffs, Saturna, Galiano",,,AS,complete
+ogi,Boraginaceae,Phacelia linearis,Phacelia linearis,"Grassy bluffs, Saturna, Mayne, Galiano.",,,,remaining
+ogi,Boraginaceae,Plagiobothrys scouleri,Plagiobothrys scouleri,"Vernal seeps Saturna, Mayne",,,AS,complete
+ogi,Boraginaceae,Plagiobothrys tenellus,Plagiobothrys tenellus,"Grassy bluffs, all islands.",,,AS,complete
+ogi,Boraginaceae,Symphytum asperum,Symphytum asperum,"FL edge of cleared lot Otter Bay, N Pender 2006.",,,,remaining
+ogi,Boraginaceae,Symphytum officinale,Symphytum officinale,"Adventive or escaped along roadsides and waste places Saturna, Mayne, Galiano, N Pender.",,,,remaining
+ogi,Boraginaceae,Symphytum uplandicum,Symphytum × uplandicum,Galiano details? Commonly grown as a permaculture plant in the SGI (usually as the Bocking selections) and may escape and persist; spreads by root fragments; probably retain.,,,,remaining
+ogi,Brassicaceae,Arabidopsis thaliana,Arabidopsis thaliana,"Waste ground, gardens, Mayne, Saturna, N Pender",,,AS,complete
+ogi,Brassicaceae,Arabis eschscholtziana,Arabis eschscholtziana,"Grassy bluffs and ledges. HJ Taylor Point, Monarch Head, Saturna. HJ Mt Galiano 1981, Mt Sutil. HJ Helen Point, Mayne. HJ N Pender 1980. HJ Prevost Island 1981.",,,AS,complete
+ogi,Brassicaceae,Athysanus pusillus,Athysanus pusillus,Grassy bluffs. All islands.,,,AS,complete
+ogi,Brassicaceae,Barbarea orthoceras,Barbarea orthoceras,"Roadsides, wet ditches, cultivated ground all islands. HJ Cain Peninsula, Galiano 1981.",,,,remaining
+ogi,Brassicaceae,Barbarea verna,Barbarea verna,"AS Mayne, Galiano 2016.",,,,remaining
+ogi,Brassicaceae,Barbarea vulgaris,Barbarea vulgaris,"Wet places, Mayne, Galiano",,,,remaining
+ogi,Brassicaceae,Brassica juncea,Brassica juncea,RLT Chads Island 1978.,,,,remaining
+ogi,Brassicaceae,Brassica rapa,Brassica rapa,"Waste ground, cultivated ground, all islands. TRA Portland Island.",,,,remaining
+ogi,Brassicaceae,Cakile edentula,Cakile edentula,"Beaches. TRA Brackman Island, HJ All islands.",,,,remaining
+ogi,Brassicaceae,Cakile maritima,Cakile maritima,"Beach HJ Fiddlers Cove, Saturna 1993. Galiano location?",,,,remaining
+ogi,Brassicaceae,Capsella bursa-pastoris,Capsella bursa-pastoris,"Roadsides, cultivated ground, all islands.",,,AS,complete
+ogi,Brassicaceae,Cardamine flexuosa,Cardamine flexuosa,"Galiano location? AC N Pender 2001. FL Bluffs Park, Galiano 2003.",,,AS,complete
+ogi,Brassicaceae,Cardamine hirsuta,Cardamine hirsuta,"AS many sites Galiano 2015, Tessa Wissink S Pender 2020.",,,AS,complete
+ogi,Brassicaceae,Cardamine nuttallii,Cardamine nuttallii,"Grassy ridges Saturna, Galiano",,,AS,complete
+ogi,Brassicaceae,Cardamine occidentalis,Cardamine occidentalis,"HJ Magic Lake and Browning, N Pender 1983. HJ ER15, Saturna 1985.",,,,remaining
+ogi,Brassicaceae,Cardamine oligosperma,Cardamine oligosperma,"Cultivated ground, waste ground, all islands.",,,AS,complete
+ogi,Brassicaceae,Cardamine pensylvanica,Cardamine pensylvanica,"Wet to swampy ground, creeks. Saturna, Mayne, Galiano.",,Also found on Prevost (HJ7 observation),"AS, EM",in progress
+ogi,Brassicaceae,Descurainia pinnata ssp. brachycarpa,Descurainia pinnata brachycarpa,HJ Cabbage Island beach 1996.,,,,remaining
+ogi,Brassicaceae,Draba nemorosa,Draba nemorosa,W.A. Newcombe 1930 two collections Galiano. Not recently located.,,"There were no RBCM specimens of Draba nemorosa from Galiano at RBCM. W.A. Newcombe collected Arabis eschscholtziana from Galiano on April 14, 1930. Perhaps this was a transcription error. FL; this likely reflects an error in the georeferencing of the specimen (V8914), which may have showed up for Galiano Island when we queried GBIF using a polygon; remove record","FL March 30, 2022; AS",in progress
+ogi,Brassicaceae,Draba verna,Draba verna,"Dry waste ground, roadsides, all islands",,,,remaining
+ogi,Brassicaceae,Erysimum cheiranthoides,Erysimum cheiranthoides,"Occasional escape gardens, ditchs and fields, Saturna, Galiano, N Pender.",,,,remaining
+ogi,Brassicaceae,Erysimum cheiri,Erysimum cheiri,"Galiano location? FL Seaside sandstone rocks 60m north of boat dock, just above high tide spray zone, Port Washington N Pender 2006.",,,,remaining
+ogi,Brassicaceae,Hesperis matronalis,Hesperis matronalis,"HJ Georgeson Bay, Galiano 1996, HJ N Pender 1993",,,,remaining
+ogi,Brassicaceae,Hornungia procumbens,Hornungia procumbens,"A&OC,RTO location witheld Gulf Islands 1982.",,,,remaining
+ogi,Brassicaceae,Idahoa scapigera,Idahoa scapigera,"HJ Grassy bluffs Saturna, Galiano",,,AS,complete
+ogi,Brassicaceae,Lepidium campestre,Lepidium campestre,"Roadsides and waste areas. Saturna, Galiano.",,,,remaining
+ogi,Brassicaceae,Lepidium densiflorum,Lepidium densiflorum,"Grassy bluff above Saturna Beach, Saturna HJ 1973, JP Heck Hill, Mayne 1996, JP Oaks Bluff, N Pender 1996.",s. lat.,,,remaining
+ogi,Brassicaceae,Lepidium didymum,Lepidium didymum,"HJ Disturbed ground, East Point Road, Saturna 2009.",,,,remaining
+ogi,Brassicaceae,Lepidium heterophyllum,Lepidium heterophyllum,"Huggins Porlier Pass Rd, Galiano iNaturalist observation 2020.",,,,remaining
+ogi,Brassicaceae,Lepidium ramosissimum,Lepidium ramosissimum,WAN Galiano location? WAN Java Islets 1934.,,,,remaining
+ogi,Brassicaceae,Lepidium strictum,Lepidium strictum,JKH lists for Gulf Islands. No vouchers found.,,,,remaining
+ogi,Brassicaceae,Lepidium virginicum,Lepidium virginicum,"Grassy bluffs, dry sandy ground, all islands. Var. menziesii (DC.) Thell.",,,,remaining
+ogi,Brassicaceae,Lunaria annua,Lunaria annua,"Heffley Penfold Rd, Galiano 2019. Marginally escaping Saturna.",,,,remaining
+ogi,Brassicaceae,Nasturtium microphyllum,Nasturtium microphyllum,"HJ Montague Harbour, Galiano 1979.",,,,remaining
+ogi,Brassicaceae,Nasturtium officinale,Nasturtium officinale,"Ditches and ponds, all islands.",,,,remaining
+ogi,Brassicaceae,Neslia paniculata,Neslia paniculata,"Gardens, waste ground Saturna, Mayne.",,,,remaining
+ogi,Brassicaceae,Raphanus raphanistrum,Raphanus raphanistrum,"Meadows and waste ground, Saturna, N Pender, Galiano.",,,,remaining
+ogi,Brassicaceae,Raphanus sativus,Raphanus sativus,"Disturbed ground, gardens, Saturna, Mayne, Galiano.",,,,remaining
+ogi,Brassicaceae,Rorippa curvisiliqua,Rorippa curvisiliqua,"Roadsides and fields, Saturna, N Pender.",,,,remaining
+ogi,Brassicaceae,Rorippa palustris,Rorippa palustris,"Farm ditches and wet fields, Galiano HJ 1982.",,,,remaining
+ogi,Brassicaceae,Sinapis arvensis,Sinapis arvensis,"HJ Browning Harbour, N Pender roadside 1980. Galiano location?",,,,remaining
+ogi,Brassicaceae,Sisymbrium altissimum,Sisymbrium altissimum,"Roadsides, waste ground, all islands.",,,,remaining
+ogi,Brassicaceae,Sisymbrium officinale,Sisymbrium officinale,"Agricultural weed throughout, all islands.",,,,remaining
+ogi,Brassicaceae,Teesdalia nudicaulis,Teesdalia nudicaulis,"Roadsides, parking areas, especially view areas, sandy ground, Saturna, N Pender, Galiano",,,AS,complete
+ogi,Brassicaceae,Thlaspi arvense,Thlaspi arvense,"Gardens, farm yards, especially where hay is fed, Saturna, N Pender, S Pender.",,,AS,complete
+ogi,Brassicaceae,Thysanocarpus curvipes,Thysanocarpus curvipes,"Grassy bluffs and ledges, all islands.",,,AS,complete
+ogi,Brassicaceae,Turritis glabra,Turritis glabra,"Grassy bluffs and ledges, all islands.",,,AS,complete
+ogi,Cactaceae,Opuntia fragilis,Opuntia fragilis,"Grassy bluffs and ledges, rocky islets; all islands.",,,,remaining
+ogi,Campanulaceae,Campanula medium,Campanula medium,"C. medium L., persicifolia L., and rapunculoides L., glomerata L. persisting and marginally escaped and naturalized from area.",,,,remaining
+ogi,Campanulaceae,Campanula rotundifolia,Campanula rotundifolia,"HJ Galiano Cemetary 1975, roadside Mayne 1975 rare.",,Campanula persicifolia apparently also occurs in these environs and may be conflated; check,AS,in progress
+ogi,Campanulaceae,Campanula scouleri,Campanula scouleri,"Open forest, ridgelines, all islands.",,,AS,complete
+ogi,Campanulaceae,Triodanis perfoliata,Triodanis perfoliata,"Open, grassy bluffs and ledges, all islands.",,,,remaining
+ogi,Cannabaceae,Humulus lupulus var. lupulus,Humulus lupulus lupulus,"Valley Rd, Galiano iNaturalist report 2019.",,,,remaining
+ogi,Caprifoliaceae,Centranthus ruber,Centranthus ruber,"Shoreline rock around Saturna Point. Ganner Drive, Galiano 2019.",,,,remaining
+ogi,Caprifoliaceae,Dipsacus fullonum,Dipsacus fullonum,"Marginally escaping Galiano, Saturna.",,,,remaining
+ogi,Caprifoliaceae,Linnaea borealis ssp. longiflora,Linnaea borealis longiflora,"Open, mesic forest, all islands.",,,,remaining
+ogi,Caprifoliaceae,Lonicera ciliosa,Lonicera ciliosa,"Open, mesic forest, all islands.",,,AS,complete
+ogi,Caprifoliaceae,Lonicera hispidula,Lonicera hispidula,"Mesic forest, all islands.",,,AS,complete
+ogi,Caprifoliaceae,Lonicera involucrata var. involucrata,Lonicera involucrata involucrata,Rare on outer islands; known from brackish low ground on Cabbage island. FL Prevost 2004.,,,AS,complete
+ogi,Caprifoliaceae,Plectritis brachystemon,Plectritis congesta brachystemon,Galiano location? A Hill collections Mayne and Curlew 1899.,,,,remaining
+ogi,Caprifoliaceae,Plectritis congesta,Plectritis congesta,"Rocky shorelines and cliffs, grassy bluffs, all islands.",,,"AS, FM",complete
+ogi,Caprifoliaceae,Plectritis macrocera,Plectritis macrocera,"HJ Bodega Ridge, Galiano 2004",,Plectritis macrocera mireported from Bodega Ridge (=B.brachystemon),"AS, FM",in progress
+ogi,Caprifoliaceae,Symphoricarpos albus,Symphoricarpos albus,"Open ground, woods, and thickets, all islands.",,,,remaining
+ogi,Caprifoliaceae,Symphoricarpos mollis var. hesperius,Symphoricarpos mollis hesperius,"Moist mixed forest edge and adjacent gravelly slopes, Saturna, Mayne, Galiano",,,,remaining
+ogi,Caprifoliaceae,Valerianella locusta,Valerianella locusta,FL Prevost Island 2004. Portland Island iNaturalist observation 2021.,,,,remaining
+ogi,Caryophyllaceae,Arenaria serpyllifolia,Arenaria serpyllifolia,"Dry, open bluffs, dry slopes, all islands.",,,,remaining
+ogi,Caryophyllaceae,Cerastium arvense ssp. strictum,Cerastium arvense strictum,Grassy bluffs; rocky hillsides and dry to moist grassland; common throughout. All islands.,,,,remaining
+ogi,Caryophyllaceae,Cerastium brachypodum,Cerastium brachypodum,"HJ East Point, Saturna 1996 On erroded earth just above rocky seashore recently colonized by adventives; no direct associates but near Sagina decumbens, Plantago elongata & Myosurus minimus.",,,,remaining
+ogi,Caryophyllaceae,Cerastium fontanum ssp. vulgare,Cerastium holosteoides,Lawns and gardens; weedy and common throughout. All islands.,,,,remaining
+ogi,Caryophyllaceae,Cerastium glomeratum,Cerastium glomeratum,"Disturbed ground, fields and waste places throughout. All islands.",,,,remaining
+ogi,Caryophyllaceae,Cerastium pumilum,Cerastium pumilum,"FL East Point, Saturna, Tumbo 1999 and S Pender 2003. FL Prevost Island 2004.",,,,remaining
+ogi,Caryophyllaceae,Cerastium semidecandrum,Cerastium semidecandrum,"FL East Point, Brown Ridge, Saturna 1999. RTO Oak Bluffs N Pender 1983.",,,,remaining
+ogi,Caryophyllaceae,Dianthus armeria,Dianthus armeria,"Frequently escaping., dry fields, grassy bluffs. Saturna, Mayne, Galiano.",,,,remaining
+ogi,Caryophyllaceae,Honckenya peploides ssp. major,Honckenya peploides major,HJ Tumbo Island 2007. With Salicornia on mud flats.,,,,remaining
+ogi,Caryophyllaceae,Lychnis coronaria,Silene coronaria,"Roadsides and waste ground, spreading agressivly into native bluff grasslands. All islands.",,,AS,complete
+ogi,Caryophyllaceae,Moehringia macrophylla,Moehringia macrophylla,"Shaded to open woods and rocky slopes, all islands.",,,,remaining
+ogi,Caryophyllaceae,Moenchia erecta,Moenchia erecta,"AS Lions Field, Galiano (iNaturalist obs.)",,,,remaining
+ogi,Caryophyllaceae,Sabulina macra,Sabulina macra,"TRA S Pender 1959. HJ Brown Ridge, Saturna 1976. A&OC Gooch Island 1982.",,,,remaining
+ogi,Caryophyllaceae,Sagina apetala,Sagina apetala,"FL 2003 Otter Bay Marina, Port Browning N&S Pender, Bluffs Park, Galiano",,,,remaining
+ogi,Caryophyllaceae,Sagina decumbens ssp. occidentalis,Sagina decumbens occidentalis,"Straley Bellhouse Park 1988. FL Tumbo 1999.TRA Gowland Point, S Pender 1957.",,,,remaining
+ogi,Caryophyllaceae,Sagina maxima ssp. crassicaulis,Sagina maxima crassicaulis,"HJ Saturna 1998. FL Montague, Galiano 2014. FL & HLR S Pender. Macoun Mayne 1914.",,,,remaining
+ogi,Caryophyllaceae,Sagina procumbens,Sagina procumbens,"Wet, grassy spots Saturna, Mayne, Galiano, S Pender",,,,remaining
+ogi,Caryophyllaceae,Scleranthus annuus,Scleranthus annuus,"HJ 2013-2020 Picnic area Winter Cove Park,Saturna. Galiano location? Collector?",,,,remaining
+ogi,Caryophyllaceae,Silene antirrhina,Silene antirrhina,"Grassy bluffs, all islands. Macoun Mayne 1914.",,,,remaining
+ogi,Caryophyllaceae,Silene gallica,Silene gallica,"Grassy bluffs, occasionaly cultivated ground. Saturna, Mayne, N Pender.",,,,remaining
+ogi,Caryophyllaceae,Silene latifolia,Silene latifolia,"Roadsides and waste ground. Saturna, Mayne, Galiano.",,,,remaining
+ogi,Caryophyllaceae,Silene noctiflora,Silene noctiflora,Disturbed ground Otter Bay Ferry Landing HJ 1999.,,,,remaining
+ogi,Caryophyllaceae,Silene vulgaris,Silene vulgaris,HJ roadside Montague Harbour 1975.,,,,remaining
+ogi,Caryophyllaceae,Spergula arvensis,Spergula arvensis,"Cultivated land, gardens, waste ground. All islands.",,,,remaining
+ogi,Caryophyllaceae,Spergularia canadensis var. occidentalis,Spergularia canadensis occidentalis,"Tidal mud flats, all islands.",,,,remaining
+ogi,Caryophyllaceae,Spergularia macrotheca,Spergularia macrotheca,"Mud flats and salt marshes, Mayne, Galiano, S Pender.",,,,remaining
+ogi,Caryophyllaceae,Spergularia rubra,Spergularia rubra,"Roadside and waste ground, all islands.",,,,remaining
+ogi,Caryophyllaceae,Spergularia salina,Spergularia marina,"Mud flats and salt marshes,",,,,remaining
+ogi,Caryophyllaceae,Stellaria borealis ssp. sitchana,Stellaria borealis sitchana,"Edges of fens, lakes and other wetlands. All Islands.",,,,remaining
+ogi,Caryophyllaceae,Stellaria crispa,Stellaria crispa,"Deep, moist woods and stream banks. All islands.",,,,remaining
+ogi,Caryophyllaceae,Stellaria graminea,Stellaria graminea,"AS Millard Learning Centre, Galiano 2016.",,,,remaining
+ogi,Caryophyllaceae,Stellaria longipes,Stellaria longipes,"Questionable collection Lyall Harbour, Saturna 1975.",,,,remaining
+ogi,Caryophyllaceae,Stellaria media,Stellaria media,"Disturbed moist ground, all islands.",,,,remaining
+ogi,Caryophyllaceae,Stellaria nitens,Stellaria nitens,Grassy bluffs and gravelly soil; all islands.,,,,remaining
+ogi,Celastraceae,Paxistima myrsinites,Paxistima myrsinites,"Rocky ledges in forest, all islands.",,,,remaining
+ogi,Ceratophyllaceae,Ceratophyllum demersum,Ceratophyllum demersum,"TRA Greenburn Lake, S Pender.",,,,remaining
+ogi,Ceratophyllaceae,Ceratophyllum echinatum,Ceratophyllum echinatum,"HJ Greenburn Lake, S Pender 1975. HJ Missing Link Fen, Saturna 1996. Sphagnum Bog, Galiano HJ & JP 1996",,,,remaining
+ogi,Convolvulaceae,Calystegia sepium,Calystegia sepium,"Moist soils, along roads, ditches, hedgerows and waste places, all islands.",,,,remaining
+ogi,Convolvulaceae,Calystegia silvatica,Calystegia silvatica,Wright Galiano 2017; location?,,,,remaining
+ogi,Convolvulaceae,Convolvulus arvensis,Convolvulus arvensis,"Fields and disturbed ground, all islands.",,,,remaining
+ogi,Convolvulaceae,Cuscuta epithymum,Cuscuta epithymum,"Mayne, Eastham lists in Prelim Flora of VI and QCI. collection date? location?",,,,remaining
+ogi,Convolvulaceae,Cuscuta pacifica var. pacifica,Cuscuta pacifica pacifica,"On Salicornia in salt marshes, all islands.",,,,remaining
+ogi,Cornaceae,Cornus nuttallii,Cornus nuttallii,"Mesic forest; common on Galiano becoming very rare at southeast end of chain, Saturna and South Pender.",,,AS,complete
+ogi,Cornaceae,Cornus stolonifera,Cornus sericea,"Moist places along streams, lakes and boggy areas, never common on outer Gulf Islands.",,,AS,complete
+ogi,Crassulaceae,Crassula connata,Crassula connata,"Grassy bluffs and ledges, East Point, Potatoe Hill and Brown Ridge, Saturna. Oaks Bluff, N Pender.Bellhouse Point, Galiano. NW cliffs, Valdez.",,,,remaining
+ogi,Crassulaceae,Sedum acre,Sedum acre,"Esacping and marginally persisting, Galiano, Mayne, N Pender.",,,,remaining
+ogi,Crassulaceae,Sedum album,Sedum album,"Rocky slopes above sea, N Pender, Galiano.",,Also on north east point of Prevost (HJ7 obs),EM,in progress
+ogi,Crassulaceae,Sedum forsterianum,Petrosedum forsterianum,AS Galiano DL57 and Sphagnum bog ER128.,,,,remaining
+ogi,Crassulaceae,Sedum lanceolatum,Sedum lanceolatum,Grassy buff ledges. All islands,recorded by HJ: Sedum lanceolatum var. nesioticum; Sedum lanceolatum var. nesioticum not recognized in FPNW2,,,remaining
+ogi,Crassulaceae,Sedum spathulifolium,Sedum spathulifolium,"Coastal cliffs, ledges, and rocky outcrops; common throughout, all islands.",,,,remaining
+ogi,Crassulaceae,Sedum stenopetalum,Sedum stenopetalum,Hill Mayne 1895 location?,,,,remaining
+ogi,Cucurbitaceae,Marah oreganus,Marah oregana,"TRA S Pender, HJ site relocated 1996 - owners report plant disappeared. HJ&JP shoreline below Jan Kirkby home N Pender 1996.",,,,remaining
+ogi,Cupressaceae,Juniperus communis var. kelleyi,Juniperus communis kelleyi,"This is present at St. John Point on Mayne Island, on the tip of the southeast-facing peninsula, along with Juniperus maritima (scopulorum) AS.",,,,remaining
+ogi,Cupressaceae,Juniperus scopulorum,Juniperus scopulorum,"Rocky points, low, open south shorelines. Occasionaly in upland forest close to sea. Some Galiano reports as J. maritima. iNaturalist reports N Pender, Saturna, Galiano, Mayne as J. maritima.",,"""Genetically this is J. maritima, but you follow the Flora of the PNW (2nd Ed.) so this is fine with the note they are the same thing."" FL E-Flora BC and other PNW collections are using J. maritima",FL,in progress
+ogi,Cupressaceae,Thuja plicata,Thuja plicata,"Moist bottom lands to rarely dry, exposed ridges; common throughout. All islands.",,,AS,complete
+ogi,Cyperaceae,Bolboschoenus maritimus ssp. paludosus,Bolboschoenus maritimus paludosus,"Fens with salt water intrusion in Winter Cove area, Cabbage Island. All islands.",,,,remaining
+ogi,Cyperaceae,Carex aquatilis var. dives,Carex aquatilis dives,"AS Bog in DL66 also farm fields SE of there, Galiano. (Comp C. pellita?) AS Mayne 2019 location?",,,,remaining
+ogi,Cyperaceae,Carex arcta,Carex arcta,"Sedge fens and bogs throughout, all islands",,,,remaining
+ogi,Cyperaceae,Carex aurea,Carex aurea,"Wet, grassy places, meadows. Mayne, Galiano, North and South Pender.",,,,remaining
+ogi,Cyperaceae,Carex canescens ssp. canescens,Carex canescens canescens,"Lake shores and floating vegetation mats. Saturna, Galiano, South Pender.",,,,remaining
+ogi,Cyperaceae,Carex crawfordii,Carex crawfordii,FL Prevost 2006. HJ Mayne 1979.,,,,remaining
+ogi,Cyperaceae,Carex cusickii,Carex cusickii,"Wet meadows and fens Saturna, North and South Pender, Mayne. HJ DL84, Galiano 1981. ER 128 Sphagnum bog, Galiano.",,,,remaining
+ogi,Cyperaceae,Carex deweyana,Carex deweyana,"Common moist woodland, all islands. =Carex leptopoda? See Wilson et al. (2008)",,,,remaining
+ogi,Cyperaceae,Carex diandra,Carex diandra,"AS ER 128 Sphagnum Bog, Galiano 2017.",,"""I would delete these until confirmed. They are all doubtful to me: Carex diandra"" FL ""Definitely not Saanich, will get Andrew to review the Galiano record. Could be C. cusickii."" HJ "" –""this report is based on an observation of an immature specimen from the Galiano bog. Judith Holm may have also collected material. Barbara Wilson has commented that it is plausible yet immature. I would be comfortable removing this record until the species can be confirmed."" AS","HJ, FL, AS",in progress
+ogi,Cyperaceae,Carex echinata,Carex echinata,"Sedge fens Saturna, Galiano ssp echinata and phyllomanica both present.",,,,remaining
+ogi,Cyperaceae,Carex exsiccata,Carex exsiccata,"Fens and lake margins throughout, all islands AC Portland Island 1972. TCB Samuel Island 1975.",,"""C. vesicaria not = C. exsiccata – edited to exsiccata relatively widespread, C. vesicaria relatively less common."" HJ",HJ,in progress
+ogi,Cyperaceae,Carex feta,Carex feta,"Wilber's Bog, Mayne Island. poss re-id C. crawfordii.?",,,,remaining
+ogi,Cyperaceae,Carex flava,Carex flava,"Farm fields, district lot 51, Galiano",,,,remaining
+ogi,Cyperaceae,Carex hassei,Carex hassei,FL N Pender roadside ditch 2006,,,,remaining
+ogi,Cyperaceae,Carex hendersonii,Carex hendersonii,"Moist Alder-Sword Fern woodlands, all islands.",,,,remaining
+ogi,Cyperaceae,Carex inops ssp. inops,Carex inops inops,"Open, south facing bluffs, grassy slopes, all islands.",,,,remaining
+ogi,Cyperaceae,Carex kelloggii var. impressa,Carex kelloggii impressa,"Wet meadows and bogs, all islands.",,,,remaining
+ogi,Cyperaceae,Carex kelloggii var. limnophila,Carex kelloggii limnophila,"Sedge fens, all islands.",,,,remaining
+ogi,Cyperaceae,Carex leporina,Carex leporina,"Moist meadows and fields, all islands; HLR reported as C. tracyi; Retreat Cove; Shore drainage, swampy area with Juncus, grasses, Veronica, Ranuculus, open, flat. HJ DL51 fields Galiano 1979. S. Pender Calder & Mackay 1961, J. Macoun 1914 location? HJ & JP Wilber's Bog, Mayne 1996. C. tracyi not recognized by H&C2018.",,,,remaining
+ogi,Cyperaceae,Carex leptalea,Carex leptalea,"Sphagnum bogs, Galiano HJ 1979.",,,,remaining
+ogi,Cyperaceae,Carex leptopoda,Carex leptopoda,"AS Dinner Point, Mayne 2019.",,,,remaining
+ogi,Cyperaceae,Carex lyngbyei ssp. cryptocarpa,Carex lyngbyei,"Seepy, protected shorelines all islands.",not in FPNW2,,,remaining
+ogi,Cyperaceae,Carex macrocephala,Carex macrocephala,Erhard Dionisio Point sandy shore Galiano 2013.,,,,remaining
+ogi,Cyperaceae,Carex obnupta,Carex obnupta,"Common in sedge fens, all islands.",,,,remaining
+ogi,Cyperaceae,Carex pachystachya,Carex pachystachya,"Meadows, farm fields, moist forest all islands.",,"""Note on original Saanich Pen C. festivella entry, all now C.p."" HJ",HJ,in progress
+ogi,Cyperaceae,Carex pallescens,Carex pallescens,"AS wet pasture Galiano. Known recently from Vancouver, Washington. AS possibly introduced.",,"""Carex pallescens from Galiano is interesting. Maybe ask Andrew if he can confirm this and make a collection for UBC if he has not yet done this."" –FL ""Here’s his iNat obs https://www.inaturalist.org/observations/12944880 I’ll send him a note asking for confirmation."" –HJ; Confirmed with Barbara Wilson; retain –AS","HJ, FL, AS",in progress
+ogi,Cyperaceae,Carex pellita,Carex pellita,"AS collected a specimen, annotated Carex pellita by Curtis Björk, from a modified area on the western slopes of Mount Sutil; the specimen is in collections at UBC, but not yet databased.",,,,remaining
+ogi,Cyperaceae,Carex praticola,Carex praticola,TRA Mitchell Lake North Pender.,,,,remaining
+ogi,Cyperaceae,Carex rossii,Carex rossii,"HLR collection North Pender. J. Fenneman Mt Norman, South Pender.",,,,remaining
+ogi,Cyperaceae,Carex stipata,Carex stipata,"HJ Roe Lake drainage, moist woods North Pender.",,,,remaining
+ogi,Cyperaceae,Carex sylvatica,Carex sylvatica,"Meadows, roadside ditches Saturna, North & South Pender. AS Mayne Island 2020.",,,,remaining
+ogi,Cyperaceae,Carex unilateralis,Carex unilateralis,"Saturna, Mayne. Meadows, farm fields. AC Portland Island 1999.",,,,remaining
+ogi,Cyperaceae,Carex utriculata,Carex utriculata,"Sedge fens, all islands.",,,,remaining
+ogi,Cyperaceae,Carex viridula,Carex viridula,"Sedge fens, all islands except Saturna.",,,,remaining
+ogi,Cyperaceae,Carex zikae,Carex zikae,"Grassy cliff tops, East Point, S. Pender. HLR Menziea Mt, N Pender 2000. HLR Tumbo 2005.",,,,remaining
+ogi,Cyperaceae,Dulichium arundinaceum,Dulichium arundinaceum,"Fens downstream from Magic Lake, Roe Lake N Pender, Sphagnum bog, Lake in DL20, Galiano.",,,,remaining
+ogi,Cyperaceae,Eleocharis obtusa,Eleocharis obtusa,"Ehlers Great Beaver Swamp, Galiano 2017. AS confirmed collection.",,,,remaining
+ogi,Cyperaceae,Eleocharis palustris,Eleocharis palustris,"Shallow standing water, pond and lakes all islands.",,,,remaining
+ogi,Cyperaceae,Eriophorum angustifolium,Eriophorum angustifolium,"ER 128 Sphagnum bog, Galiano HLR confirmed?",,,,remaining
+ogi,Cyperaceae,Eriophorum chamissonis,Eriophorum chamissonis,ER 128 Galiano Sphagnum bog.,,,,remaining
+ogi,Cyperaceae,Eriophorum gracile,Eriophorum gracile,"ER 128 Sphagnum bog, Galiano. HLR's collection re-identified by AC as gracile. Holm iNaturalist report same location 2017.",,,,remaining
+ogi,Cyperaceae,Eriophorum virginicum,Eriophorum virginicum,Abundant in one fen transitioning to sphagnum bog on Saturna.,,,,remaining
+ogi,Cyperaceae,Rhynchospora alba,Rhynchospora alba,"ER 128 Sphagnum bog, Galiano.",,,,remaining
+ogi,Cyperaceae,Schoenoplectus acutus,Schoenoplectus acutus,"Lake margins and deep water fens, all islands except Saturna.",,,,remaining
+ogi,Cyperaceae,Schoenoplectus americanus,Schoenoplectus americanus,"Saturna, Boot Cove, Winter Cove.",,,,remaining
+ogi,Cyperaceae,Scirpus cyperinus,Scirpus cyperinus,"Sedge fens, Saturna, Mayne, Galiano, N Pender.",,,,remaining
+ogi,Cyperaceae,Scirpus microcarpus,Scirpus microcarpus,"Fens and lake shores, all islands.",,,,remaining
+ogi,Cystopteridaceae,Cystopteris fragilis,Cystopteris fragilis,"Shady woods, moist rocky north slopes. Fairly common all islands.",,,,remaining
+ogi,Dennstaedtiaceae,Pteridium aquilinum var. pubescens,Pteridium aquilinum pubescens,"Partial shade to open, exposed places; common throughout. Occasional disturbed ground., exposed south facing bluffs",,,,remaining
+ogi,Droseraceae,Drosera rotundifolia,Drosera rotundifolia,"Sphagnum bogs, Saturna, Galiano.",,,,remaining
+ogi,Dryopteridaceae,Dryopteris expansa,Dryopteris expansa,"Occasional shady, moist woods on decaying wood. All islands",,,,remaining
+ogi,Dryopteridaceae,Polystichum munitum,Polystichum munitum,"Shady, moist woods, wooded hillsides, open wet forests; widespread and very common in suitable habitats, lowlands and lower north slopes all islands.",,,,remaining
+ogi,Elaeagnaceae,Shepherdia canadensis,Shepherdia canadensis,"Open fir forest, all islands.",,,,remaining
+ogi,Equisetaceae,Equisetum arvense,Equisetum arvense,Widespread all islands,,,,remaining
+ogi,Equisetaceae,Equisetum hyemale ssp. affine,Equisetum hyemale affine,Common throughout shady edges of wetlands,,,,remaining
+ogi,Equisetaceae,Equisetum palustre,Equisetum palustre,HJ disturbed pond edge N Pender 1982 #2279 recheck at V - not found on eFlora,,,,remaining
+ogi,Equisetaceae,Equisetum telmateia ssp. braunii,Equisetum telmateia braunii,"Widespread all islands, lowland wetlands and ditches.",,,,remaining
+ogi,Ericaceae,Allotropa virgata,Allotropa virgata,"Open, mature upland forest, all islands",,,AS,complete
+ogi,Ericaceae,Andromeda polifolia,Andromeda polifolia,Galiano bog HLR. AS not confirmed.,,,,remaining
+ogi,Ericaceae,Arbutus menziesii,Arbutus menziesii,"Dry south slopes or shoreline forest, all islands.",,,AS,complete
+ogi,Ericaceae,Arctostaphylos columbiana,Arctostaphylos columbiana,"HJ Manzanita Hill, Galiano 1975, Calder Bodega Ridge, Galiano 1961, HJ Hall Hill Mayne, FL Valdez 2008.",,,AS,complete
+ogi,Ericaceae,Arctostaphylos media,Arctostaphylos × media,"HJ Bodega Ridge, Galiano 2002 open, rocky ridge. FL Valdez Island 2008.",,,AS,complete
+ogi,Ericaceae,Arctostaphylos uva-ursi,Arctostaphylos uva-ursi,"Rocky, exposed slopes, Northeast shorelines of Galiano and Mayne. Not known from Penders and rare on Saturna.",,,AS,complete
+ogi,Ericaceae,Calluna vulgaris,Calluna vulgaris,"Toomer dinner plate sized clump growing in a frequently mown parking lot verge. Possibly a garden escapee, Galiano 2018.",,,,remaining
+ogi,Ericaceae,Chimaphila menziesii,Chimaphila menziesii,"High elevation, north slope forest Saturna HJ 1976, 1982, 1999. Not known from other islands.",,,,remaining
+ogi,Ericaceae,Chimaphila umbellata ssp. umbellata,Chimaphila umbellata umbellata,"Open or dense coniferous forest, relativly common Galiano, rare other major islands.",,,,remaining
+ogi,Ericaceae,Empetrum nigrum,Empetrum nigrum,"Galiano sphagnum bog. Huggins&AS 2016. This is known from some of the domed bogs around Vancouver, but almost nowhere else. There is precisely one lowland population known in the Puget Trough of Washington, and it apparently hasn't been collected since 1936.",,,AS,complete
+ogi,Ericaceae,Gaultheria shallon,Gaultheria shallon,"Mesic upland forest, all islands.",,,,remaining
+ogi,Ericaceae,Hemitomes congestum,Hemitomes congestum,"HJ Stockade Hill north slope, Galiano 1980.",,,,remaining
+ogi,Ericaceae,Kalmia microphylla var. occidentalis,Kalmia microphylla occidentalis,"HJ Spghagnum Bog, Galiano 1975.",,,,remaining
+ogi,Ericaceae,Monotropa hypopitys,Monotropa hypopitys,"HJ Coll 2038 Jul/81 for Galiano at V is Hemitomes congestum. Saturna collection deep, north sloping fir forest on Mt W. Pyke confirmed Gary Wallace.",,,,remaining
+ogi,Ericaceae,Monotropa uniflora,Monotropa uniflora,"Open Fir forest, all islands.",,,,remaining
+ogi,Ericaceae,Pterospora andromedea,Pterospora andromedea,"HJ dry, open coniferous forest Satuna, Mayne 1982.",,,,remaining
+ogi,Ericaceae,Pyrola aphylla,Pyrola aphylla,"HJ dry Douglas-fir salal forest Mayne, Saturna, Galiano. Outer Gulf Island plants all appear to be P. asarifolia.",,,,remaining
+ogi,Ericaceae,Pyrola asarifolia,Pyrola asarifolia,"TRA S Pender, HJ Saturna, N Pender, Mayne.",,,,remaining
+ogi,Ericaceae,Pyrola chlorantha,Pyrola chlorantha,"HJ In mature Douglas-fir, Cedar with Hemlock understorey (structural stage 7 forest), open parkland, Saturna 1999. Hill Mayne 1895.",,,,remaining
+ogi,Ericaceae,Pyrola picta,Pyrola picta,"HJ high elevation north slope forest Saturna 1975, HJ Stockade Hill, Galiano. TRA Bedwell, S Pender.",,,,remaining
+ogi,Ericaceae,Rhododendron groenlandicum,Rhododendron groenlandicum,"Sphagnum Bog, Galiano. HJ Blackbird Hill wetland, Saturna 2014-2020. HJ Mayne location? 1979",,,,remaining
+ogi,Ericaceae,Vaccinium ovatum,Vaccinium ovatum,"FL Prevost 2004. Relativly common in coniferous forest Galiano, less common Mayne and N Pender, not known from Saturna and S Pender. Historical Tumbo 1926.",,,AS,complete
+ogi,Ericaceae,Vaccinium oxycoccos,Vaccinium oxycoccos,"ER 128 Sphagnum Bog, Galiano.",,,AS,complete
+ogi,Ericaceae,Vaccinium parvifolium,Vaccinium parvifolium,"On raw humus and decaying wood in coniferous forest, all islands.",,,AS,complete
+ogi,Euphorbiaceae,Euphorbia cyparissias,Euphorbia cyparissias,"Occasional escapee to waste ground, Saturna, Galiano, Mayne. Otter Bay, N Pender iNaturalist observation 2021.",,,,remaining
+ogi,Euphorbiaceae,Euphorbia maculata,Euphorbia maculata,"Abandoned greenhouse operation, East Point Road, Saturna 2004.",,,,remaining
+ogi,Euphorbiaceae,Euphorbia myrsinites,Euphorbia myrsinites,"Reynolds and Pelletier below Mt Sutil, Galiano 2019",,,,remaining
+ogi,Euphorbiaceae,Euphorbia peplus,Euphorbia peplus,"Gardens, flower beds, waste land, all islands.",,,,remaining
+ogi,Fabaceae,Acmispon americanus var. americanus,Acmispon americanus americanus,"Krause S Pender, AW Galiano location? HJ Montague Road 1975. Saturna (RNVPBC) location? voucher?",,,AS,complete
+ogi,Fabaceae,Acmispon denticulatus,Acmispon denticulatus,Montague Harbour salt marsh also Parker Island 1981.,,,AS,complete
+ogi,Fabaceae,Acmispon parviflorus,Acmispon parviflorus,"Grassy bluffs, roadsides all islands.",,,AS,complete
+ogi,Fabaceae,Cytisus scoparius,Cytisus scoparius,"Roadsides, dry grassland, bluffs, spreading from disturbed ground, all islands.",,,,remaining
+ogi,Fabaceae,Laburnum anagyroides,Laburnum anagyroides,"Occasional, roadsides, disturbed areas. All islands.",,,,remaining
+ogi,Fabaceae,Lathyrus japonicus,Lathyrus japonicus,"Sandy beaches and shoreline, all islands.",,,,remaining
+ogi,Fabaceae,Lathyrus latifolius,Lathyrus latifolius,"Along roads, waste land, all islands.",,,,remaining
+ogi,Fabaceae,Lathyrus nevadensis var. nevadensis,Lathyrus nevadensis nevadensis,"Open, mesic woodland, all islands.",,,,remaining
+ogi,Fabaceae,Lathyrus palustris,Lathyrus palustris,"Salt marshes, Saturna, Cabbage, N Pender, Mayne.",,,,remaining
+ogi,Fabaceae,Lathyrus sylvestris,Lathyrus sylvestris,MF unpublished report Galiano locatiion ? Straley Mayne Island roadside 1987.,,,,remaining
+ogi,Fabaceae,Lotus corniculatus,Lotus corniculatus,"Roadsides, lawns, waste areas. All islands.",,,AS,complete
+ogi,Fabaceae,Lupinus arboreus,Lupinus arboreus,"Roadsides, waste ground, ferry terminals. Mayne, Galiano, N Pender, Parker",,,,remaining
+ogi,Fabaceae,Lupinus bicolor,Lupinus bicolor,"Grassy bluffs, grassy shoreline ledges, all islands.",,,,remaining
+ogi,Fabaceae,Lupinus polyphyllus,Lupinus polyphyllus,"Roadsides Mayne, Galiano, N Pender; moist ground; included in Highways bank seeding. vars? On Lomer & Penny's non-established list.",,,,remaining
+ogi,Fabaceae,Medicago arabica,Medicago arabica,HJ Roadside Saturna,,,,remaining
+ogi,Fabaceae,Medicago lupulina,Medicago lupulina,"Lawns, waste ground, all islands.",,,,remaining
+ogi,Fabaceae,Medicago sativa,Medicago sativa,"Farm fields, pasture. All islands.",,,,remaining
+ogi,Fabaceae,Melilotus albus,Melilotus albus,"Roadsides, beaches, all islands.",,,,remaining
+ogi,Fabaceae,Melilotus officinalis,Melilotus officinalis,"Roadsides, waste ground, Saturna, Galiano, N Pender.",,,,remaining
+ogi,Fabaceae,Robinia pseudoacacia,Robinia pseudoacacia,"Occasional roadside and forest edge, all islands.",,,,remaining
+ogi,Fabaceae,Securigera varia,Securigera varia,"Roadside, included in Highways slope stabilization seeding.",,,,remaining
+ogi,Fabaceae,Trifolium arvense,Trifolium arvense,"Dry roadside verges, Saturna, Mayne, Galiano, N Pender",,,AS,complete
+ogi,Fabaceae,Trifolium campestre,Trifolium campestre,"Lawns, roadsides, waste places, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium dichotomum,Trifolium dichotomum,"Grassy, south facing bluffs, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium dubium,Trifolium dubium,"Lawns, pasture and waste grounds, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium glomeratum,Trifolium glomeratum,"AS Montague Harbour, Galiano 2020.",,,AS,complete
+ogi,Fabaceae,Trifolium hybridum,Trifolium hybridum,"Roadsides, pasture, fields, Saturna, Galiano (probably all islands)",,,AS,complete
+ogi,Fabaceae,Trifolium incarnatum,Trifolium incarnatum,"Rare; farm fields, Saturna, Galiano. Abundant Saturna Winery fields 2002.",,,AS,complete
+ogi,Fabaceae,Trifolium microcephalum,Trifolium microcephalum,"Grassy bluffs and ledges, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium microdon,Trifolium microdon,"Bluffs, slopes on sandy or rocky soil, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium oliganthum,Trifolium oliganthum,"Bluffs, grassland on dry, rocky soils,all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium pratense,Trifolium pratense,"Moist roadsides, lawn, meadows, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium repens,Trifolium repens,"Lawns, pastures, roadsides, waste areas, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium striatum,Trifolium striatum,"Roadsides, traffic areas, Mayne, Samuel, Saturna, N Pender.",,,,remaining
+ogi,Fabaceae,Trifolium subterraneum,Trifolium subterraneum,"Roadsides, parks and lawns, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium variegatum,Trifolium variegatum,"Grassy banks just above sea, grassy bluffs, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium willdenovii,Trifolium willdenovii,"Bluff, grassland on dry, rocky soils, all islands.",,,AS,complete
+ogi,Fabaceae,Trifolium wormskioldii,Trifolium wormskioldii,"Shorelines, salt marshes, Saturna, Galiano, N Pender.",,,AS,complete
+ogi,Fabaceae,Ulex europaeus,Ulex europaeus,"Waste ground, shoreline banks, disturbed ground on ridges, Galiano, Saturna, S Pender. Previously very abundant S Pender.",,,AS,complete
+ogi,Fabaceae,Vicia americana,Vicia americana,"Dry, open woods, all islands.",,,AS,complete
+ogi,Fabaceae,Vicia cracca,Vicia cracca,"Roadsides and waste ground, all islands.",,,AS,complete
+ogi,Fabaceae,Vicia hirsuta,Vicia hirsuta,"Roadsides, disturbed ground, all islands.",,,AS,complete
+ogi,Fabaceae,Vicia lathyroides,Vicia lathyroides,"FL Montague Park picnic area, Galiano 2014, FL DeCourcy Island 2006.",,,AS,complete
+ogi,Fabaceae,Vicia nigricans var. gigantea,Vicia gigantea,"Open forest and gulleys near salt water, wet brackish or saline places; all islands.",,,AS,complete
+ogi,Fabaceae,Vicia sativa,Vicia sativa,"Roadsides, disturbed ground, all islands.",,,AS,complete
+ogi,Fabaceae,Vicia tetrasperma,Vicia tetrasperma,"Roadsides, cultivated ground, weedy areas, all islands.",,,AS,complete
+ogi,Fabaceae,Vicia villosa,Vicia villosa,"Roadside, fields, ddisturbed areas, all islands.",,,AS,complete
+ogi,Fagaceae,Quercus garryana,Quercus garryana,"Exposed bulffs, grassy slopes and islets. All islands. Never in mixed forest as on Saanich Peninsula.",,,,remaining
+ogi,Gentianaceae,Centaurium erythraea,Centaurium erythraea,"Farm fields, meadows, all islands.",,,,remaining
+ogi,Geraniaceae,Erodium cicutarium,Erodium cicutarium,Disturbed ground; all islands.,,,,remaining
+ogi,Geraniaceae,Geranium bicknellii,Geranium bicknellii,"HJ Galiano, Stockade Hill gravel pit 1981.",,,,remaining
+ogi,Geraniaceae,Geranium carolinianum,Geranium carolinianum,"Dry roadsides, dirt roads; all islands.",,,,remaining
+ogi,Geraniaceae,Geranium dissectum,Geranium dissectum,"Waste ground, meadows; all islands",,,,remaining
+ogi,Geraniaceae,Geranium molle,Geranium molle,"Roadside, lawns, waste places, open grassy bluffs; all islands.",,,,remaining
+ogi,Geraniaceae,Geranium pusillum,Geranium pusillum,"Macoun at Springwater, Mayne 1914, HJ Stockade Hill, Galiano 1975.",,,,remaining
+ogi,Geraniaceae,Geranium robertianum,Geranium robertianum,"Meadows, forest edges; all islands.",,,,remaining
+ogi,Grossulariaceae,Ribes bracteosum,Ribes bracteosum,HJ Galiano wet forest along Montague Harbour Road.1975.,,,,remaining
+ogi,Grossulariaceae,Ribes divaricatum var. divaricatum,Ribes divaricatum divaricatum,"Moist, open woods and thickets; occasional throughout, all islands.",,,,remaining
+ogi,Grossulariaceae,Ribes lacustre,Ribes lacustre,"Shady lake edges, muddy places, editches, damp forest floor. Main islands except Mayne.",,,,remaining
+ogi,Grossulariaceae,Ribes lobbii,Ribes lobbii,"WB Schofield Galiano 1974. HJ Miners Bay Road, Mayne 1975.",,,,remaining
+ogi,Grossulariaceae,Ribes rubrum,Ribes rubrum,Heffley Lions Park Galiano 2018. escaped? established?,,,,remaining
+ogi,Grossulariaceae,Ribes sanguineum,Ribes sanguineum,"Open woodland; road verges, all islands.",,,,remaining
+ogi,Haloragaceae,Myriophyllum spicatum,Myriophyllum spicatum,"Ponds and lakes, Saturna, Galiano, Mayne, N Pender, Prevost.",,,,remaining
+ogi,Haloragaceae,Myriophyllum verticillatum,Myriophyllum verticillatum,HLR Galiano sphagnum bog.,,,,remaining
+ogi,Hydrangeaceae,Philadelphus lewisii,Philadelphus lewisii,"Open, dry, wooded areas, talus slopes rock cliff bases. All islands.",,,,remaining
+ogi,Hydrocharitaceae,Elodea canadensis,Elodea canadensis,Galiano and North Pender. Occasional in ponds and upland lakes,,,,remaining
+ogi,Hypericaceae,Hypericum anagalloides,Hypericum anagalloides,"Wetlands, bogs, bluff seeps, all islands.",,,AS,complete
+ogi,Hypericaceae,Hypericum calycinum,Hypericum calycinum,Occasionally persisting in abandoned flower beds and fields. Several iNaturalist reports for area.,,,AS,complete
+ogi,Hypericaceae,Hypericum perforatum,Hypericum perforatum,"Roadsides, cultivated land, waste places, not common, all islands.",,,AS,complete
+ogi,Iridaceae,Iris germanica,Iris × germanica,Rhizomes persistant all islands. Doesn't appear to spread by seed. On Lomer & Penny's non-established list. FL has I. sibirica dry ditches DeCourcy Island 2008.,,"on list of non-established BC plants (AS); we include this on our flora, where we describe it as Rare-occasional, either long-persistent from plantings or occasionally escaping (PD)","AS, FL, PD",in progress
+ogi,Iridaceae,Iris pseudacorus,Iris pseudacorus,"Ponds, fens and roadside ditches all islands.",,,,remaining
+ogi,Iridaceae,Sisyrinchium idahoense,Sisyrinchium idahoense,"var. segetum Zika South Pender, var. idahoense Lomer South Pender. Known from all islands. vars? Wet grassy meadows.",,,,remaining
+ogi,Iridaceae,Sisyrinchium littorale,Sisyrinchium littorale,Zika roadside S Pender 2003.,,,,remaining
+ogi,Isoetaceae,Isoetes nuttallii,Isoetes nuttallii,Several restricted GI locations CPNWH. FL DeCourcy Island 2006.,,,,remaining
+ogi,Juncaceae,Juncus acuminatus,Juncus acuminatus,"Fens and wetlands, all islands.",,,,remaining
+ogi,Juncaceae,Juncus articulatus,Juncus articulatus,Fens and wet places all islands.,,,,remaining
+ogi,Juncaceae,Juncus balticus,Juncus balticus,"Wet meadows, shoreline wetlands, common all islands. Holm reports J. arcticus from ER128, Galiano 2017.",,,,remaining
+ogi,Juncaceae,Juncus bolanderi,Juncus bolanderi,Roadside ditches and wetlands common all islands except rare on Saturna.,,,,remaining
+ogi,Juncaceae,Juncus bufonius,Juncus bufonius,"Common throughout on wet, disturbed ground.",,,,remaining
+ogi,Juncaceae,Juncus conglomeratus,Juncus conglomeratus,"Zika roadside Port Washington, N Pender 2003. FL N Pender 2006.",,,,remaining
+ogi,Juncaceae,Juncus effusus ssp. effusus,Juncus effusus effusus,"Common fens, wet meadows and fields throughout.",,"""Maybe follow the FPNW and list it as ssp. effusus from Europe. Subspecies solutus from east N.A. may also be in the area"" FL —""I have definitely been observing multiple ssp of Juncus effusus around, inc. Je.solutus, J.e.pacificus, and J.e.effusus. The list should be updated to included record of all these infrataxa—how to update comments?""","FL, AS",in progress
+ogi,Juncaceae,Juncus effusus ssp. pacificus,Juncus effusus pacificus,"Common fens, wet meadows and fields throughout.",,"""Maybe follow the FPNW and list it as ssp. effusus from Europe. Subspecies solutus from east N.A. may also be in the area"" FL —""I have definitely been observing multiple ssp of Juncus effusus around, inc. Je.solutus, J.e.pacificus, and J.e.effusus. The list should be updated to included record of all these infrataxa—how to update comments?""","FL, AS",in progress
+ogi,Juncaceae,Juncus ensifolius,Juncus ensifolius,"Common fens, wet meadows and fields throughout.",,,,remaining
+ogi,Juncaceae,Juncus gerardii,Juncus gerardi,"Bedwell Harbour, N Pender. Winter Cove, Saturna. Salt marshes.",,,,remaining
+ogi,Juncaceae,Juncus hesperius,Juncus hesperius,FL Otter Bay roadside 2006.,,look for J. laccatus FL,AS,in progress
+ogi,Juncaceae,Juncus interior,Juncus interior,HJ Saturna 1975,,"""delete. I doubt it grows in the area. Rather rare in the Columbia River area near Washington and an intro in Metro Vancouver."" FL ""My record from Saturna is a re-id by Jennifer Penny. Will recheck. Also all the Saanich Peninsula records of J. interior are re-id by Jennifer."" HJ",FL,in progress
+ogi,Juncaceae,Juncus oxymeris,Juncus oxymeris,Recheck HJ Galiano roadside collection. Should be at V but not found on eFlora.,,"""delete"" FL ""Agree"" HJ","HJ, FL",in progress
+ogi,Juncaceae,Juncus tenuis,Juncus tenuis,"Moist meadows, farm fields throughout, all islands.",,,,remaining
+ogi,Juncaceae,Luzula campestris,Luzula campestris,FL Prevost Island 2004.,,,,remaining
+ogi,Juncaceae,Luzula comosa var. laxa,Luzula comosa laxa,Galiano location? Sullivan Saturna 1972. FL Prevost Island 2004.,,,,remaining
+ogi,Juncaceae,Luzula macrantha,Luzula macrantha,"Galiano Tapovan Peace Park AS 2016. HJ Mt. Sutile 1979. AS Dinner Point, Mayne 2019.",,,,remaining
+ogi,Juncaceae,Luzula multiflora,Luzula multiflora,"Throughout open coniferous forests, lakeshore, bogs.",,,,remaining
+ogi,Juncaceae,Luzula parviflora,Luzula parviflora,Mayne Prelim Catalogue of VI and QCI location? Galiano location?,,,,remaining
+ogi,Juncaceae,Luzula subsessilis,Luzula subsessilis,"Bluffs Park, Galiano AS 2016, Sutil Mt HJ 1979, Saturna HJ 1973 Gowland Point, S Pender B.A. Bennet 1992. AS Mayne 2019.",,,,remaining
+ogi,Juncaginaceae,Triglochin concinna var. concinna,Triglochin concinna concinna,Salt or brackish marshes and mudflats; all islands,,,,remaining
+ogi,Juncaginaceae,Triglochin maritima,Triglochin maritima,Salt marshes; common along rocky and muddy shores throughout. All islands.,,,,remaining
+ogi,Lamiaceae,Ajuga reptans,Ajuga reptans,"Erhard waste ground Highland Rd and Ellis Rd, Galiano 2016. No information on naturalization.",,,AS,complete
+ogi,Lamiaceae,Clinopodium douglasii,Clinopodium douglasii,"Dry, open woods throughout, all islands.",,,,remaining
+ogi,Lamiaceae,Galeopsis tetrahit,Galeopsis tetrahit,Wet waste ground HJ Saturna 1980.,,,,remaining
+ogi,Lamiaceae,Glechoma hederacea,Glechoma hederacea,"Persisting and marginally escaping, old gardens, all islands.",,,,remaining
+ogi,Lamiaceae,Lamiastrum galeobdolon,Lamium galeobdolon,No herbarium reccords but listed by the Invasive Species Council of BC for Vancouver Island and Gulf Islands. Persistant and marginally spreading.,,,,remaining
+ogi,Lamiaceae,Lamium amplexicaule,Lamium amplexicaule,"Gardens, cultivated ground, disturbed ground, Saturna, N Pender.",,,,remaining
+ogi,Lamiaceae,Lamium hybridum,Lamium purpureum hybridum,"AS Cook Rd,Galiano 2018.",,name?,AS,in progress
+ogi,Lamiaceae,Lamium purpureum,Lamium purpureum,"Roadsides, waste ground, all islands.",,,AS,complete
+ogi,Lamiaceae,Lycopus americanus,Lycopus americanus,"HJ edge of fen, Saturna 1998, Galiano location?",,,AS,complete
+ogi,Lamiaceae,Lycopus uniflorus,Lycopus uniflorus,"Marshes and fens, all islands.",,,AS,complete
+ogi,Lamiaceae,Marrubium vulgare,Marrubium vulgare,"Waste ground, occasionaly open, grassy bluffs, Saturna, Mayne, N Pender.",,,,remaining
+ogi,Lamiaceae,Melissa officinalis,Melissa officinalis,"Roadsides and waste places, all inlands.",,,,remaining
+ogi,Lamiaceae,Mentha canadensis,Mentha canadensis,"Wet ground, fens and lake edges, all islands.",,,,remaining
+ogi,Lamiaceae,Mentha pulegium,Mentha pulegium,AS Mayne 2019.,,,,remaining
+ogi,Lamiaceae,Mentha rotundifolia,Mentha × rotundifolia,"Small colonies appearing to slowly spread Mayne, Galiano, N Pender.",,,,remaining
+ogi,Lamiaceae,Mentha spicata,Mentha spicata,"Occasionaly naturalizing, low, wet places; all islands.",,,,remaining
+ogi,Lamiaceae,Prunella vulgaris,Prunella vulgaris,"Lawns, gardens, disturbed ground, all islands.",,,,remaining
+ogi,Lamiaceae,Stachys byzantina,Stachys byzantina,"HJ farm pasture, Mayne 1980. persisting? Pollom S Pender iNaturalist report 2017.",,,,remaining
+ogi,Lamiaceae,Stachys cooleyae,Stachys chamissonis cooleyae,"Streambanks, fens, ditches, all islands.",,,,remaining
+ogi,Lentibulariaceae,Utricularia gibba,Utricularia gibba,"AS McCoskrie Rd, Galiano 2018. AS Great Beaver Swamp and ER128, Galiano iNaturalist observations 2018-19.",,,,remaining
+ogi,Lentibulariaceae,Utricularia minor,Utricularia minor,"HJ Blackbird Hill wetland, Saturna1996",,,,remaining
+ogi,Lentibulariaceae,Utricularia vulgaris ssp. macrorhiza,Utricularia macrorhiza,"Sphagnum bog, Galiano 1981. AS same 2020.",,,,remaining
+ogi,Liliaceae,Erythronium oregonum ssp. oregonum,Erythronium oregonum,"Grassy shorelines and points, rarely away from salt water. All islands.",,,,remaining
+ogi,Liliaceae,Erythronium revolutum,Erythronium revolutum,Sigvardsen Montague Park Galiano 2016. Suspected hybrid (outside range of E. revolutum). Very pink tepals in iNaturalist photo.,,,,remaining
+ogi,Liliaceae,Fritillaria affinis,Fritillaria affinis,"Grassy ridges, points usually near salt water and with Erythronium oreganum. All islands.",,,,remaining
+ogi,Liliaceae,Lilium columbianum,Lilium columbianum,"Damp, open woods and meadows, roadsides. All islands.",,,,remaining
+ogi,Liliaceae,Prosartes hookeri,Prosartes hookeri,"Field in Port Washington, North Pender HJ June 1981. Possibly planted.",,,,remaining
+ogi,Liliaceae,Streptopus amplexifolius,Streptopus amplexifolius,HJ Saturna in splash zone of shaded waterfall.,,,,remaining
+ogi,Lycopodiaceae,Huperzia selago,Huperzia selago,Macoun Mayne 1914.,,,,remaining
+ogi,Lycopodiaceae,Lycopodium clavatum,Lycopodium clavatum,"Open, mossy areas in mature upland forest. Saturna, South Pender, Galiano.",,,AS,complete
+ogi,Malvaceae,Alcea rosea,Alcea rosea,"Spreading on Scoones Point, Galiano.",,,,remaining
+ogi,Malvaceae,Malva moschata,Malva moschata,"Waste ground, roadsides, all islands.",,,,remaining
+ogi,Malvaceae,Malva neglecta,Malva neglecta,"Waste places, farm yards, Saturna, Mayne, Galiano",,,,remaining
+ogi,Malvaceae,Malva sylvestris,Malva sylvestris,"Farm fields, vineyard fields, Saturna.",,,,remaining
+ogi,Malvaceae,Sidalcea hendersonii,Sidalcea hendersonii,"Browning Harbour salt marsh, N Pender.",,,,remaining
+ogi,Melanthiaceae,Toxicoscordion venenosum var. venenosum,Toxicoscordion venenosum venenosum,"Grassy bluffs and ridges, all islands.",,,,remaining
+ogi,Menyanthaceae,Menyanthes trifoliata,Menyanthes trifoliata,"Huggins Devina Drive, Galiano 2016. AS same 2020.",,,,remaining
+ogi,Montiaceae,Calandrinia ciliata,Calandrinia ciliata,"Grassy, south facing bulffs, shorline ridges. All islands.",,,,remaining
+ogi,Montiaceae,Claytonia exigua ssp. exigua,Claytonia exigua exigua,"Dry, shady sandy ground; all islands. ssp exigua and glauca both reported for Galiano.",,,,remaining
+ogi,Montiaceae,Claytonia parviflora,Claytonia parviflora,"Galiano location? FL Prevost Island 2004. JP-MF Mt. Norman, S Pender 1984. HJ Brown Ridge, Saturna 1999",,,,remaining
+ogi,Montiaceae,Claytonia perfoliata,Claytonia perfoliata,"Open to shady, moist ground,; forming pure stands on slightly disturbed ground. All islands.",,,,remaining
+ogi,Montiaceae,Claytonia rubra,Claytonia rubra,"WBS Sturdies Bay, Galiano 1974. Lomer N&S Pender. Ceska & FL East Point and Brown Ridge, Saturna. FL Prevost Island 2004.",,,,remaining
+ogi,Montiaceae,Claytonia sibirica,Claytonia sibirica,Moist woods and thickets; all islands,,,,remaining
+ogi,Montiaceae,Montia dichotoma,Montia dichotoma,"Open, grassy slopes, mossy rock seeps on shorelines. Brown Ridge and East Point, Saturna. Bellhouse Park, Galiano.",,,AS,complete
+ogi,Montiaceae,Montia fontana,Montia fontana,"Moist meadows, seeps, vernal pools, margins of pond. All islands",,,AS,complete
+ogi,Montiaceae,Montia howellii,Montia howellii,"Trails, lake shorelines, mossy rock outcrops; all islands. Mossy rock shore on Dusenberg Park, Gabriola has mix of M. howellii, M. fontana, Limnanthes macounii and Myosurus minimus.",,,AS,complete
+ogi,Montiaceae,Montia linearis,Montia linearis,"Grassy bluffs, mossy seeps. Seen occasionally ion wet plowed ground. All islands.",,,AS,complete
+ogi,Montiaceae,Montia parvifolia,Montia parvifolia,"Stream banks and shady seeps on rocky outcrops, isolated mossy boulders. All islands.","recorded by HJ: Montia parvifolia var. flagellaris, syn. M.parvifolia in FPNW2",,AS,complete
+ogi,Nymphaeaceae,Nuphar polysepala,Nuphar polysepala,Ponds and shallow lakes; all islands.,,,,remaining
+ogi,Nymphaeaceae,Nymphaea odorata,Nymphaea odorata,HJ lakes in Whalers Bay-Bellhouse Bay fault. No collection.,,,,remaining
+ogi,Onagraceae,Chamaenerion angustifolium,Chamaenerion angustifolium,"Disturbed ground, burns, all islands.",,,,remaining
+ogi,Onagraceae,Circaea alpina ssp. pacifica,Circaea alpina pacifica,"Cool, damp woods, all islands.",,,,remaining
+ogi,Onagraceae,Clarkia amoena,Clarkia amoena,"Grassy bluffs, all islands. Vars. caurina and lindelyi both reported for Galiano.",,,,remaining
+ogi,Onagraceae,Clarkia quadrivulnera,Clarkia purpurea quadrivulnera,HJ and MF Brown Ridge Saturna 2006.,,,,remaining
+ogi,Onagraceae,Epilobium brachycarpum,Epilobium brachycarpum,"Roadsides, grassy bluffs, all islands.",,,,remaining
+ogi,Onagraceae,Epilobium ciliatum,Epilobium ciliatum,"Wet meadows, fens, wet land edges, all islands.",,,,remaining
+ogi,Onagraceae,Epilobium densiflorum,Epilobium densiflorum,"HJ Roadside ditch, Bedwell Harbour Road 1981, Huggins Millard Learning Centre, Galiano 2016.",,,,remaining
+ogi,Onagraceae,Epilobium hallianum,Epilobium hallianum,"FL Prevost Island 2004, FL wet field, S Pender 2006.",,,,remaining
+ogi,Onagraceae,Epilobium hornemannii ssp. hornemannii,Epilobium hornemannii hornemannii,"HJ Satuna Island in roadside ditch in structural stage 5 Pseudotsuga menziesii forest - Gaultheria shallon forest with Elymus glaucus, Veronica serpyillifolia, Senecio jacobei & Prunella vulgaris, slope 5% S30W. 1998.",,,,remaining
+ogi,Onagraceae,Epilobium minutum,Epilobium minutum,"Grassy bluffs, ledges and banks, all islands. Galiano reports E. foliosum and E. minutum now combined under E. m. Straley Bluffs Park, Galiano 1988.",,,,remaining
+ogi,Onagraceae,Ludwigia palustris,Ludwigia palustris,"HLR Ecological Reserve 128 Sphagnum Bog report, Galiano.",,,AS,complete
+ogi,Onagraceae,Oenothera biennis,Oenothera biennis,"Saturna roadside ditches Lyall Harbour. Not persisting. AS Cable Bay Farm, Galiano 2018.",,,,remaining
+ogi,Ophioglossaceae,Botrypus virginianus,Botrypus virginianus,"Few roadside collections, Mayne Island.",,,,remaining
+ogi,Ophioglossaceae,Ophioglossum pusillum,Ophioglossum pusillum,Two locations Saturna at edge of Carex obnupta fens.,,,,remaining
+ogi,Ophioglossaceae,Sceptridium multifidum,Sceptridium multifidum,"Occasional, moist swales, fens and meadow, Saturna, Mayne, Galiano. AC S Pender.",,,,remaining
+ogi,Orchidaceae,Calypso bulbosa var. occidentalis,Calypso bulbosa occidentalis,"Mossy spots, shaded mature forest, all islands",,,AS,complete
+ogi,Orchidaceae,Corallorhiza maculata var. occidentalis,Corallorhiza maculata occidentalis,"Moist or dry coniferous forest throughout. All islands. Var. occidentalis and ozettensis reported for Galiano. Var. ozettensis collection M Donovan Quadra Hill, Galiano",,,AS,complete
+ogi,Orchidaceae,Corallorhiza maculata var. ozettensis,Corallorhiza maculata ozettensis,"MD Galiano, Quadra Hill 2015, AS Galiano, Georgeson Bay 2018.",,,AS,complete
+ogi,Orchidaceae,Corallorhiza mertensiana,Corallorhiza mertensiana,Saturna R.W. Pillsbury 1957. Macoun Mayne 1914. Sczcawinski considers Mayne coll as tending to C. maculata.,,,AS,complete
+ogi,Orchidaceae,Corallorhiza striata var. striata,Corallorhiza striata striata,"Galiano creek valley draining into Georgeson Bay. AS Bluffs Park, Galiano 2018. C Matthews Mayne 2020. L Baile Clam Bay Rd, N Pender 2020.",,,AS,complete
+ogi,Orchidaceae,Epipactis helleborine,Epipactis helleborine,"Ecapee from cultivation and spreading in dry, shady Fir-Arbutus woods Saturna, Galiano. Ben Kadel iNaturalist observation S Pender.",,,,remaining
+ogi,Orchidaceae,Goodyera oblongifolia,Goodyera oblongifolia,Moist or semidry moss floored coniferous forest; throughout All islands,,,,remaining
+ogi,Orchidaceae,Neottia banksiana,Neottia banksiana,HJ Saturna 1998 mossy floored 130 year old second growth forest.,,,,remaining
+ogi,Orchidaceae,Neottia cordata,Neottia cordata,"Very common under dense Salal in second growth forests, all islands.",,,,remaining
+ogi,Orchidaceae,Platanthera elegans ssp. elegans,Platanthera elegans elegans,"Dry, open forest, ridges. Saturna, Mayne Galiano, Blunden. Saturna and Galiano collections previously identified as Habenaria maritima and Habenaria unalachensis var. maritima also S. Pender.",,,,remaining
+ogi,Orchidaceae,Platanthera elongata,Platanthera elongata,Magner Galiano 2015 location?,,,,remaining
+ogi,Orchidaceae,Platanthera transversa,Platanthera transversa,"HJ Saturna 1973. Magner Galiano 2016. there are now 16 collections/observations annotated as P.transversa from Galiano on iNaturalist. The Province lists it for BGxhICHdwMHmm. However, the orchid is recognized in WA. The Burke herbarium website appears to include records from the San Juans? See A. S. Pope s.n 5 Jul 1904 WTU 5945A.",,,,remaining
+ogi,Orchidaceae,Platanthera unalascensis,Platanthera unalascensis,"Grassy, open places, dry coniferous forests, all islands.",,,,remaining
+ogi,Orchidaceae,Spiranthes romanzoffiana,Spiranthes romanzoffiana,"Open, grassy places and parklands. All islands.",,,,remaining
+ogi,Orobanchaceae,Aphyllon californicum ssp. californicum,Aphyllon californicum californicum,"Parasitic on Grindelia, usually near shore line, all islands.",,,,remaining
+ogi,Orobanchaceae,Aphyllon purpureum,Aphyllon purpureum,"Parasitic on Sedum and occasionally on Lithophragma, all islands.",,,AS,complete
+ogi,Orobanchaceae,Bellardia viscosa,Bellardia viscosa,"Roadsides, farm fields, pasture, all islands.",,,,remaining
+ogi,Orobanchaceae,Castilleja attenuata,Castilleja attenuata,"Open, grassy bluffs, all islands.",,,,remaining
+ogi,Orobanchaceae,Castilleja hispida,Castilleja hispida,"Grassy bluffs and ledges, all islands.",,,,remaining
+ogi,Orobanchaceae,Castilleja miniata var. dixonii,Castilleja miniata dixonii,RLT Anniversary Island 1978 voucher at UBC? Hill Mayne 1895.,,,,remaining
+ogi,Orobanchaceae,Euphrasia nemorosa,Euphrasia nemorosa,"HJ Hydro service yard, Galiano 1980, Browning Harbour area, N Pender, WinterCove Park, Saturna picnic area.",,,,remaining
+ogi,Orobanchaceae,Kopsiopsis hookeri,Kopsiopsis hookeri,"Magner forest below Quadra Hill, Galiano 2015. iNaturalist report near ER 128 Sphagnum bog, Galiano 2020. Green iNaturalist report Mayne 2020.",,,AS,complete
+ogi,Orobanchaceae,Rhinanthus minor ssp. groenlandicus,Rhinanthus groenlandicus,"Meadows and grassy fields, all islands.",,,,remaining
+ogi,Orobanchaceae,Triphysaria pusilla,Triphysaria pusilla,"Meadows, weedy lawns, all islands.",,,AS,complete
+ogi,Oxalidaceae,Oxalis corniculata,Oxalis corniculata,"Occasional garden or greenhouse escape, not persistant.",,,,remaining
+ogi,Papaveraceae,Eschscholzia californica ssp. californica,Eschscholzia californica californica,Roadsides and waste ground; all islands.,,,,remaining
+ogi,Papaveraceae,Fumaria officinalis,Fumaria officinalis,Galiano location? T. Taylor observation.,,,,remaining
+ogi,Papaveraceae,Fumaria reuteri,Fumaria reuteri,AS Highland Road Galiano 2017. Straley Burrill Road; escapee date?,,,,remaining
+ogi,Papaveraceae,Meconella oregana,Meconella oregana,"Open, grassy bluffs and ridges, HJ Saturna 1974, 1987. HJ Galiano. Batten Mt Sutil 2014.",,,,remaining
+ogi,Papaveraceae,Papaver rhoeas,Papaver rhoeas,Waste places and old fields; rare N Pender,,,,remaining
+ogi,Papaveraceae,Papaver somniferum,Papaver somniferum,Occasional escapee from cultivation. All islands.,,,,remaining
+ogi,Phrymaceae,Erythranthe alsinoides,Erythranthe alsinoides,"Grassy bluffs, all islands.",,,,remaining
+ogi,Phrymaceae,Erythranthe guttata,Erythranthe guttata,"Seepy spots on grassy bluffs, occasionally roadside ditches, all islands. E sookensis Benedict et al. (2012) reported for Galiano.",,,,remaining
+ogi,Phrymaceae,Erythranthe microphylla,Erythranthe microphylla,"Galiano. Hybrid with E. nasuta called E sookensis B.G. Benedict et. al. Both nasuta and sookensis present? AW Galiano 1975 reported as Mimulus guttatus var depauperatus, Sullivan Saturna 1972, HJ Oaks Bulff N Pender 1981 HJ Heck Hill, Mayne 1980.",,,,remaining
+ogi,Phrymaceae,Erythranthe moschata,Erythranthe moschata,"Ponds, ditches with standing water, all islands.",,,,remaining
+ogi,Phrymaceae,Erythranthe nasuta,Erythranthe nasuta,"FL Great Beaver Swamp, Galiano 2014, HJ Saturna 1973",,,,remaining
+ogi,Phrymaceae,Erythranthe sookensis,Erythranthe sookensis,"HJ Saturna 1974, A&OC-HLR North Pender 1983, HJ Mayne 1979, AW Galiano 1975, AS Mt Galiano 2021.",not in FPNW2,,,remaining
+ogi,Pinaceae,Abies grandis,Abies grandis,"Lowlands, moist forest; locally common, all islands.",,,"AS, FL",complete
+ogi,Pinaceae,Picea abies,Picea abies,AS Georgeson Bay 2016. Naturalized?,not in FPNW2,,,remaining
+ogi,Pinaceae,Picea sitchensis,Picea sitchensis,"Very rare, south east shore line forest in salt spray zone, Saturna, Galiano, South Pender.",,,,remaining
+ogi,Pinaceae,Pinus contorta var. contorta,Pinus contorta contorta,"Dry, south exposed woodlands, Dry north slopes and northeast coastlines. All islands.",,,AS,complete
+ogi,Pinaceae,Pinus monticola,Pinus monticola,"Sphagnum bog, Galiano. Not known from other main islands",,,AS,complete
+ogi,Pinaceae,Pinus ponderosa,Pinus ponderosa,"3 small trees in logged area Bodega Ridge, Galiano. Single seedling in clump of P. contorta East Point, Saturna. Planted trees along Bodega Beach Drive, Galiano.",,retain?,AS,in progress
+ogi,Pinaceae,Pseudotsuga menziesii,Pseudotsuga menziesii menziesii,Moist to dry areas; generally distributed throughout the forested areas. All islands.,,,,remaining
+ogi,Pinaceae,Tsuga heterophylla,Tsuga heterophylla,"Upland, north facing slopes; common. Very rare on south slopes and mesic lowland forest. All islands.",,,AS,complete
+ogi,Plantaginaceae,Callitriche heterophylla var. bolanderi,Callitriche heterophylla bolanderi,"Shallow standing water, Saturna, Mayne, Galiano. TRA S Pender 1960, confirmed PDW & HJ. var. heterophylla. HJ Saturna, Mayne, Prevost, Galiano. Macoun Mayne 1914.",,,,remaining
+ogi,Plantaginaceae,Callitriche palustris,Callitriche palustris,HJ standing water in sedge fen Saturna 1978,,,,remaining
+ogi,Plantaginaceae,Chaenorhinum minus,Chaenorhinum minus,"HJ Garden weed, Winter Cove area, Saturna 2003, also around Saturna Winery buildings.",,,,remaining
+ogi,Plantaginaceae,Collinsia grandiflora,Collinsia grandiflora,"Open, grassy bluffs, all islands.",,,,remaining
+ogi,Plantaginaceae,Collinsia parviflora,Collinsia parviflora,"Open, grassy bluffs, all islands.",,,,remaining
+ogi,Plantaginaceae,Cymbalaria muralis,Cymbalaria muralis,"Escaping from rock gardens, Saturna, Galiano.",,,,remaining
+ogi,Plantaginaceae,Digitalis purpurea,Digitalis purpurea,"Roadsides, waste places, logged ground, all islands.",,,AS,complete
+ogi,Plantaginaceae,Hippuris vulgaris,Hippuris vulgaris,"Ponds and shallow water of lakes, all islands.",,,,remaining
+ogi,Plantaginaceae,Kickxia elatine,Kickxia elatine,"Mitchell Magic Lake area, N Pender 2019 iNaturalist report.",,,,remaining
+ogi,Plantaginaceae,Linaria purpurea,Linaria purpurea,"Garden escapee, all islands.",,,,remaining
+ogi,Plantaginaceae,Linaria vulgaris,Linaria vulgaris,"Roadside and waste ground Saturna, N Pender.",,,,remaining
+ogi,Plantaginaceae,Nuttallanthus texanus,Nuttallanthus texanus,"Grassy bluffs and ledges; HJ Mt Heck, Mayne 1980, Mt Norman, S Pender 1981, Oaks Bluff, N Pender 1981, Bodega Hill, Galiano 1982. Observed several times Saturna but looks like I failed to get a collection to V.",,,,remaining
+ogi,Plantaginaceae,Plantago elongata,Plantago elongata,"Grassy bluffs, rocky shoreline ledges, Saturna, Galiano, S Pender.",,,,remaining
+ogi,Plantaginaceae,Plantago lanceolata,Plantago lanceolata,"Lawns, waste ground, cultivated ground, all islands.",,,,remaining
+ogi,Plantaginaceae,Plantago major,Plantago major,"Lawns, roadsides and disturbed ground, all islands.",,,,remaining
+ogi,Plantaginaceae,Plantago maritima,Plantago maritima,"Rocky shoreline and salt marshes, all islands.",,,,remaining
+ogi,Plantaginaceae,Veronica americana,Veronica americana,"Standing water in ditches, fens and ponds, all islands.",,,AS,complete
+ogi,Plantaginaceae,Veronica arvensis,Veronica arvensis,"Waste ground, grassy bluffs, disturbed ground, all islands.",,,AS,complete
+ogi,Plantaginaceae,Veronica filiformis,Veronica filiformis,"Lawns, meadows, Saturna, Galiano.",,,AS,complete
+ogi,Plantaginaceae,Veronica officinalis,Veronica officinalis,"Roadsides and disturbed fields, all islands.",,,AS,complete
+ogi,Plantaginaceae,Veronica peregrina var. xalapensis,Veronica peregrina xalapensis,"Meadows, dirt roads, vernal wet spots, all islands.",,Veronica peregrina var. peregrina?,AS,in progress
+ogi,Plantaginaceae,Veronica persica,Veronica persica,"HJ construction dirt pile, Sturdies Bay. Galiano 1982.",,,AS,complete
+ogi,Plantaginaceae,Veronica scutellata,Veronica scutellata,"Fens, pond edges, all islands.",,,AS,complete
+ogi,Plantaginaceae,Veronica serpyllifolia,Veronica serpyllifolia,"Moist meadows, wet ground and disturbed sites, all islands.",,,AS,complete
+ogi,Plumbaginaceae,Armeria maritima ssp. californica,Armeria maritima californica,"TRA Otter Bay N Pender. AS Phillimore Point, Galiano 2017.",,,AS,complete
+ogi,Poaceae,Achnatherum lemmonii ssp. lemmonii,Eriocoma lemmonii lemmonii,"Open, grassy south facing bluffs, all islands.",,,AS,complete
+ogi,Poaceae,Agrostis capillaris,Agrostis capillaris,"Meadow and pasture throughout, all islands.",,,,remaining
+ogi,Poaceae,Agrostis exarata,Agrostis exarata,"Roadsides and fields, all islands.",,,,remaining
+ogi,Poaceae,Agrostis gigantea,Agrostis gigantea,"Lawns, fields and roadsides, all islands. Including Agrostis alba var. palustris and var. stolonifera",,,,remaining
+ogi,Poaceae,Agrostis microphylla,Agrostis microphylla,"HJ record from East Point, Saturna, probably more widespread on othe islands. Pojar Cabbage Island 1976.",,,,remaining
+ogi,Poaceae,Agrostis pallens,Agrostis pallens,"Dry upland pasture Saturna, Mayne, Galiano.",,,,remaining
+ogi,Poaceae,Agrostis scabra,Agrostis scabra,"Logging roads, fens; all islands.",,,,remaining
+ogi,Poaceae,Aira caryophyllea,Aira caryophyllea,"Open bluffs and grassy slopes, particularly where disturbed. All islands.",,,AS,complete
+ogi,Poaceae,Aira praecox,Aira praecox,"Open bluffs and grassy slopes, particularly where disturbed. All islands.",,,AS,complete
+ogi,Poaceae,Alopecurus aequalis,Alopecurus aequalis,"Buck Lake, North Pender, Money Lake and lowland fen on Mt David, Saturna, TRA South Pender.",,,,remaining
+ogi,Poaceae,Alopecurus geniculatus,Alopecurus geniculatus,"Wet meadows, all islands.",,,,remaining
+ogi,Poaceae,Alopecurus pratensis,Alopecurus pratensis,"Wet meadows and fields throughout, all islands.",,,,remaining
+ogi,Poaceae,Anthoxanthum aristatum ssp. aristatum,Anthoxanthum aristatum aristatum,"Bellhouse park , rocky, thin soil. HJ",,,AS,complete
+ogi,Poaceae,Anthoxanthum odoratum,Anthoxanthum odoratum,"Grassy bluffs, dry fields throughout, all islands.",,,AS,complete
+ogi,Poaceae,Apera interrupta,Apera interrupta,"AC Oak Bluff Rd, N Pender 1983.",,,,remaining
+ogi,Poaceae,Arrhenatherum elatius,Arrhenatherum elatius,"Dry meadows, farm fields and roadside, all islands.",,,,remaining
+ogi,Poaceae,Avena sativa,Avena sativa,"Galiano, Occasionally introduced by highways, all islands",,,,remaining
+ogi,Poaceae,Bromus commutatus,Bromus commutatus,HJ collections reidentified by LEP. Not known from area.,,,,remaining
+ogi,Poaceae,Bromus diandrus,Bromus diandrus,"Roadside, grassy bluffs, disturbed ground. All islands.",,,,remaining
+ogi,Poaceae,Bromus hordeaceus,Bromus hordeaceus,"Bluffs, roadside and waste ground. All islands.",,,,remaining
+ogi,Poaceae,Bromus inermis,Bromus inermis,"Roadside, disturbed ground all islands.",,,,remaining
+ogi,Poaceae,Bromus pacificus,Bromus pacificus,HJ collections all reidentified as others LEP. One remaining valid from Saturna,,,,remaining
+ogi,Poaceae,Bromus secalinus,Bromus secalinus,AS Mt.Galiano iNaturalist observation 2017.,,,,remaining
+ogi,Poaceae,Bromus sitchensis,Bromus sitchensis,"Saturna, Galiano, N Pender. Var. aleutensis and marginatus",,,,remaining
+ogi,Poaceae,Bromus sitchensis var. aleutensis,Bromus sitchensis aleutensis,"Forest edges, bluffs, roadsides. All islands.",,,,remaining
+ogi,Poaceae,Bromus sitchensis var. carinatus,Bromus carinatus,"Shoreline bluffs, roadsides and waste places.All islands. Var. marginatus",,,,remaining
+ogi,Poaceae,Bromus sterilis,Bromus sterilis,"Fields, roadside and waste places throughout. All islands.",,,,remaining
+ogi,Poaceae,Bromus tectorum,Bromus tectorum,"Roadsides, banks, and waste places, all islands.",,,,remaining
+ogi,Poaceae,Bromus vulgaris,Bromus vulgaris,"Open woodland, trails; all islands.",,,,remaining
+ogi,Poaceae,Calamagrostis canadensis,Calamagrostis canadensis,"Var. canadensis HJ Roe Lake, N Pender. Margins of small upland fens, Saturna.",,,,remaining
+ogi,Poaceae,Cinna latifolia,Cinna latifolia,HJ Galiano Stockade Hill seepy spot in wet forest. AS ER15 Saturna 2020.,,,,remaining
+ogi,Poaceae,Cynosurus cristatus,Cynosurus cristatus,"Fields, roadsides and waste places; common throughout. All islands.",,,,remaining
+ogi,Poaceae,Cynosurus echinatus,Cynosurus echinatus,Roadside and waste ground. Spreading into grassy bluffs. All islands.,,,,remaining
+ogi,Poaceae,Dactylis glomerata,Dactylis glomerata,"Farm fields, roadsides and grassy bluffs. All islands.",,,,remaining
+ogi,Poaceae,Danthonia californica,Danthonia californica,Grassy ridges and bluffs. All islands.,,,,remaining
+ogi,Poaceae,Danthonia decumbens,Danthonia decumbens,HLR collection Prevost Island.,,,,remaining
+ogi,Poaceae,Danthonia intermedia,Danthonia intermedia,Galiano location? Miskelly 2017 Bioblitz.,,,,remaining
+ogi,Poaceae,Deschampsia cespitosa ssp. beringensis,Deschampsia cespitosa beringensis,Galiano location? Tumbo Island HJ abundant in wet meadow next to salt marsh.,not in FPNW2,,,remaining
+ogi,Poaceae,Deschampsia danthonioides,Deschampsia danthonioides,Cabbage Island Pojar. Galiano Bellhouse Point HJ 1984. A&O Ceska Tumbo Island 1976. Saturna Ball Field HJ 2000.,,,,remaining
+ogi,Poaceae,Deschampsia elongata,Deschampsia elongata,"Roadside, disturbed and waste ground, all main islands.",,,,remaining
+ogi,Poaceae,Digitaria sanguinalis,Digitaria sanguinalis,Abandoned garden Saturna HJ 1979.,,,,remaining
+ogi,Poaceae,Distichlis spicata,Distichlis spicata,"Shoreline and strand, all islands.",,,,remaining
+ogi,Poaceae,Echinochloa crus-galli,Echinochloa crus-galli,"Abandoned gardens, and introduced in hay. Saturna HJ. Ballingal Islets, Bennet 1989",,,,remaining
+ogi,Poaceae,Elymus glaucus,Elymus glaucus,Open woods and dry hillside. All islands.,,,,remaining
+ogi,Poaceae,Elymus repens,Elymus repens,"Fields, roadsides and waste places, all islands.",,,,remaining
+ogi,Poaceae,Elymus trachycaulus ssp. trachycaulus,Elymus trachycaulus trachycaulus,"Roadsides, waste areas. Saturna, South Pender. Probably spread by highways throughout.",,,,remaining
+ogi,Poaceae,Festuca occidentalis,Festuca occidentalis,"Shady, moss-floored forest, common. All islands.",,,,remaining
+ogi,Poaceae,Festuca roemeri,Festuca roemeri,"Grassy bluffs Saturna, Mayne, Galiano",,,,remaining
+ogi,Poaceae,Festuca rubra,Festuca rubra,Grassy bluffs and hillsides throughout. All islands.,,,,remaining
+ogi,Poaceae,Festuca saximontana var. saximontana,Festuca saximontana saximontana,"Saarela and Cronk Mt Parke, Mayne 2007.",,,,remaining
+ogi,Poaceae,Festuca subulata,Festuca subulata,"Moist, shady forest throughout. All islands.",,,,remaining
+ogi,Poaceae,Festuca subuliflora,Festuca subuliflora,Dry Douglas Fir forest throughout. All islands.,,,,remaining
+ogi,Poaceae,Festuca trachyphylla,Festuca trachyphylla,"Roadside in new gravel along Gaines Rd., Saturna HJ",,,,remaining
+ogi,Poaceae,Glyceria borealis,Glyceria borealis,"Galiano, fen near summit of Mt Galiano.",,,,remaining
+ogi,Poaceae,Glyceria declinata,Glyceria declinata,"HJ Mt Galiano 1982. F Lomer 1998 Mayne Island, northwest side, Dinner Point Community Park Habitat: Wet lawn in corner of old baseball field",,,,remaining
+ogi,Poaceae,Glyceria elata,Glyceria elata,AS ER 128 Sphagnum bog Galiano 2018.,,,,remaining
+ogi,Poaceae,Glyceria leptostachya,Glyceria leptostachya,GD Mt Galiano sedge fen 1982,,,,remaining
+ogi,Poaceae,Glyceria occidentalis,Glyceria × occidentalis,"HJ Mayne wet meadow in shade of Salix lasiandra also Horton Bay. TRA South Pender. JP & HJ S Pender in a wetland in an agricultural field in standing water with Potentilla anserina, Rosa nutkana, Juncus effusus, Ranunculus repens, & Polygonum persicaria 1996.",,,,remaining
+ogi,Poaceae,Glyceria striata,Glyceria striata,Galiano ER 128 Sphagnum Bog HJ 2003,,,,remaining
+ogi,Poaceae,Holcus lanatus,Holcus lanatus,"Meadows, Farm fields disturbed groun throughout. All islands.",,,,remaining
+ogi,Poaceae,Hordeum brachyantherum,Hordeum brachyantherum,"Wet meadows and salt marshes, all islands.",,,,remaining
+ogi,Poaceae,Hordeum jubatum ssp. jubatum,Hordeum jubatum jubatum,Parker Island salt marsh HJ 1981.,,,,remaining
+ogi,Poaceae,Hordeum murinum ssp. leporinum,Hordeum murinum leporinum,"Roadsides and waste ground throughout, all islands.",,,,remaining
+ogi,Poaceae,Hordeum murinum ssp. murinum,Hordeum murinum murinum,Galiano w/ssp. Leporinum,,,,remaining
+ogi,Poaceae,Koeleria macrantha,Koeleria macrantha,Grassy bluffs and ledges. All islands,,,AS,complete
+ogi,Poaceae,Leymus mollis ssp. mollis,Leymus mollis mollis,"Rocky shorelines, all islands.",,,,remaining
+ogi,Poaceae,Lolium multiflorum,Lolium multiflorum,"Roadside, farm fields, meadows and disturbed ground. All islands.",,,,remaining
+ogi,Poaceae,Lolium perenne,Lolium perenne,"Roadside, farm fields, meadows and disturbed ground. All islands.",,,AS,complete
+ogi,Poaceae,Melica harfordii,Melica harfordii,"Dry Fir-Arbutus forest Mayne, Saturna Galiano. Not found on Penders in dedicated search.",,,,remaining
+ogi,Poaceae,Melica smithii,Melica smithii,Galiano Bodega ridge. Not relocated 2019. Crins above Montague Harbour 1986.,,,,remaining
+ogi,Poaceae,Melica subulata,Melica subulata,"Shady to open coniferous forest, trails; All islands",,,,remaining
+ogi,Poaceae,Panicum capillare,Panicum capillare,Flower beds and lawns under bird feeders Saturna. AS Bellhouse Park Galiano 2019.,,,,remaining
+ogi,Poaceae,Panicum miliaceum ssp. ruderale,Panicum miliaceum ruderale,Saturna. Once in old garbage dump.,,,,remaining
+ogi,Poaceae,Phalaris arundinacea,Phalaris arundinacea,"Wet meadows, ponds and lake margins. All islands.",,,,remaining
+ogi,Poaceae,Phalaris canariensis,Phalaris canariensis,Disturbed ground. Saturna garbage dump. Mayne location? Galiano location?,,,,remaining
+ogi,Poaceae,Phleum pratense,Phleum pratense,"Meadows, roadsides and farm fields. All islands.",,,,remaining
+ogi,Poaceae,Phragmites australis ssp. australis,Phragmites australis australis,Galiano ER128 sphagnum bog. Original HJ coll det as communis now=> australis ssp a. ? ssp americanus AW 1975 on molecular evidence. Ligule of HJ coll membranous part of ligule ~1mm=americanus. Ssp undet for Galiano - recollect.,,,,remaining
+ogi,Poaceae,Poa annua,Poa annua,Disturbed and waste ground throughout. All islands.,,,,remaining
+ogi,Poaceae,Poa bulbosa,Poa bulbosa,"Roadsides, waste ground throughout. All islands. ssp. vivipara common",,,,remaining
+ogi,Poaceae,Poa compressa,Poa compressa,Roadside and waste ground throughout. All islands.,,,,remaining
+ogi,Poaceae,Poa confinis,Poa confinis,HJ Georgeson Island 1975.,,,,remaining
+ogi,Poaceae,Poa howellii,Poa howellii,"Shady forest roadsides, logging roads. All islands.",,,,remaining
+ogi,Poaceae,Poa infirma,Poa infirma,"FL Galiano Montague tidal mud; Sturdies Bay, crumbling blacktop margin 2014.",,,,remaining
+ogi,Poaceae,Poa macrantha,Poa macrantha,"Anniversary island off Saturna RLT at UBC, A&OC and RTO N Pender 1983.",,,,remaining
+ogi,Poaceae,Poa nemoralis,Poa nemoralis,HJ coll from Galiano at V location (DL 4?) 1984.,,,,remaining
+ogi,Poaceae,Poa palustris,Poa palustris,HJ Saturna Scirpus-Carex fen 1996.,,,,remaining
+ogi,Poaceae,Poa pratensis,Poa pratensis,"Lawn, roadside, fields, grassy bluffs. All islands",,,,remaining
+ogi,Poaceae,Poa secunda ssp. secunda,Poa secunda secunda,"Grassy bluffs, seaside cliffs. All islands. Recheck vouchers at V",,,,remaining
+ogi,Poaceae,Poa trivialis,Poa trivialis,Alder bottoms and moist shady sites. All islands.,,,,remaining
+ogi,Poaceae,Polypogon monspeliensis,Polypogon monspeliensis,Marshy ground just above high tie line.Saturna and Galiano.,,,,remaining
+ogi,Poaceae,Puccinellia distans,Puccinellia distans,TRA collection South Pender re-identified as P. nuttalliana,,,,remaining
+ogi,Poaceae,Puccinellia nutkaensis,Puccinellia nutkaensis,"Salt marshes and mud flats Mayne, Galiano, N Pender.",,,,remaining
+ogi,Poaceae,Puccinellia nuttalliana,Puccinellia nuttalliana,Salt marshes and mud flats. All islands.,,,,remaining
+ogi,Poaceae,Puccinellia pumila,Puccinellia pumila,"Church Cove Saturna HJ. Whalers Bay, Montague, Galiano 11979 HJ. A&OC S Pender spit 1983, HJ Horton Bay Mayne 1975.",,,,remaining
+ogi,Poaceae,Schedonorus arundinaceus,Lolium arundinaceum,"Farm fields, meadows and roadside, All islands.",,,,remaining
+ogi,Poaceae,Schedonorus pratensis,Lolium pratense,Galiano location? Collector? HJ?,,,,remaining
+ogi,Poaceae,Secale cereale,Secale cereale,Introduced by Highways for road cut stabilization. All islands.,,,,remaining
+ogi,Poaceae,Setaria pumila,Setaria pumila,"Bird feeder escape, not persisting Saturna HJ.",,,,remaining
+ogi,Poaceae,Setaria viridis,Setaria viridis,"Introduced from bird feeders also in gardens Saturna, Galiano, Mayne. Bellhouse Park, Galiano",,,,remaining
+ogi,Poaceae,Torreyochloa pallida var. pauciflora,Torreyochloa pallida pauciflora,"Standing water, ponds, wetlands. All islands.",,,,remaining
+ogi,Poaceae,Trisetum canescens,Trisetum canescens,Open Fir forest throughout. All islands.,,,,remaining
+ogi,Poaceae,Trisetum cernuum,Trisetum cernuum,"Alder woodlands, Fir-sword fern forest. All islands.",,,,remaining
+ogi,Poaceae,Vulpia bromoides,Festuca bromoides,"Dry meadow, disturbed ground and roadsides. All islands.",,,AS,complete
+ogi,Poaceae,Vulpia microstachys,Festuca microstachys,Roadsides and disturbed areas. All islands.,,,AS,complete
+ogi,Poaceae,Vulpia myuros,Festuca myuros,Roadsides and disturbed areas. All islands.,,,AS,complete
+ogi,Poaceae,Zizania aquatica,Zizania aquatica,TRA North Pender probably introduced. Persistant? Possibly Z. palustris? No herbarium record.,,,,remaining
+ogi,Polemoniaceae,Collomia heterophylla,Collomia heterophylla,"Open ground, dirt roads, all islands.",,,,remaining
+ogi,Polemoniaceae,Leptosiphon bicolor,Leptosiphon bicolor,"Open grassy bluffs and ridges, all islands.",,,,remaining
+ogi,Polemoniaceae,Leptosiphon minimus,Leptosiphon minimus,"Taylor Bodega Ridge, Galiano 2006.",,,,remaining
+ogi,Polemoniaceae,Microsteris gracilis,Microsteris gracilis,"Open bluffs, grassy roadsides, dirt roads, Saturna, Mayne, Galiano.",,,,remaining
+ogi,Polemoniaceae,Navarretia squarrosa,Navarretia squarrosa,"Open ground, fields, and roadsides, all islands.",,,AS,complete
+ogi,Polygonaceae,Fallopia convolvulus,Fallopia convolvulus,"Gardens, waste ground, disturbed ground. All islands.",,,,remaining
+ogi,Polygonaceae,Fallopia japonica,Reynoutria japonica,AS roadside Georgeson Bay Road Galiano 2016. HJ N Pender roadside 1983.,,,,remaining
+ogi,Polygonaceae,Fallopia sachalinensis,Reynoutria sachalinensis,"Roadside HJ Mayne 1979, HJ also North Pender. J Macoun Mayne 1914.",,,,remaining
+ogi,Polygonaceae,Persicaria amphibia,Persicaria amphibia,"Ponds, wetlands, lake edges. All islands.",,,,remaining
+ogi,Polygonaceae,Persicaria lapathifolia,Persicaria lapathifolia,"Disturbed ground, gardens. All islannds.",,,,remaining
+ogi,Polygonaceae,Persicaria maculosa,Persicaria maculosa,"Disturbed ground, gardens, wet meadows. All islands.",,,,remaining
+ogi,Polygonaceae,Persicaria wallichii,Persicaria wallichii,"Fields in Village Bay, Mayne HJ 1983. Listed by Invasive Species Council of BC.",,,,remaining
+ogi,Polygonaceae,Polygonum aviculare,Polygonum aviculare,"Open, waste places, hard-packed soil and disturbed cultivated land; a common and aggressive weed throughout;",,,,remaining
+ogi,Polygonaceae,Polygonum fowleri,Polygonum fowleri,"Beaches, salt marsh edges, all islands.",,,,remaining
+ogi,Polygonaceae,Polygonum nuttallii,Polygonum nuttallii,"HLR 2000 Gowland Point S Pender exposed site, open to SE winds and salt spray, partly bare soil and rubble.",,,,remaining
+ogi,Polygonaceae,Polygonum spergulariiforme,Polygonum spergulariiforme,"Bluffs, grassy rocky south facing slopes. All islands.",,,,remaining
+ogi,Polygonaceae,Pterostegia drymarioides,Pterostegia drymarioides,"Bahati iNaturalist observation Bellhouse Park, Galiano 2021.",not in FPNW2,,,remaining
+ogi,Polygonaceae,Rumex acetosella,Rumex acetosella,"Grassy bluffs, roadside, cultivated and disturbed ground. All islands.",,,,remaining
+ogi,Polygonaceae,Rumex conglomeratus,Rumex conglomeratus,"Disturbed ground, wetlands. All islands.",,,,remaining
+ogi,Polygonaceae,Rumex crispus,Rumex crispus,"Gardens, cultivated ground. All islands.",,,,remaining
+ogi,Polygonaceae,Rumex maritimus,Rumex maritimus,Tumbo salt marsh HJ 1979.,,,,remaining
+ogi,Polygonaceae,Rumex obtusifolius,Rumex obtusifolius,"Roadside, wet wasteland, gardens. All islands.",,,,remaining
+ogi,Polygonaceae,Rumex occidentalis,Rumex occidentalis,"Salt marshes. Saturna, Boot Cove. Parker HJ. TRA S Pender Spaldings landing 1959",,,,remaining
+ogi,Polygonaceae,Rumex salicifolius,Rumex salicifolius,"Beaches, driftwood, occasional in fresh water. All islands.Forrest Island HJ.",,,,remaining
+ogi,Polypodiaceae,Polypodium glycyrrhiza,Polypodium glycyrrhiza,"Shaded north slopes, mossy rocks, tree trunks; common throughout all islands. Occasional on small rocky islets",,,,remaining
+ogi,Portulacaceae,Portulaca oleracea,Portulaca oleracea,"Gardens and waste ground. Saturna, North Pender.",,,,remaining
+ogi,Potamogetonaceae,Potamogeton amplifolius,Potamogeton amplifolius,Galiano Laughlin Lake. North Pender Magic Lake.,,,,remaining
+ogi,Potamogetonaceae,Potamogeton berchtoldii,Potamogeton berchtoldii,"Shallow ponds and lakes, all islands.",,,,remaining
+ogi,Potamogetonaceae,Potamogeton crispus,Potamogeton crispus,"Shallow pond below Mt David, Saturna.",,,,remaining
+ogi,Potamogetonaceae,Potamogeton foliosus,Potamogeton foliosus,"Magic Lake NP, Greenburn Lake SP",,,,remaining
+ogi,Potamogetonaceae,Potamogeton gramineus,Potamogeton gramineus,Erickson & Gates Laughlin Lake Galiano. date?,,"""Potamogeton gramineus - Note says native to Europe, which is true, but it is also a native to N.A. including BC"" FL",FL,in progress
+ogi,Potamogetonaceae,Potamogeton natans,Potamogeton natans,Shallow standing waters and lakes all islands,,,,remaining
+ogi,Potamogetonaceae,Potamogeton oakesianus,Potamogeton oakesianus,"Single location, Farm pond below east slope of Mt Sutil. Re-check voucher. QC note: single P. oakesianus specimen at UBC has recently been redetermined as P. gramineus, and its been suggested that P. oakesianus does not occur in BC",,"""The identity of this collection was stalled when the virus hit. I believe this species was never in BC."" FL ""The id was Adolf Ceska’s, I have a note to recheck at V."" –HJ; ""At the UBC herbarium, I looked at some loan material from V recently. Among the sheets I borrowed was Potamogeton oakesianus from Galiano and Steelhead, BC. I annotated these two specimens to Potamogeton gramineus.  They appear to be narrow-leaved forms, sometimes called P. gramineus var. myriophyllus. But today, this is just thought to be part of the tremendous morphological variation of this species."" FL; Delete this record –AS","HJ, FL, AS",in progress
+ogi,Potamogetonaceae,Potamogeton praelongus,Potamogeton praelongus,"K Wall Buck Lake, N Pender 2020. iNaturalist post.",,,,remaining
+ogi,Potamogetonaceae,Potamogeton pusillus,Potamogeton pusillus,PDW N Pender 1977.,,,,remaining
+ogi,Potamogetonaceae,Potamogeton robbinsii,Potamogeton robbinsii,"Shallow lake below Mt. David, Saturna.",,,,remaining
+ogi,Potamogetonaceae,Stuckenia filiformis,Stuckenia filiformis,"Tumbo Island in deep, brackish pools.",,,,remaining
+ogi,Primulaceae,Cyclamen hederifolium,Cyclamen hederifolium,"Moser Graveyard, Galiano. Persisting and marginally naturalizing Saturna.",,,,remaining
+ogi,Primulaceae,Dodecatheon hendersonii,Primula hendersonii,"HJ Dionisio Point, Galiano 1975, Krug Phillimore Point, Galiano 2017. AS Not common on islands.",,Primula,AS,in progress
+ogi,Primulaceae,Dodecatheon pulchellum var. macrocarpum,Primula pauciflora macrocarpa,"Wet, grassy places. HJ seep on grassy cliffs above sea East Point, Saturna 1974. HJ Bellhouse Park, Galiano 1983.",,Primula,AS,in progress
+ogi,Primulaceae,Lysimachia arvensis,Lysimachia arvensis,"Disturbed ground, often where water pools, all islands.",,,AS,complete
+ogi,Primulaceae,Lysimachia europaea,Lysimachia europaea,"HJ Cranberry Swamp, Saturna 1975, Sphagnum Bog, Galiano 1975.",,name?,AS,in progress
+ogi,Primulaceae,Lysimachia latifolia,Lysimachia latifolia,"Shady, open upland forest, all islands.",,,AS,complete
+ogi,Primulaceae,Lysimachia maritima,Lysimachia maritima,"HJ Whalers Bay, Galiano mud flats 1979.",,,AS,complete
+ogi,Primulaceae,Lysimachia minima,Lysimachia minima,"HJ vernal pools Mayne, Saturna 1984. Macoun Mayne 1914. FL Valdes Island 2008. AS Galiano 2020.",,,AS,complete
+ogi,Primulaceae,Lysimachia thyrsiflora,Lysimachia thyrsiflora,"TRA Roe Lake NP, HJ Greenburn Lake, S Pender 1975. HJ Sphagnum bog Galiano 1981.",,,AS,complete
+ogi,Pteridaceae,Adiantum aleuticum,Adiantum aleuticum,"All main islands. Shady stream valleys and waterfalls, seasonal creek outlets on shorelines. Always associated with activly flowing water.",,,AS,complete
+ogi,Pteridaceae,Aspidotis densa,Aspidotis densa,Saturna mossy north slope meadow Mt. Fisher. Valdes in seepy herbaceous communities on the northeast coast,,,AS,complete
+ogi,Pteridaceae,Pentagramma triangularis,Pentagramma triangularis,South facing rocky ledges. All islands.,,,,remaining
+ogi,Ranunculaceae,Actaea rubra,Actaea rubra,"Galiano not relocated. HJ creek in Georgeson Bay 1981, Morgan same 1935.",,,,remaining
+ogi,Ranunculaceae,Aquilegia formosa,Aquilegia formosa,"Shady disturbed forest, roadsides. All islands.",,,AS,complete
+ogi,Ranunculaceae,Aquilegia vulgaris,Aquilegia vulgaris,Persisting in old and abandoned gardens.,,,,remaining
+ogi,Ranunculaceae,Clematis vitalba,Clematis vitalba,"HJ Miners Bay Road, Mayne. Huggins Galiano 2019.",,,,remaining
+ogi,Ranunculaceae,Delphinium ajacis,Consolida ajacis,"HJ Willey Point, N Pender, Galiano Lodge, Galiano. Escaping into waste areas. Henry reported from Mayne.",,,,remaining
+ogi,Ranunculaceae,Delphinium menziesii,Delphinium menziesii,"Coastal bluffs, grassy meadows, and wooded dry places, all islands.",,,,remaining
+ogi,Ranunculaceae,Halerpestes cymbalaria,Halerpestes cymbalaria,"HJ Lyall Creek mud flats, Saturna 1975, Horton Bay mudflats , Mayne 1976",,,,remaining
+ogi,Ranunculaceae,Helleborus foetidus,Helleborus foetidus,Marginally escaping Saturna. No collections.,,,,remaining
+ogi,Ranunculaceae,Myosurus minimus,Myosurus minimus,"Winter Cove Park, Georga Strait shoreline, East Point, Tumbo Saturna, HJ. FL Montague park picnic area, Galiano 2014. JP Drummond Bay, S Pender.FL Prevost Island 2004.",,,,remaining
+ogi,Ranunculaceae,Ranunculus acris,Ranunculus acris,"Roadsides and meadows, all islands.",,,AS,complete
+ogi,Ranunculaceae,Ranunculus aquatilis,Ranunculus aquatilis,"Lakes and Ponds, all islands.",,assess in light of recent taxonomic revisions,AS,in progress
+ogi,Ranunculaceae,Ranunculus californicus,Ranunculus californicus,"Questionable population in disturbed Fir forest adjacent to farm field, Saturna. Could be Ranunculus x-heimburgerae Brayshaw ??",,,,remaining
+ogi,Ranunculaceae,Ranunculus flammula,Ranunculus flammula,"Lake shores and standing water at fen edges, Saturna, Mayne, Galiano, S Pender",,Also found on Prevost Island (HJ7 journal observation),AS,complete
+ogi,Ranunculaceae,Ranunculus occidentalis var. occidentalis,Ranunculus occidentalis occidentalis,"Ridges, forest edges, dry meadows, all islands.",,,AS,complete
+ogi,Ranunculaceae,Ranunculus orthorhynchus,Ranunculus orthorhynchus,"Moist fields and marsh edges, Saturna, Samuel",,,,remaining
+ogi,Ranunculaceae,Ranunculus parviflorus,Ranunculus parviflorus,"Frank Lomer collection from Port Washington on North Pender Island May 6, 2003.",,,,remaining
+ogi,Ranunculaceae,Ranunculus repens,Ranunculus repens,"Moist areas, meadows, lawns, all islands..",,,AS,complete
+ogi,Ranunculaceae,Ranunculus sardous,Ranunculus sardous,"HJ Dry meadow North Galiano 1982, HJ Whalers Bay log dump 1986. AS Galiano 2016, 2018.",,,AS,complete
+ogi,Ranunculaceae,Ranunculus uncinatus,Ranunculus uncinatus,"Wet meadow, logging roads, wetland edges, all islands.",,,AS,complete
+ogi,Ranunculaceae,Thalictrum occidentale,Thalictrum occidentale,"HJ observation sterile single in woods above Browning Harbour, N Pender. No collection.",,,,remaining
+ogi,Rhamnaceae,Ceanothus sanguineus,Ceanothus sanguineus,"Rocky ridges, Saturna, Galiano",,,,remaining
+ogi,Rhamnaceae,Frangula purshiana,Frangula purshiana,"Forest understory and margins, Galiano, Mayne, N Pender.",,,,remaining
+ogi,Rosaceae,Amelanchier alnifolia,Amelanchier alnifolia semiintegrifolia,"Open woods, hillsides, and roadsides; common throughout, all islands.",,= Amelanchier florida = Amelanchier alnifolia var. semiintegrifolia?,AS,in progress
+ogi,Rosaceae,Aphanes arvensis,Alchemilla arvensis,"FL Prevost Island, Selby Point 2004, AS Bluffs Park, Galiano 2017",,some authorities appear to have synonymized A. arvensis and A. occidentalis? = Alchemilla arvensis?,AS,in progress
+ogi,Rosaceae,Aphanes australis,Alchemilla australis,"FL N Pender Otter Bay Marina 2003, S Pender Spaldng Road 2006.",,,,remaining
+ogi,Rosaceae,Aphanes occidentalis,Alchemilla arvensis,"Open, dry ground; FL Brooks Point, S Pender 2003, FL Prevost Island 2004, Starzomski, Bellhouse Park, Galiano 2019.",,some authorities appear to have synonymized A. arvensis and A. occidentalis? = Alchemilla arvensis?,AS,in progress
+ogi,Rosaceae,Comarum palustre,Comarum palustre,"HJ Sphagnum Bog, Galiano 1975. Greenburn Lake, S Pender 1975",,,,remaining
+ogi,Rosaceae,Cotoneaster spp.,Cotoneaster,"C. dielsiana, franchetii, horizontalis, simonsii reported for Galiano. Horizontalis occasional other islands. C. salicifolius Saturna.",,,,remaining
+ogi,Rosaceae,Crataegus douglasii,Crataegus douglasii,"Coastal bluffs, meadow lands, open forests, and thickets; rare all islands.",,,,remaining
+ogi,Rosaceae,Crataegus laevigata,Crataegus laevigata,"Occasional seed reproduction Saturna Beach area, Saturna. Baxter N Pender iNaturalist report 2020.",,,,remaining
+ogi,Rosaceae,Crataegus monogyna,Crataegus monogyna,Escapee from cultivation and well established in many areas all islands.,,,,remaining
+ogi,Rosaceae,Drymocallis glandulosa,Drymocallis glandulosa,"Ledge in vertical sandstone cliff just above sea Old Point, Saturna 1993.",,,,remaining
+ogi,Rosaceae,Fragaria chiloensis,Fragaria chiloensis,"HJ Porlier Pass, Galiano 1975.",,,,remaining
+ogi,Rosaceae,Fragaria vesca ssp. californica,Fragaria vesca californica,"Wooded areas, streambanks, and open grassland; common throughout, all islands.",,,,remaining
+ogi,Rosaceae,Geum macrophyllum,Geum macrophyllum,"Moist, shady ground; widely distributed throughout. All islands.",,,,remaining
+ogi,Rosaceae,Holodiscus discolor var. discolor,Holodiscus discolor discolor,"Mesic forest, roadsides, all islands.",,,,remaining
+ogi,Rosaceae,Malus fusca,Malus fusca,"Moist woods, banks, and margins of lakes, all islands. Forming an unusual swamp community with Populus tremuloides in the wet interior of Cabbage Island.",,,AS,complete
+ogi,Rosaceae,Malus pumila,Malus domestica,"Occasional seedling roadside and farm fields, Saturna, Galiano.",,,,remaining
+ogi,Rosaceae,Oemleria cerasiformis,Oemleria cerasiformis,"Open woods, roadsides Saturna, Galiano; rare on Outer Gulf Islands",,,,remaining
+ogi,Rosaceae,Physocarpus capitatus,Physocarpus capitatus,"Moist woods, streambanks and lake margins, all islands.",,,,remaining
+ogi,Rosaceae,Potentilla anglica,Potentilla anglica,FL Prevost Island few patches in wet meadow dominated by Agrostis sp. 30 April 2004,,,,remaining
+ogi,Rosaceae,Potentilla anserina ssp. pacifica,Argentina pacifica,"Mud flats, wet meadowland, margins of ponds and streams; alll islands.",,,,remaining
+ogi,Rosaceae,Potentilla gracilis var. gracilis,Potentilla gracilis gracilis,"Grassy point, Port Washington, N Pender HJ 1981.",,,,remaining
+ogi,Rosaceae,Potentilla norvegica,Potentilla norvegica,"HJ Sunshine Farm, Galiano 1975, DL51 Galiano 1979. On deep, peaty soils.",,,,remaining
+ogi,Rosaceae,Potentilla recta,Potentilla recta,"Saturna Beach area, General Store, Saturna HJ 1975-2015. Georgina Point, Mayne HJ. Areas where hay from eastern Washington has been fed. Heffley Galiano 2020. Listed by the Invasive Species Council of BC.",,,,remaining
+ogi,Rosaceae,Poteridium annuum,Sanguisorba annua,Mayne location?,,,,remaining
+ogi,Rosaceae,Poterium sanguisorba,Sanguisorba minor,"Waste places, disturbed ground, all islands.",,,,remaining
+ogi,Rosaceae,Prunus avium,Prunus avium,"Occasional seedlings Saturna, Galiano",,,,remaining
+ogi,Rosaceae,Prunus cerasifera,Prunus cerasifera,Chaisson dry forest Montague Harbour Park Galiano 2019. Roadside iNaturalist report Port Washington 2021.,,,,remaining
+ogi,Rosaceae,Prunus domestica,Prunus domestica,"Occaasional hedgerows, roadsides, Saturna, Galiano. On Lomer & Penny's non-established list.",,"on list of non-established BC plants (AS); we still have retained on the established flora, with the following description. “Rare garden escape, primarily San Juan, also Skull, Blind, and Matia” (PD).",,in progress
+ogi,Rosaceae,Prunus emarginata,Prunus emarginata,"Moist, northern slope forest, all islands.",,,,remaining
+ogi,Rosaceae,Prunus laurocerasus,Prunus laurocerasus,"HJ N Pender 1975, in fir-sword fern forest. AS Galiano 2016.",,,,remaining
+ogi,Rosaceae,Prunus pugetensis,Prunus × pugetensis,"FL Sturdies Bay, Rough backyard lot full of Bromus sterilis with Arbutus menziesii, Pseudotsuga menziesii 2014.",,,,remaining
+ogi,Rosaceae,Prunus virginiana,Prunus virginiana,"Occasional bluffs, ledges and cliffs, all islands",,,,remaining
+ogi,Rosaceae,Pyrus communis,Pyrus communis,"Occasional hedgerow seedling Galiano, Saturna.",,,,remaining
+ogi,Rosaceae,Rosa canina,Rosa canina,"Zika S Pender hedgerows, disturbed meadow 2003. AS Penfold Rd, Galiano.",,,,remaining
+ogi,Rosaceae,Rosa gymnocarpa,Rosa gymnocarpa,"Mesic forest throughout, all islands.",,,,remaining
+ogi,Rosaceae,Rosa nutkana,Rosa nutkana,"Wetland edges, shoreline wet spots, all islands.",,,,remaining
+ogi,Rosaceae,Rosa pisocarpa,Rosa pisocarpa,TRA Gossip Island,,,,remaining
+ogi,Rosaceae,Rosa rubiginosa,Rosa rubiginosa,"Farm fields, hedgerows, occasionally spreading into forest, all islands.",,,,remaining
+ogi,Rosaceae,Rubus armeniacus,Rubus armeniacus,Question if can be separated from bifrons-discolor.,,,,remaining
+ogi,Rosaceae,Rubus bifrons,Rubus bifrons,"Farm fields, meadow, disturbed forest, all islands.",,,,remaining
+ogi,Rosaceae,Rubus laciniatus,Rubus laciniatus,"Disturbed forest, farm fields, all islands.",,,,remaining
+ogi,Rosaceae,Rubus leucodermis,Rubus leucodermis,"Disturbed forest, forest edges, all islands.",,,,remaining
+ogi,Rosaceae,Rubus nutkanus,Rubus parviflorus,"Damp, shady woods, all islands.",,,,remaining
+ogi,Rosaceae,Rubus spectabilis,Rubus spectabilis,"Borders of woods and open to wooded, moist areas, all islands.",,,,remaining
+ogi,Rosaceae,Rubus ursinus,Rubus ursinus,"Farm fields, meadow, disturbed forest, all islands.",,,,remaining
+ogi,Rosaceae,Sorbus aucuparia,Sorbus aucuparia,"Occasional escapee from cultivation. Farm fields, settled areas. All islands.",,,,remaining
+ogi,Rosaceae,Spiraea douglasii,Spiraea douglasii,"Swamps, bogs, lake margins, and wet, swampy places; rare on Saturna.",,,,remaining
+ogi,Rubiaceae,Galium aparine,Galium aparine,"Lowland disturbed forest, woodland, all islands.",,,,remaining
+ogi,Rubiaceae,Galium mollugo,Galium mollugo,"HJ Rees' farm fields, Galiano 1975",,,,remaining
+ogi,Rubiaceae,Galium trifidum,Galium trifidum,"Fens, ponds, quiet standing water, all islands.",,,,remaining
+ogi,Rubiaceae,Galium triflorum,Galium triflorum,"Open mesic forest, all islands.",,,,remaining
+ogi,Rubiaceae,Galium verum,Galium verum,"HJ Cemetary, Golf Course N Pender 1975, FL meadow, Prevost Island 2004.",,,,remaining
+ogi,Rubiaceae,Sherardia arvensis,Sherardia arvensis,"Waste ground, lawns, roadside, also open, grassy bluffs, all islands.",,,,remaining
+ogi,Ruppiaceae,Ruppia maritima,Ruppia maritima,"Brackish, shoreline marshes Tumbo, Saturna and South Pender.",,,,remaining
+ogi,Salicaceae,Populus nigra,Populus nigra,"Galiano - Georgeson Bay Road planted as a wind-break. Not aware of it anywhere else, though I should pay more attention along Burril Road…AS",,,,remaining
+ogi,Salicaceae,Populus tremuloides,Populus tremuloides,"Occasional dry ridges, shoreline benchs, all islands",,,,remaining
+ogi,Salicaceae,Populus trichocarpa,Populus trichocarpa,Very occasional near wetlands. All islands.,,,,remaining
+ogi,Salicaceae,Salix hookeriana,Salix hookeriana,"Rocky bluffs near salt water and other maritime habitats. Saturna, Galiano, South Pender.",,,,remaining
+ogi,Salicaceae,Salix lasiandra,Salix lasiandra,"Along banks, wet swales and margins of lakes. All islands. HRL 1995 Galiano collection at V as S. lucida Muhl.",,,,remaining
+ogi,Salicaceae,Salix prolixa,Salix prolixa,Galiano location? QC says needs check.,,,,remaining
+ogi,Salicaceae,Salix scouleriana,Salix scouleriana,"Lowland forest, along streams and wet places. All islands.",,,,remaining
+ogi,Salicaceae,Salix sepulcralis,Salix × sepulcralis,Galiano location? Source? On Lomer & Penny's non-established list.,,,,remaining
+ogi,Salicaceae,Salix sitchensis,Salix sitchensis,Ripparian and lake shores. All islands.,,,,remaining
+ogi,Salviniaceae,Azolla filiculoides,Azolla filiculoides,"HJ Saturna 1998. In Typha latifolia fen and on open, fresh water mud flats; with Scirpus microcarpus, Chenopodium rubrum, Veronica beccabunga, Atriplex patula, & Oenanthe sarmentosa.",,,,remaining
+ogi,Santalaceae,Arceuthobium douglasii,Arceuthobium douglasii,Colwell high in Pseudosuga menziiesii north side Galiano. CPNWH nearest records Cascades and east. Possible location Saturna - recheck.,,,,remaining
+ogi,Sapindaceae,Acer glabrum var. douglasii,Acer glabrum douglasii,"Moist woods, rocky slopes, shores; all islands.",,,AS,complete
+ogi,Sapindaceae,Acer macrophyllum,Acer macrophyllum,"On edges of coniferous forest, damp woods, shoreline slopes; all islands.",,,"AS, FL",complete
+ogi,Sapindaceae,Aesculus hippocastanum,Aesculus hippocastanum,Galiano location? Not spreading from purpose planted trees in moist lowland forest Saturna.,,,,remaining
+ogi,Saxifragaceae,Heuchera micrantha var. diversifolia,Heuchera micrantha diversifolia,"Moist, rocky slopes, crevices, all islands.",,,,remaining
+ogi,Saxifragaceae,Lithophragma glabrum,Lithophragma glabrum,"Exposed, grassy bluffs, all islands.",,,AS,complete
+ogi,Saxifragaceae,Lithophragma parviflorum,Lithophragma parviflorum,"Open, rocky places and rocky outcrops; occasionally meadows, all islands.",,,AS,complete
+ogi,Saxifragaceae,Micranthes integrifolia,Micranthes integrifolia,"Grassy bluffs with seepage, all islands.",,,,remaining
+ogi,Saxifragaceae,Micranthes rufidula,Micranthes rufidula,"Mossy rock outcrops with seepage; Saturna, Galiano",,,,remaining
+ogi,Saxifragaceae,Saxifraga cespitosa,Saxifraga cespitosa,"Steep, shaded rocky slopes with seepage, all islands.",,,,remaining
+ogi,Saxifragaceae,Tellima grandiflora,Tellima grandiflora,"Damp, shady woods, valley bottoms, throughout. All islands.",,,AS,complete
+ogi,Saxifragaceae,Tiarella trifoliata var. laciniata,Tiarella trifoliata laciniata,"Wet lowland forest, stream valleys, all islands.",,,AS,complete
+ogi,Saxifragaceae,Tiarella trifoliata var. trifoliata,Tiarella trifoliata trifoliata,"Wet lowland forest, stream valleys, all islands. Most common var of T. t.",,,AS,complete
+ogi,Saxifragaceae,Tiarella trifoliata var. unifoliata,Tiarella trifoliata unifoliata,"Wet lowland forest, stream valleys.occasional all islands, var trifoliata generally most common.",,,AS,complete
+ogi,Saxifragaceae,Tolmiea menziesii,Tolmiea menziesii,Innes Galiano 2017 location? iNat observation withdrawn - remove?,,,,remaining
+ogi,Scrophulariaceae,Buddleja davidii,Buddleja davidii,"Escaping into dry, open fir forest Mayne, Galiano, S Pender. Adventive on Brackman and Cabbage.",,,,remaining
+ogi,Scrophulariaceae,Scrophularia californica,Scrophularia californica,"Davidson Mayne 1915, HJ relocated 1975.",,,,remaining
+ogi,Scrophulariaceae,Verbascum blattaria,Verbascum blattaria,Saturna appeared on fresh plowed ground that had been pasture for 40+ years.,,,,remaining
+ogi,Scrophulariaceae,Verbascum phlomoides,Verbascum phlomoides,"HJ farm fields where hay fed, Galiano 1981; also S.Street garden and Galiano Lodge building site. Taylor Sturdies Bay roadside, Galiano 1992. Widespread on Galiano 2020. Look for hybrids with thapsus - Verbascum ×kerneri",,,,remaining
+ogi,Scrophulariaceae,Verbascum thapsus,Verbascum thapsus,"Roadsides and waste places; spreading onto grassy bluffs, all islands.",,,,remaining
+ogi,Selaginellaceae,Selaginella wallacei,Selaginella wallacei,"South facing, exposed rocky bluffs and slopes; all islands, common throughout.",,,,remaining
+ogi,Solanaceae,Datura stramonium,Datura stramonium,"Occasional waste ground Galiano, Saturna.",,,,remaining
+ogi,Solanaceae,Solanum dulcamara,Solanum dulcamara,"Fens, wetland edges, Saturna, S Pender, N Pender",,,,remaining
+ogi,Solanaceae,Solanum nigrum,Solanum nigrum,"Waste ground, all islands. Recheck collections at V americanum/nigrum",,,,remaining
+ogi,Solanaceae,Solanum physalifolium var. nitidibaccatum,Solanum physalifolium nitidibaccatum,"Disturbed ground, roadsides, all islands.",,,,remaining
+ogi,Solanaceae,Solanum rostratum,Solanum rostratum,"HJ Disturbed ground around a burn scar Saturna 2019. iNaturalist obs Bayview Rd, Mayne 2019.",,,,remaining
+ogi,Taxaceae,Taxus brevifolia,Taxus brevifolia,"Occasional, scattered throughout mesic forest. All islands",,,AS,complete
+ogi,Thymelaeaceae,Daphne laureola,Daphne laureola,"Spreading into mesic forest, all islands.",,,,remaining
+ogi,Typhaceae,Sparganium angustifolium,Sparganium angustifolium,"Magic Lake, east end shallows, N. Pender.",,,,remaining
+ogi,Typhaceae,Sparganium emersum,Sparganium emersum,"Quiet water, lakes and ponds. All islands.",,,,remaining
+ogi,Typhaceae,Sparganium natans,Sparganium natans,AS Great Beaver Swamp Galiano 2018.,,,,remaining
+ogi,Typhaceae,Typha angustifolia,Typha angustifolia,"FL 2014 Galiano Island, property at 10825 Porlier Pass Road. Habitat: Margin of deep pond in old clearcut area, with Juncus articulatus. Erhard Laughlin Lake, Galiano 2013 iNaturalist observation.",,,AS,complete
+ogi,Typhaceae,Typha latifolia,Typha latifolia,"Shallow standing water, all islands.",,,AS,complete
+ogi,Ulmaceae,Ulmus alata,Ulmus alata,"Lions Field, Galiano 2016 Bioblitz. Established? Huggins Burrill Rd, Galiano 2016.",not in FPNW2,,,remaining
+ogi,Urticaceae,Urtica dioica,Urtica dioica,Moist ground in wooded or shady areas; common throughout. All islands. vars?,,=Urtica gracilis ssp. gracilis?,AS,in progress
+ogi,Urticaceae,Urtica urens,Urtica urens,"Occasional weed in gardens and disturbed places, seen but not persisting Saturna.",,,,remaining
+ogi,Viburnaceae,Sambucus racemosa var. arborescens,Sambucus racemosa arborescens,"Open woods, thickets, along the roadsides and edges of woods, all islands.",,,,remaining
+ogi,Violaceae,Viola adunca,Viola adunca,"Grassy bluffs and ridges, Saturna, Mayne.",,,AS,complete
+ogi,Violaceae,Viola macloskeyi,Viola macloskeyi,"HJ Boggy fields, MonarchHead, Saturna. Also occasional in sedge fens Saturna. HLR, AS Sphagnum Bog Galiano.",,,AS,complete
+ogi,Violaceae,Viola odorata,Viola odorata,"Persisting in old flower beds and spreading into lawns. Saturna, Straley Retreat Cove, Galiano 1989. FL S Pender 2006.",,,AS,complete
+ogi,Violaceae,Viola palustris,Viola palustris,"Fens, marshes, all islands.",,,AS,complete
+ogi,Violaceae,Viola sempervirens,Viola sempervirens,"Open upland forest, all islands.",,,AS,complete
+ogi,Zosteraceae,Phyllospadix scouleri,Phyllospadix scouleri,Collected from Saturna but probably throughout.,,,,remaining
+ogi,Zosteraceae,Zostera japonica,Zostera japonica,"Phillimore Point, Morning Beach, Galiano.",,,AS,complete
+ogi,Zosteraceae,Zostera marina,Zostera marina,Common throughout shallow sandy bays and shorelines.,,,AS,complete

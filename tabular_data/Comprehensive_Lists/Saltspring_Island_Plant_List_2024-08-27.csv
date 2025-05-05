@@ -1,0 +1,778 @@
+area,Family,TaxonName,iNatTaxon,HJ_comment,FPNW_note,critical_comments,reviewed,review_completed
+ssi,Alismataceae,Alisma triviale,Alisma triviale,ICS record for island. Location? HJ obs St. Mary's Lake 1999.,,"Some specimens may refer to A. plantago-aquatica. Historically, the name A. plantago-aquatica (exotic) has been misapplied to the native A. triviale; review vouchers.","AS, AW, DG, FL",complete
+ssi,Amaranthaceae,Amaranthus powellii,Amaranthus powellii,"Gardens, waste ground.",,"HJ material from Southern Gulf Islands positively determined by Mihai Costea, who has published extensively on Amaranthus (AS)","AS, DG",complete
+ssi,Amaranthaceae,Atriplex dioica,Atriplex dioica,AC at Young's salt spring 1982. TRA Fernwood 1956.,,"Harvey doesn't recognize Atriplex patula in OGI, Saanich or SSI; synonymizes A. prostrata with A. patula var. hastata (which he only recognizes in SJIs); that Harvey recognized Atriplex dioica but not A. patula in his revised flora suggests to me that he had come to recognize A. dioica as a common species to which the name Atriplex patula may have historically been misapplied? (AS) (AS); A. patula is a Eurasian weed and probably based on old taxonomy.  I would not trust it without a verifying specimen; Atriplex dioica is in for sure.  It is the common native on sea beaches in the whole range. (FL)","AS, FL",complete
+ssi,Amaranthaceae,Atriplex gmelinii,Atriplex gmelinii,Strand and mudflats.,,"Harvey synonymizes A. gmelinii with A. patula var. obtusa or zosterifolia; the only records from south coast of BC have dated annotations (AS); Atriplex gmelinii is perhaps doubtful, it is not often found here, but certainly possible; A. prostrata is a beach plant with triangular leaves and rather frequent so should be there. (FL)","AS, FL",complete
+ssi,Amaranthaceae,Chenopodium album,Chenopodium album,Garden and waste places.,,species you show are correct and present in the area (DG); on list of non-established weeds in BC but HJ apparently recognized it as naturalized (AS),"DG, AS",in progress
+ssi,Amaranthaceae,Oxybasis macrosperma,Oxybasis macrosperma,TRA Ganges 1959.,,Species you show are correct and present in the area (DG) ,DG,complete
+ssi,Amaranthaceae,Oxybasis rubra var. humilis,Oxybasis rubra humilis,Salt marshes.,,Species you show are correct and present in the area (DG) ,"DG, PD",complete
+ssi,Amaranthaceae,Salicornia pacifica,Salicornia pacifica,"Mud flats, salt marshes and beaches.","recorded by HJ: ‘Salicornia pacifica’; “FPNW2 appears to be following FNA (2003) which reports Sarcocornia perennis (prostrate, with woody stems readily rooting in the substrate) from BC and S. pacifica (procumbent to erect shrubs in which woody stems usually do not root) to include east coast of North America (New Hampshire south to Florida) , California and Mexico, but NOT BC. http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=129207; VASCAN has updated their names to Salicornia pacifica following a more recent treatment by Piirainen et al. 2017 that proposes a new infrageneric classification for Salicornia (incl. Sarcocornia) and shows Salicornia pacifica present in BC.Salicornia perennis is excluded. http://data.canadensys.net/vascan/search?q=sarcocorniaSo, you could move ahead of the pack and call your material Salicornia pacifica Standley sensu Piirianen et al. 2017 OR you could use the synonym Sarcocornia pacifica. I’ll propose the name change (Sarcocornia pacifica to Salicornia pacifica) for fall review, but it would not show up in Species Explorer/E-Flora until next year.” –MD",=Salicornia pacifica,"AS, DG, MD ",complete
+ssi,Amaryllidaceae,Allium acuminatum,Allium acuminatum,"Grassy, south facing bluffs.",,,AS,complete
+ssi,Amaryllidaceae,Allium amplectens,Allium amplectens,Mt Maxwell grassy ledge with vernal seepage. Isabella Island rocky shore.,,,AS,complete
+ssi,Amaryllidaceae,Allium cernuum,Allium cernuum,"South facing bluffs, dry ridges throughout.",,,AS,complete
+ssi,Amaryllidaceae,Allium geyeri var. tenerum,Allium geyeri tenerum,Deadman Islands: rock off E and W end of islands. Fulford Harbour on islet at high tide line.Isabella Island.,,,AS,complete
+ssi,Amaryllidaceae,Narcissus pseudonarcissus,Narcissus pseudonarcissus,Persisting from cultivation,,"Retain as adventive on separate list? Otherwise add to the list for the Saanich Peninsula, where it also known (AS); Should we also include Narcissus poeticus (Frank Lomer, Sidney BC, V253388; see also Peter Dunwiddie, Patos Island, WA), which is reported for the region? (AS)",AS,in progress
+ssi,Anacardiaceae,Toxicodendron diversilobum,Toxicodendron diversilobum,"HLR Sansum narrows shore below Mt Erskine 2002, FL same 2006.",,,"AS, AJW",complete
+ssi,Apiaceae,Aegopodium podagraria,Aegopodium podagraria,Dunnison Fulford iNaturalist observation 2021. Appears to be naturalized.,,Dunnison Fulford iNaturalist observation 2021. Zimmerman Mt Douglas Park iNaturalist observation 2020. Several other iNaturalist observations for Victoria and Oak Bay. Several Vancouver herbarium records. Appears to be naturalized (HJ); spreading unchecked at several locations including at least one municipal park in Saanich– I suggest we consider it an irreversible part of the regional flora now (MF),"AS, AJW",complete
+ssi,Apiaceae,Angelica genuflexa,Angelica genuflexa,HJ abundant in willow-dogwood woods Ford Lake shoreline 1999.,,,"AS, AJW",complete
+ssi,Apiaceae,Angelica lucida,,NA,,TM iNat observation (AS); interesting find and appears to be correct.  Would be nice if someone could make a collection. (DG),"AS, AJW, DG",complete
+ssi,Apiaceae,Anthriscus caucalis,Anthriscus caucalis,"TRA Ganges, Fulford",,,"AS, AJW",complete
+ssi,Apiaceae,Cicuta douglasii,Cicuta douglasii,"HJ Cusheon Lake, TRA Ganges, Stowell Lake",,,"AS, AJW",complete
+ssi,Apiaceae,Conioselinum pacificum,Conioselinum gmelinii,Beaches and sandy shorelines.,"FPNW does not recognize C. gmelinii though these taxa are synonymized in annotations on CPNWH (AS); the name Conioselinum gmelinii predates Conioselinum pacificum, however, and should take priority if a synonym; type locality Kamchatka? Are these two different species (AJW)","Combination C. gmelinii (Bray) Steud. of 1840 is a synonym of the Asian C. tataricum.  C. gmeliniii J.M. Coult. & Rose of 1900  is an illegitimate name because of the publication of the 1840 name.  The latter name is referential to our C. pacificum. (DG); while both Bray and Chamisso & Schlechtendal thought they were describing the same plant as Gmelin's pre-Linnaean phrase name, neither were... Bray's plant is from Latvia, C&S's is from the Bering coast of Alaska, and Gmelin's ""in omni Sibiria crescens"". (C&S's name is also illegitimate, for a separate reason than Coulter & Rose's.) Interestingly, the most recent (2003) revision of Conioselinum does (as David mentioned) dramatically expand C. tataricum from central Asia to include both Bray's and Gmelin's concept. That paper also calls our plants C. chinense, but as they really only focus on Eurasia they appear to be parroting Mathias and Constance's treatment in the vol 28 of the North American Flora (1944-1945). Cronquist's criticisms (Vasc Plants PNW vol 3, 1961) appear completely justified, and the M&C measurements appear to be based almost exclusively on Pacific material (their seed size figures exclude those for New England material given by Cronquist). The M&C treatment was prepared while Mathias was still at Berkeley with Constance, and it's entirely possible that they had insufficient material of C. chinense sensu stricto from New England. The 2003 paper does not cite Cronquist.","TL, AS, AJW, DG",complete
+ssi,Apiaceae,Conium maculatum,Conium maculatum,location? Collector?,,,"AS, AJW",complete
+ssi,Apiaceae,Daucus carota,Daucus carota,"Roadsides, cultivated ground, meadows.",,,"AS, AJW",complete
+ssi,Apiaceae,Daucus pusillus,Daucus pusillus,"Dry, open places, grassy bluffs.",,,"AS, AJW",complete
+ssi,Apiaceae,Foeniculum vulgare,Foeniculum vulgare,Caldwell Vesuvius 1974.,,appears to have become an ineradicable element of our flora but I haven’t seen it spreading as aggressively as Aegopodium podagraria (MF),"AS, AJW, MF",complete
+ssi,Apiaceae,Lomatium dissectum,Lomatium dissectum,"Dry, shady forest below cliff on Mt Maxwell. Single site HJ 1980. McEwen same location 2016-2018.",,,"AS, AJW",complete
+ssi,Apiaceae,Lomatium grayi,Lomatium grayi,Calder Mt Maxwell 1961. HJ Mt Maxwell summit down to 1400' south facing cliffs. HLR Maxwell Point 2010.,,"retain as Lomatium papilioniferum (Alexander et al., 2018) ","AS, AJW",in progress
+ssi,Apiaceae,Lomatium nudicaule,Lomatium nudicaule,"Seaside meadows, grassy shorelines and banks.",,,"AS, AJW",complete
+ssi,Apiaceae,Lomatium utriculatum,Lomatium utriculatum,"Grassy bluffs, rocky meadows.",,,"AS, AJW",complete
+ssi,Apiaceae,Oenanthe sarmentosa,Oenanthe sarmentosa,"Pools and streams in shady woods, lake edges and ditches.",,,"AS, AJW",complete
+ssi,Apiaceae,Osmorhiza berteroi,Osmorhiza berteroi,"Open woodlands, trails.",,,AS,complete
+ssi,Apiaceae,Perideridia montana,Perideridia gairdneri,"TRA Beaver Point, HJ obs there 1996.",,,"AS, AJW",complete
+ssi,Apiaceae,Sanicula crassicaulis var. crassicaulis,Sanicula crassicaulis,"Dry transitional forest, rocky slopes above salt water.",,"HJ did not discriminate between var. crassicaulis and var. tripartita; HJ_comment should be interpreted as referring to the taxon s.lat. (PD, AS)","AS, AJW, PD",complete
+ssi,Apiaceae,Sanicula crassicaulis var. tripartita,Sanicula crassicaulis,NA,,"HJ did not discriminate between var. crassicaulis and var. tripartita; HJ_comment should be interpreted as referring to the taxon s.lat. (PD, AS)","AS, AJW, PD",complete
+ssi,Apiaceae,Sanicula graveolens,Sanicula graveolens,Calder Mt Maxwell 1961. HJ Mt Maxwell 1980. HJ Bryant Hill Park 2001.,,,"AS, AJW",complete
+ssi,Apiaceae,Sium suave,Sium suave,"TRA St Marys Lake, HJ St Marys Lake shallow water shoreline 1981. PDW St Marys Lake 1976.",,,"AS, AJW",complete
+ssi,Apiaceae,Torilis arvensis,Torilis arvensis,"FL Isabella Point 1996 Mt Erskine 2002. HJ Burgoyne Bay, Southy Point 1998.",,,"AS, AJW",complete
+ssi,Apiaceae,Torilis japonica,Torilis japonica,Lynn Broadwell Rd iNaturalist observation 2020.,,,"AS, AJW",complete
+ssi,Apiaceae,Yabea microcarpa,Yabea microcarpa,"HJ Mt Maxwell, Reginald Hill 2003, HLR Maxwell Point 2003, FL Sansum Narrows Rocky, grassy, mossy Quercus garryana slope 2002.",,,"AS, AJW",complete
+ssi,Apocynaceae,Apocynum androsaemifolium,Apocynum androsaemifolium,location? Collector?,,,,remaining
+ssi,Apocynaceae,Vinca major,Vinca major,Straley Beddis Road 1991.,,,,remaining
+ssi,Aquifoliaceae,Ilex aquifolium,Ilex aquifolium,Adventive in moist woods.,,,,remaining
+ssi,Araceae,Lemna minor,Lemna minor,"Quiet standing water, lakes and ponds throughout. Many reports may be in error (name misapplied to native L. minuta). Re-check.",,,,remaining
+ssi,Araceae,Lemna turionifera,Lemna turionifera,Zika Blackburn Lake 2016.,,,,remaining
+ssi,Araceae,Lysichiton americanus,Lysichiton americanus,"Fens, wet spots, drainage channels.",,,,remaining
+ssi,Araliaceae,Hedera helix,Hedera helix,"Escaping into lowland, mesic forest.",,,,remaining
+ssi,Asparagaceae,Asparagus officinalis,Asparagus officinalis,"Occasionally escaping, waste ground. Booth Canal.",,,,remaining
+ssi,Asparagaceae,Brodiaea coronaria,Brodiaea coronaria,"Dry, open, grassy slopes and rocky outcrops",,,AS,complete
+ssi,Asparagaceae,Brodiaea rosea var. rosea,Brodiaea coronaria rosea,RDB Reginald Hill 1971. CricketFarm Mt Erskine iNaturalist report 2019.,,,,remaining
+ssi,Asparagaceae,Camassia leichtlinii ssp. suksdorfii,Camassia leichtlinii suksdorfii,"South facing bluffs, shelves isolated from grazing.",,,AS,complete
+ssi,Asparagaceae,Camassia quamash ssp. maxima,Camassia quamash maxima,Rare; occuring with C. leichtlinii.,,,AS,complete
+ssi,Asparagaceae,Chionodoxa luciliae,Scilla luciliae,Not officially reported for area but persisting from cultivation.,not in FPNW2,,,remaining
+ssi,Asparagaceae,Hyacinthoides hispanica,Hyacinthoides hispanica,Straley Beddis Rd 1991. persisting along with H. non-scripta from cultivation.,,"reports of Hyacinthoides hispanica likely refer to Hyacinthoides × massartiana; see remarks from QC: ""Commonly naturalized in the LM and is a persistent relic of cult in SGI. Both H. hispanica and H. non-scripta are cultivated in BC but I have never seen them naturalized.""; PD & AM also report Hyacinthoides × massartiana","AS, QC",remaining
+ssi,Asparagaceae,Maianthemum dilatatum,Maianthemum dilatatum,"Moist, open forest.",,,,remaining
+ssi,Asparagaceae,Maianthemum racemosum ssp. amplexicaule,Maianthemum racemosum amplexicaule,"Damp woods, Beaver Point TRA note very rare.",,,,remaining
+ssi,Asparagaceae,Maianthemum stellatum,Maianthemum stellatum,HJ forested cliffs below Mt Maxwell 1982.,,,,remaining
+ssi,Asparagaceae,Ornithogalum umbellatum,Ornithogalum umbellatum,Not officially reported for area but persisting from cultivation.,,,,remaining
+ssi,Asparagaceae,Triteleia grandiflora,Triteleia grandiflora,var. grandiflora location? TRA collection var. howellii location? GD&JP 1997 witheld location.,,,TL (corrected typo),remaining
+ssi,Asparagaceae,Triteleia hyacinthina,Triteleia hyacinthina,"Grassy slopes on bluffs,",,,,remaining
+ssi,Aspleniaceae,Asplenium trichomanes,Asplenium trichomanes,Clement - Musgrave Rd. Calder - Beaver Point,,,AS,complete
+ssi,Asteraceae,Achillea millefolium complex,Achillea millefolium,"Roadsides, disturbed ground.",,listed as Achillea millefolium complex,AS,in progress
+ssi,Asteraceae,Adenocaulon bicolor,Adenocaulon bicolor,"Moist, shady woods.",,,,remaining
+ssi,Asteraceae,Agoseris grandiflora var. leptophylla,Agoseris grandiflora leptophylla,Grassy bluffs.,,,,remaining
+ssi,Asteraceae,Agoseris heterophylla,Agoseris heterophylla,Grassy bluffs and ridges.,,,,remaining
+ssi,Asteraceae,Ambrosia chamissonis,Ambrosia chamissonis,"Sandy beaches, shoreline dunes.",,,,remaining
+ssi,Asteraceae,Anaphalis margaritacea,Anaphalis margaritacea,Open woods and roadsides.,,,,remaining
+ssi,Asteraceae,Anisocarpus madioides,Anisocarpus madioides,"Dry, open Douglas-fir woodlands.",,,,remaining
+ssi,Asteraceae,Antennaria neglecta,Antennaria neglecta,location? collector?,,,,remaining
+ssi,Asteraceae,Anthemis arvensis,Anthemis arvensis,"HJ Fulford waste ground 1979, TRA Ganges.",,,,remaining
+ssi,Asteraceae,Anthemis cotula,Anthemis cotula,"Roadsides, waste ground. TRA Ganges, Fulford 1955.",,,,remaining
+ssi,Asteraceae,Arctium minus,Arctium minus,"Waste ground, roadside",,,,remaining
+ssi,Asteraceae,Artemisia absinthium,Artemisia absinthium,HJ Musgrave Road 1979.,,,,remaining
+ssi,Asteraceae,Artemisia suksdorfii,Artemisia suksdorfii,TRA Beaver Point 1955.,,,,remaining
+ssi,Asteraceae,Bellis perennis,Bellis perennis,"Lawns, meadows, pastures, waste ground,",,,,remaining
+ssi,Asteraceae,Bidens cernua,Bidens cernua,Thompson Dunbabin Park 2018iNaturalist observation.,,,,remaining
+ssi,Asteraceae,Canadanthus modestus,Canadanthus modestus,ICS Location? GD confirms id.,,,,remaining
+ssi,Asteraceae,Centaurea melitensis,Centaurea melitensis,DL Thompson iNaturalist Baker Road 2013.,,,,remaining
+ssi,Asteraceae,Cichorium intybus,Cichorium intybus,"Roadsides, farm fields, meadows.",,,,remaining
+ssi,Asteraceae,Cirsium arvense,Cirsium arvense,"Roadsides, disturbed ground, fields.",,,,remaining
+ssi,Asteraceae,Cirsium brevistylum,Cirsium brevistylum,"Roadsides, disturbed ground, fields.",,,,remaining
+ssi,Asteraceae,Cirsium palustre,Cirsium palustre,TRA Ganges 1956. Listed by the Invasive Species Council of BC.,,,,remaining
+ssi,Asteraceae,Cirsium vulgare,Cirsium vulgare,"Disturbed ground, fields and roadside.",,,,remaining
+ssi,Asteraceae,Conyza canadensis,Erigeron canadensis,"Waste places and disturbed soil, farm yards.",,,,remaining
+ssi,Asteraceae,Cotula coronopifolia,Cotula coronopifolia,HJ Fulford Harbour 1979.,,,,remaining
+ssi,Asteraceae,Crepis capillaris,Crepis capillaris,"Roadsides, waste places.",,,,remaining
+ssi,Asteraceae,Crocidium multicaule,Crocidium multicaule,Calder Mt Maxwell 1961,,,,remaining
+ssi,Asteraceae,Doronicum pardalianches,Doronicum pardalianches,HJ Fulford 1980.,,,,remaining
+ssi,Asteraceae,Erigeron philadelphicus,Erigeron philadelphicus,"WAN 1921, TRA Fulford, Ganges 1959",,,,remaining
+ssi,Asteraceae,Eriophyllum lanatum var. leucophyllum,Eriophyllum lanatum leucophyllum,Grassy bluffs and ledges.,,,,remaining
+ssi,Asteraceae,Filago arvensis,Filago arvensis,"Clement Musgrave Road 1979,",,,,remaining
+ssi,Asteraceae,Filago pyramidata,Filago pyramidata,TRA 1957.Hardy 1957 also. Locations? Id?,,,,remaining
+ssi,Asteraceae,Gamochaeta ustulata,Gamochaeta ustulata,"Roadside vernal pools, disturbed ground.",,,,remaining
+ssi,Asteraceae,Gnaphalium palustre,Gnaphalium palustre,"Roadside vernal pools, disturbed ground.",,,,remaining
+ssi,Asteraceae,Gnaphalium uliginosum,Gnaphalium uliginosum,"Roadside vernal pools, disturbed ground.",,,,remaining
+ssi,Asteraceae,Grindelia hirsutula,Grindelia hirsutula,"HJ Mt Tuam1979, RDB Mt Tuam 1970.",,,,remaining
+ssi,Asteraceae,Grindelia integrifolia,Grindelia integrifolia,"Coastal bluffs, beaches, salt marshes and meadows.",,,,remaining
+ssi,Asteraceae,Hieracium albiflorum,Hieracium albiflorum,"Dry, open coniferous forest and margins..",,,,remaining
+ssi,Asteraceae,Hypochaeris glabra,Hypochaeris glabra,"Roadside, disturbed and waste ground.",,,,remaining
+ssi,Asteraceae,Hypochaeris radicata,Hypochaeris radicata,"Lawns, cultivated ground, waste ground.",,,,remaining
+ssi,Asteraceae,Jacobaea vulgaris,Jacobaea vulgaris,Roadside and logging roads.,,,,remaining
+ssi,Asteraceae,Jaumea carnosa,Jaumea carnosa,location? collector?,,,,remaining
+ssi,Asteraceae,Lactuca biennis,Lactuca biennis,TRA Ganges 1957. Ruckle Park 2020 iNaturalist report.,,,,remaining
+ssi,Asteraceae,Lactuca serriola,Lactuca serriola,"Roadsides, fields and waste places.",,,,remaining
+ssi,Asteraceae,Lapsana communis,Lapsana communis,"Roadside, disturbed ground, forest edges.",,,,remaining
+ssi,Asteraceae,Leontodon saxatilis,Leontodon saxatilis,"Lawns, roadsides and waste places.",,,,remaining
+ssi,Asteraceae,Leucanthemum vulgare,Leucanthemum vulgare,"Fields, roadsides, and waste places.",,,,remaining
+ssi,Asteraceae,Luina hypoleuca,Luina hypoleuca,"TRA base of cliffs Mt Maxwell 1955, HJ Mt Erskin 1980.",,,,remaining
+ssi,Asteraceae,Madia exigua,Madia exigua,"Roadsides, grassy ridges. TRA open woods Ganges 1957, Clement Mt Bruce 1979.",,,,remaining
+ssi,Asteraceae,Madia glomerata,Madia glomerata,"RDB Mt Bruce 1971. Roadsides, dry open places.",,,,remaining
+ssi,Asteraceae,Madia gracilis,Madia gracilis,Grassy bluffs and ledges.,,,,remaining
+ssi,Asteraceae,Madia sativa,Madia sativa,Roadsides.,,,,remaining
+ssi,Asteraceae,Matricaria discoidea,Matricaria discoidea,"Roadsides, disturbed ground.",,,,remaining
+ssi,Asteraceae,Mycelis muralis,Mycelis muralis,"Open, mesic forest.",,,,remaining
+ssi,Asteraceae,Petasites frigidus var. palmatus,Petasites frigidus palmatus,TRA St Marys Lake date?,,,,remaining
+ssi,Asteraceae,Petasites japonicus,Petasites japonicus,"TRA abandoned garden edge, Ganges 1957.",,,,remaining
+ssi,Asteraceae,Pseudognaphalium thermale,Pseudognaphalium thermale,"Logged areas, roadsides, disturbed ground.",,,,remaining
+ssi,Asteraceae,Psilocarphus tenellus,Psilocarphus tenellus,"FL Ruckle Park 1996, 2002.",,,,remaining
+ssi,Asteraceae,Senecio sylvaticus,Senecio sylvaticus,Disturbed soil and waste places.,,,,remaining
+ssi,Asteraceae,Senecio vulgaris,Senecio vulgaris,"Roadsides, waste ground, cultivated ground.",,,,remaining
+ssi,Asteraceae,Solidago lepida var. lepida,Solidago lepida lepida,Grassy places and open woods.,,,,remaining
+ssi,Asteraceae,Soliva sessilis,Soliva sessilis,"Roemer 1998, 2006 FL 1996, 2002, Beaver Point camp ground area.",,,,remaining
+ssi,Asteraceae,Sonchus arvensis ssp. uliginosus,Sonchus arvensis uliginosus,"Landward edges of salt marshes, beach shorelines.",,,,remaining
+ssi,Asteraceae,Sonchus asper,Sonchus asper,"Disturbed ground, cultivated ground.",,,,remaining
+ssi,Asteraceae,Sonchus oleraceus,Sonchus oleraceus,"Disturbed ground, cultivated ground.",,,,remaining
+ssi,Asteraceae,Symphyotrichum bracteolatum,Symphyotrichum bracteolatum,TRA Cusheon Lake woods 1958.,,,,remaining
+ssi,Asteraceae,Symphyotrichum chilense,Symphyotrichum chilense,"HJ salty slough, Fulford 1979, TRA St Marys Lake 1959.",,,,remaining
+ssi,Asteraceae,Symphyotrichum subspicatum,Symphyotrichum subspicatum,All specimines need re-examination.,,,,remaining
+ssi,Asteraceae,Tanacetum parthenium,Tanacetum parthenium,Several iNaturalist reports for area.,,,,remaining
+ssi,Asteraceae,Tanacetum vulgare,Tanacetum vulgare,Roadside and waste places.,,,,remaining
+ssi,Asteraceae,Taraxacum erythrospermum,Taraxacum erythrospermum,"Lawns, roadsides, waste areas, grassy bluffs.",,,,remaining
+ssi,Asteraceae,Taraxacum officinale,Taraxacum officinale,Lawns cultivated ground and disturbed places.,,,,remaining
+ssi,Asteraceae,Tragopogon porrifolius,Tragopogon porrifolius,"Roadside, fields.",,,,remaining
+ssi,Asteraceae,Tripleurospermum inodorum,Tripleurospermum inodorum,Location? Collector?,,,,remaining
+ssi,Athyriaceae,Athyrium filix-femina ssp. cyclosorum,Athyrium filix-femina cyclosorum,"Common throughout in moist forest, wetland edges, seepy spots.",,,,remaining
+ssi,Berberidaceae,Achlys triphylla,Achlys triphylla,"Shady, moist woods, occasionally in open, moist places and along streams. Forming dense stands under Alder regen.",,,,remaining
+ssi,Berberidaceae,Berberis aquifolium,Berberis aquifolium,"Woods, thickets, and open exposed slopes.",,,,remaining
+ssi,Berberidaceae,Berberis nervosa,Berberis nervosa,Open woods and thickets.,,,,remaining
+ssi,Betulaceae,Alnus rubra,Alnus rubra,"Lowland early second growth, forest edges.",,,,remaining
+ssi,Betulaceae,Corylus cornuta ssp. californica,Corylus cornuta californica,"TRA Ganges, Beaver Point 1957, Ganges 1958.",,,,remaining
+ssi,Blechnaceae,Struthiopteris spicant,Struthiopteris spicant,"Common in mesic to subhygric forest, usually with North exposure.",,,,remaining
+ssi,Blechnaceae,Woodwardia fimbriata,Woodwardia fimbriata,"2.5 KM SOUTHEAST OF MUSGRAVE POINT. Occurrence Data: 2014-05-19: 2 subpopulations with 20 plants found at the eastern subpopulation (R. Batten and T. McIntosh, pers. comm. 2014). 2013-05-16: 28-33 plants over 2 subpopulations (SSIC 2016)",,,,remaining
+ssi,Boraginaceae,Amsinckia menziesii,Amsinckia menziesii,"Dry, open places, waste ground.",,,,remaining
+ssi,Boraginaceae,Borago officinalis,Borago officinalis,iNaturalist report Horel Rd 2019.,,,,remaining
+ssi,Boraginaceae,Echium vulgare,Echium vulgare,HJ Pasture and stock fields Walker Hook area 1979.,,,,remaining
+ssi,Boraginaceae,Myosotis arvensis,Myosotis arvensis,Roadsides and waste areas.,,,,remaining
+ssi,Boraginaceae,Myosotis discolor,Myosotis discolor,"Grassy bluffs, rocky meadows and disturbed open places.",,,,remaining
+ssi,Boraginaceae,Myosotis laxa,Myosotis laxa,"Moist soils, fen edges and shallow water.",,,,remaining
+ssi,Boraginaceae,Myosotis micrantha,Myosotis stricta,AC Mt Maxwell Park 1970.,,,,remaining
+ssi,Boraginaceae,Myosotis scorpioides,Myosotis scorpioides,location?,,,,remaining
+ssi,Boraginaceae,Nemophila parviflora var. parviflora,Nemophila parviflora parviflora,Moist open forest and edges.,,,,remaining
+ssi,Boraginaceae,Nemophila pedunculata,Nemophila pedunculata,"Grassy ridges and bluffs, shoreline meadows.",,,,remaining
+ssi,Boraginaceae,Phacelia linearis,Phacelia linearis,Grassy bluffs.,,,,remaining
+ssi,Boraginaceae,Plagiobothrys scouleri,Plagiobothrys scouleri,"Calder (also RDB, TRA,HJ) Beaver Point 1961,",,,,remaining
+ssi,Boraginaceae,Plagiobothrys tenellus,Plagiobothrys tenellus,Grassy bluffs. HJ Mt Tuam 1980.,,,,remaining
+ssi,Brassicaceae,Arabidopsis thaliana,Arabidopsis thaliana,"Waste ground, gardens,",,,,remaining
+ssi,Brassicaceae,Arabis eschscholtziana,Arabis eschscholtziana,"TRA Southy Point, Beaver Point,Mt Maxwell, St Marys Lake 1955, RDB Sister #2 Island 1971. Calder Mt Maxwell 1961.",,,,remaining
+ssi,Brassicaceae,Athysanus pusillus,Athysanus pusillus,"AC Mt Maxwell 1970, GD Ganges 1976, HJ Reginald Hill 1980.",,,,remaining
+ssi,Brassicaceae,Aubrieta deltoidea,Aubrieta deltoidea,Mt Belcher roadside iNaturalist report 2020.,,,,remaining
+ssi,Brassicaceae,Barbarea orthoceras,Barbarea orthoceras,"Roadsides, wet ditches.",,,,remaining
+ssi,Brassicaceae,Brassica rapa,Brassica rapa,"Waste ground, cultivated ground.",,,,remaining
+ssi,Brassicaceae,Cakile maritima,Cakile maritima,Bennet Walker's Hook 2017.,,,,remaining
+ssi,Brassicaceae,Capsella bursa-pastoris,Capsella bursa-pastoris,"Roadsides, cultivated ground.",,,,remaining
+ssi,Brassicaceae,Cardamine nuttallii,Cardamine nuttallii,"Grassy ridges, open woodland.",,,,remaining
+ssi,Brassicaceae,Cardamine occulta,Cardamine occulta,Dunnison iNaturalist observation Blackburn Rd 2020.,,,,remaining
+ssi,Brassicaceae,Cardamine oligosperma,Cardamine oligosperma,"Cultivated ground, waste ground.",,,,remaining
+ssi,Brassicaceae,Cardamine pensylvanica,Cardamine pensylvanica,"Wet to swampy ground, creeks.",,,,remaining
+ssi,Brassicaceae,Draba verna,Draba verna,"Dry waste ground, roadsides,",,,,remaining
+ssi,Brassicaceae,Erysimum cheiranthoides,Erysimum cheiranthoides,"TRA Mt Maxwell, ICS Churchill Road",,,,remaining
+ssi,Brassicaceae,Hesperis matronalis,Hesperis matronalis,"HJ roadside Ganges-Vesuvius 1980, RDB Fulford 1971.Clement Weston Lake 1979.",,,,remaining
+ssi,Brassicaceae,Hornungia procumbens,Hornungia procumbens,"TRA Booth Inlet, Young 1963 no location given. HJ observed Booth Inlet 1982 - no collection.",,,,remaining
+ssi,Brassicaceae,Idahoa scapigera,Idahoa scapigera,"HJ Mt Tuam, Mt Maxwell1980.",,,,remaining
+ssi,Brassicaceae,Lepidium campestre,Lepidium campestre,Thompson Broadwell Rd iNaturalist report 2020. Scurtescu Wilkie Way iNaturalist report 2020.,,,,remaining
+ssi,Brassicaceae,Lepidium sativum,Lepidium sativum,TRA Beaver Point date?,,,,remaining
+ssi,Brassicaceae,Lepidium virginicum,Lepidium virginicum,"Grassy bluffs, dry sandy ground.",,,,remaining
+ssi,Brassicaceae,Nasturtium officinale,Nasturtium officinale,Ditches and ponds.TRA Booth Canal 1955.,,,,remaining
+ssi,Brassicaceae,Raphanus raphanistrum,Raphanus raphanistrum,Meadows and waste ground.,,,,remaining
+ssi,Brassicaceae,Rorippa palustris,Rorippa palustris,HJ farm pond Booth Canal area 1979.,,,,remaining
+ssi,Brassicaceae,Rorippa sylvestris,Rorippa sylvestris,"Waste land, storm drain downtown Ganges HJ 1979.",,,,remaining
+ssi,Brassicaceae,Sisymbrium altissimum,Sisymbrium altissimum,Cultivated ground and moist waste land.,,,,remaining
+ssi,Brassicaceae,Sisymbrium officinale,Sisymbrium officinale,Aagricultural weed throughout.,,,,remaining
+ssi,Brassicaceae,Teesdalia nudicaulis,Teesdalia nudicaulis,"Roadsides, parking areas, especially view areas, sandy ground.",,,,remaining
+ssi,Brassicaceae,Thlaspi arvense,Thlaspi arvense,"Gardens, farm yards.",,,,remaining
+ssi,Brassicaceae,Thysanocarpus curvipes,Thysanocarpus curvipes,Grassy bluffs and ledges.,,,,remaining
+ssi,Brassicaceae,Turritis glabra,Turritis glabra,Grassy bluffs and ledges.,,,,remaining
+ssi,Cactaceae,Opuntia fragilis,Opuntia fragilis,"Grassy bluffs and ledges, rocky islets.",,,,remaining
+ssi,Campanulaceae,Campanula medium,Campanula medium,Cultivated Bellflowers not reported for Saltspring.,,,,remaining
+ssi,Campanulaceae,Campanula scouleri,Campanula scouleri,"Open forest, ridgelines.",,,,remaining
+ssi,Campanulaceae,Heterocodon rariflorus,Heterocodon rariflorum,HJ Bryant Hill Park date?,,,,remaining
+ssi,Campanulaceae,Lobelia dortmanna,Lobelia dortmanna,"TRA St Marys Lake, PDW St Marys Lake 1976, HJ St Marys Lake abundant 1981.",,,,remaining
+ssi,Campanulaceae,Triodanis perfoliata,Triodanis perfoliata,"Open, grassy bluffs and ledges.",,,,remaining
+ssi,Cannabaceae,Humulus lupulus var. lupulus,Humulus lupulus lupulus,"Disturbed, recently logged ground Fulford Valley.",,,,remaining
+ssi,Caprifoliaceae,Centranthus ruber,Centranthus ruber,Long Harbour Rd 2019 iNaturalist report.,,,,remaining
+ssi,Caprifoliaceae,Dipsacus fullonum,Dipsacus fullonum,HJ Burgoyne Valley roadside ditches 1981. Rainbow Road and Booth Canal obs 1982.,,,,remaining
+ssi,Caprifoliaceae,Linnaea borealis ssp. longiflora,Linnaea borealis longiflora,"Open, mesic forest.",,,,remaining
+ssi,Caprifoliaceae,Lonicera ciliosa,Lonicera ciliosa,"Open, mesic forest.",,,,remaining
+ssi,Caprifoliaceae,Lonicera hispidula,Lonicera hispidula,Mesic forest.,,,,remaining
+ssi,Caprifoliaceae,Lonicera involucrata var. involucrata,Lonicera involucrata involucrata,"TRA Cusheon Lake, Ganges date?",,,,remaining
+ssi,Caprifoliaceae,Plectritis congesta,Plectritis congesta,"Rocky shorelines and cliffs, grassy bluffs",,,,remaining
+ssi,Caprifoliaceae,Plectritis macrocera,Plectritis macrocera,Mt Maxwell Cameron 2019 iNaturalist report. Thompson Broadwell Rd 2020 iNaturalist report.,,,,remaining
+ssi,Caprifoliaceae,Symphoricarpos albus,Symphoricarpos albus,"Open ground, woods, and thickets.",,,,remaining
+ssi,Caprifoliaceae,Symphoricarpos mollis var. hesperius,Symphoricarpos mollis hesperius,Moist mixed forest edge and adjacent gravelly slopes.,,,,remaining
+ssi,Caprifoliaceae,Valerianella locusta,Valerianella locusta,"TRA Brackman Island, Fulford Harbour HJ Beaver Point 1980.",,,,remaining
+ssi,Caryophyllaceae,Arenaria serpyllifolia,Arenaria serpyllifolia,"Dry, open bluffs, dry slopes.",,,,remaining
+ssi,Caryophyllaceae,Cerastium arvense ssp. strictum,Cerastium arvense strictum,Grassy bluffs; rocky hillsides and dry to moist grassland.,,,,remaining
+ssi,Caryophyllaceae,Cerastium brachypodum,Cerastium brachypodum,TRA Beaver Point,,,,remaining
+ssi,Caryophyllaceae,Cerastium fontanum ssp. vulgare,Cerastium holosteoides,Lawns and gardens; weedy and common throughout.,,,,remaining
+ssi,Caryophyllaceae,Cerastium glomeratum,Cerastium glomeratum,"Disturbed ground, fields and waste places throughout.",,,,remaining
+ssi,Caryophyllaceae,Dianthus deltoides,Dianthus deltoides,"TRA Ganges 1957, Wilson Ganges 1960.",,,,remaining
+ssi,Caryophyllaceae,Lychnis coronaria,Silene coronaria,"Roadsides and waste ground, spreading agressivly into native bluff grasslands.",,,,remaining
+ssi,Caryophyllaceae,Moehringia macrophylla,Moehringia macrophylla,Shaded to open woods and rocky slopes.,,,,remaining
+ssi,Caryophyllaceae,Moenchia erecta,Moenchia erecta,FL Ruckle Park 1996.,,,,remaining
+ssi,Caryophyllaceae,Sabulina macra,Sabulina macra,"HJ Mt Erskine 1980, HJ Mt Maxwell 1980..",,,,remaining
+ssi,Caryophyllaceae,Sabulina rubella,Sabulina rubella,"Exposed rocky ridge, M Erskin HJ 1980.",,,,remaining
+ssi,Caryophyllaceae,Sagina apetala,Sagina apetala,"FL 2002 Ganges, waterfront strip mall south of wharf, south of Centennial Park.",,,,remaining
+ssi,Caryophyllaceae,Sagina decumbens ssp. occidentalis,Sagina decumbens occidentalis,"FL Ruckle Park 2002. Seaside depressions on rocky shore with Plantago bigelovii, Poa annua.",,,,remaining
+ssi,Caryophyllaceae,Sagina maxima ssp. crassicaulis,Sagina maxima crassicaulis,"Hardy Ganges 1949, TRA Fulford rocky cliffs 1960.",,,,remaining
+ssi,Caryophyllaceae,Sagina procumbens,Sagina procumbens,"TRA Beaver Point 1955, Mt Tuam 1957.",,,,remaining
+ssi,Caryophyllaceae,Sagina saginoides,Sagina saginoides,TRA Fulford.,,,,remaining
+ssi,Caryophyllaceae,Silene antirrhina,Silene antirrhina,Grassy bluffs.,,,,remaining
+ssi,Caryophyllaceae,Silene gallica,Silene gallica,"TRA Beaver Point 1957, HLR Mt Maxwell 2017. Grassy bluffs, occasionaly cultivated ground",,,,remaining
+ssi,Caryophyllaceae,Silene latifolia,Silene latifolia,Roadsides and waste ground.,,,,remaining
+ssi,Caryophyllaceae,Silene scouleri,Silene scouleri,HLR Mt Tuam 2007-2018. AC Mt Tzuhalem 2000.,,,,remaining
+ssi,Caryophyllaceae,Silene vulgaris,Silene vulgaris,"TRA Fernwood, Fulford 1956, Lady Minto 1959, also Ganges",,,,remaining
+ssi,Caryophyllaceae,Spergula arvensis,Spergula arvensis,"Cultivated land, gardens, waste ground.",,,,remaining
+ssi,Caryophyllaceae,Spergularia canadensis var. occidentalis,Spergularia canadensis occidentalis,Tidal mud flats.,,,,remaining
+ssi,Caryophyllaceae,Spergularia macrotheca,Spergularia macrotheca,"Mud flats and salt marshes,",,,,remaining
+ssi,Caryophyllaceae,Spergularia rubra,Spergularia rubra,Roadside and waste ground.,,,,remaining
+ssi,Caryophyllaceae,Spergularia salina,Spergularia marina,"Mud flats and salt marshes,",,,,remaining
+ssi,Caryophyllaceae,Stellaria borealis ssp. sitchana,Stellaria borealis sitchana,"Edges of fens, lakes and other wetlands.",,,,remaining
+ssi,Caryophyllaceae,Stellaria crispa,Stellaria crispa,"Deep, moist woods and stream banks.",,,,remaining
+ssi,Caryophyllaceae,Stellaria graminea,Stellaria graminea,TRA Stewart Lake 1956,,,,remaining
+ssi,Caryophyllaceae,Stellaria longipes,Stellaria longipes,location?,,,,remaining
+ssi,Caryophyllaceae,Stellaria media,Stellaria media,Disturbed moist ground.,,,,remaining
+ssi,Caryophyllaceae,Stellaria nitens,Stellaria nitens,Grassy bluffs and gravelly soil.,,,,remaining
+ssi,Celastraceae,Paxistima myrsinites,Paxistima myrsinites,Rocky ledges in forest.,,,,remaining
+ssi,Ceratophyllaceae,Ceratophyllum demersum,Ceratophyllum demersum,"TRA Cusheon Lake, Warrington Bullocks Lake, Ford Lake",,,,remaining
+ssi,Ceratophyllaceae,Ceratophyllum echinatum,Ceratophyllum echinatum,"Warrington Ford Lake, Bullocks Lake 1978.",,,,remaining
+ssi,Convolvulaceae,Calystegia sepium,Calystegia sepium,"Moist soils, along roads, ditches, hedgerows and waste places.",,,,remaining
+ssi,Convolvulaceae,Convolvulus arvensis,Convolvulus arvensis,Fields and disturbed ground.,,,,remaining
+ssi,Convolvulaceae,Cuscuta pacifica var. pacifica,Cuscuta pacifica pacifica,On Salicornia in salt marshes.,,,,remaining
+ssi,Cornaceae,Cornus nuttallii,Cornus nuttallii,Mesic forest.,,,,remaining
+ssi,Cornaceae,Cornus occidentalis,Cornus sericea occidentalis,Harrington Rainbow Beach 1950.,,,,remaining
+ssi,Cornaceae,Cornus stolonifera,Cornus sericea,"Moist places along streams, lakes and boggy areas.",,,,remaining
+ssi,Crassulaceae,Crassula tillaea,Crassula tillaea,FL Beaver Point 2002.,,,,remaining
+ssi,Crassulaceae,Sedum acre,Sedum acre,"RDB Fulford, rocks above sea 1971.",,,,remaining
+ssi,Crassulaceae,Sedum album,Sedum album,"Beaver Point, Beddis Rd, Long Harbour Rd iNaturalist reports 2019-2020.",,,,remaining
+ssi,Crassulaceae,Sedum lanceolatum,Sedum lanceolatum,Grassy bluff ledges. TRA Beaver Point 1957.,recorded by HJ: Sedum lanceolatum var. nesioticum; Sedum lanceolatum var. nesioticum not recognized in FPNW2,,,remaining
+ssi,Crassulaceae,Sedum spathulifolium,Sedum spathulifolium,"Coastal cliffs, ledges, and rocky outcrops.",,,,remaining
+ssi,Cucurbitaceae,Marah oreganus,Marah oregana,TRA Fulford above St Pauls church - not relocated 2003-2004.,,,,remaining
+ssi,Cupressaceae,Juniperus scopulorum,Juniperus scopulorum,"Rocky points, low, open south shorelines. Some reports as J. maritima.",,"""Genetically this is J. maritima, but you follow the Flora of the PNW (2nd Ed.) so this is fine with the note they are the same thing."" FL E-Flora BC and other PNW collections are using J. maritima",,remaining
+ssi,Cupressaceae,Thuja plicata,Thuja plicata,"Moist bottom lands to rarely dry, exposed ridges; common throughout.",,,,remaining
+ssi,Cyperaceae,Bolboschoenus maritimus ssp. paludosus,Bolboschoenus maritimus paludosus,HJ Long Harbour 1983.,,,,remaining
+ssi,Cyperaceae,Carex aquatilis var. dives,Carex aquatilis dives,HJ Mt Bruce boggy lake edges. Weston Lake TRA 1955.,,,,remaining
+ssi,Cyperaceae,Carex arcta,Carex arcta,Sedge fens and bogs throughout.,,,,remaining
+ssi,Cyperaceae,Carex aurea,Carex aurea,"Wet, sedgey meadows.",,,,remaining
+ssi,Cyperaceae,Carex canescens ssp. canescens,Carex canescens canescens,Lake shores and floating vegetation mats,,,,remaining
+ssi,Cyperaceae,Carex cusickii,Carex cusickii,"St. Mary's Lake, shoreline fens.ICS Maxwell Rd 1975",,,,remaining
+ssi,Cyperaceae,Carex deweyana,Carex deweyana,Common moist woodland. =Carex leptopoda? See Wilson et al. (2008),,,,remaining
+ssi,Cyperaceae,Carex echinata,Carex echinata,"Sedge fens, TRA Weston Lake 1955.",,,,remaining
+ssi,Cyperaceae,Carex exsiccata,Carex exsiccata,Sedge fens and lake margins.,,"""C. vesicaria not = C. exsiccata – edited to exsiccata relatively widespread, C. vesicaria relatively less common."" HJ",,remaining
+ssi,Cyperaceae,Carex feta,Carex feta,"Beaver Point, TRA 1957,Blackburn Lake, Sedgy hay field, Burgoyne Bay. FL wet field north of Vesuvius 2010.",,,,remaining
+ssi,Cyperaceae,Carex flava,Carex flava,Maxwell Lake TRA,,,,remaining
+ssi,Cyperaceae,Carex hassei,Carex hassei,TRA Cusheon Lake 1957.,,,,remaining
+ssi,Cyperaceae,Carex hendersonii,Carex hendersonii,Moist Alder-Sword Fern woodlands.,,,,remaining
+ssi,Cyperaceae,Carex hoodii,Carex hoodii,"FL Mount Maxwell, west slope near north edge of ecological reserve, wet area at wide flat ledge on Garry oak slope with Carex inops, weedy grasses 1999.",,,,remaining
+ssi,Cyperaceae,Carex inops ssp. inops,Carex inops inops,"Open, south facing bluffs, grassy slopes.",,,,remaining
+ssi,Cyperaceae,Carex interior,Carex interior,C. Clement collection location?,,,,remaining
+ssi,Cyperaceae,Carex kelloggii var. impressa,Carex kelloggii impressa,Wet meadows and bogs SSI location?,,,,remaining
+ssi,Cyperaceae,Carex kelloggii var. limnophila,Carex kelloggii limnophila,Lowland sedge fens.,,,,remaining
+ssi,Cyperaceae,Carex leporina,Carex leporina,Moist meadows and fields; TRA Roberts Lake.,,,,remaining
+ssi,Cyperaceae,Carex leptopoda,Carex leptopoda,TRA Isabella Point 1956.,,,,remaining
+ssi,Cyperaceae,Carex lyngbyei ssp. cryptocarpa,Carex lyngbyei,"Seepy, protected shoreline.",not in FPNW2,,,remaining
+ssi,Cyperaceae,Carex macloviana,Carex macloviana,1971 R.D. Bird overgrazed sheep pasture Mt Bruce area and Isabella Point.,,"""I would delete these until confirmed. They are all doubtful to me: C. macloviana (northern species and in alpine in extreme SC BC - not the same as C. pachystachya)."" FL ""Will recheck all macloviana vouchers for Saanich at V."" HJ",,remaining
+ssi,Cyperaceae,Carex obnupta,Carex obnupta,"Sedge fens, common throughout.",,,,remaining
+ssi,Cyperaceae,Carex pachystachya,Carex pachystachya,"Meadows, farm fields, moist forest.",,"""Note on original Saanich Pen C. festivella entry, all now C.p."" HJ",,remaining
+ssi,Cyperaceae,Carex pellita,Carex pellita,Reported from Maxwell Lake and Mt Bruce. Vouchers?,,,,remaining
+ssi,Cyperaceae,Carex praticola,Carex praticola,"TRA collection 1955, Ganges. Confirmed RTO.",,,,remaining
+ssi,Cyperaceae,Carex stipata,Carex stipata,ICS location? Dunnison Duck Creek Park iNaturalist observation 2021.,,,,remaining
+ssi,Cyperaceae,Carex sylvatica,Carex sylvatica,"FL Meadows, roadside ditches Ruckle Park 2002.",,,,remaining
+ssi,Cyperaceae,Carex unilateralis,Carex unilateralis,HJ Bullock's Lake.,,,,remaining
+ssi,Cyperaceae,Carex utriculata,Carex utriculata,"Sedge fens, common.",,,,remaining
+ssi,Cyperaceae,Carex viridula,Carex viridula,"TRA Weston lake, Stewart Lake, Lakes on Mt Bruce.",,,,remaining
+ssi,Cyperaceae,Carex zikae,Carex zikae,"FL Mt Erskine 2002, RDB 1967.",,,,remaining
+ssi,Cyperaceae,Dulichium arundinaceum,Dulichium arundinaceum,"Cusheon Lake, Weston Lake. Boggy lake shores Mt Bruce.",,,,remaining
+ssi,Cyperaceae,Eleocharis palustris,Eleocharis palustris,"Shallow standing water, pond and lakes.",,,,remaining
+ssi,Cyperaceae,Eriophorum chamissonis,Eriophorum chamissonis,"Boggy lake shore, Mt Bruce.",,,,remaining
+ssi,Cyperaceae,Rhynchospora alba,Rhynchospora alba,"Boggy lake shores, Mt Bruce lakes.",,,,remaining
+ssi,Cyperaceae,Schoenoplectus acutus,Schoenoplectus acutus,Lake margins and deep water fens.,,,,remaining
+ssi,Cyperaceae,Scirpus microcarpus,Scirpus microcarpus,Fens and lake shores.,,,,remaining
+ssi,Cystopteridaceae,Cystopteris fragilis,Cystopteris fragilis,"Shady woods, moist rocky north slopes. Fairly common.",,,,remaining
+ssi,Cystopteridaceae,Gymnocarpium disjunctum,Gymnocarpium disjunctum,"RDB reported present, location unknown.",,,,remaining
+ssi,Dennstaedtiaceae,Pteridium aquilinum var. pubescens,Pteridium aquilinum pubescens,"Partial shade to open, exposed places; common throughout. Occasional disturbed ground., exposed south facing bluffs",,,,remaining
+ssi,Droseraceae,Drosera rotundifolia,Drosera rotundifolia,"TRA Cranberry Bog, HJ Lake on Mt Bruce 1975.",,,,remaining
+ssi,Dryopteridaceae,Dryopteris carthusiana,Dryopteris carthusiana,TRA 1955. Location North Saltspring no detail.,,,,remaining
+ssi,Dryopteridaceae,Dryopteris expansa,Dryopteris expansa,"Occasional shady, moist woods on decaying wood.",,,,remaining
+ssi,Dryopteridaceae,Polystichum munitum,Polystichum munitum,"Shady, moist woods, wooded hillsides, open wet forests; widespread and very common in suitable habitats, lowlands and lower north slopes.",,,,remaining
+ssi,Elaeagnaceae,Shepherdia canadensis,Shepherdia canadensis,Open fir forest.,,,,remaining
+ssi,Equisetaceae,Equisetum arvense,Equisetum arvense,common throughout,,,,remaining
+ssi,Equisetaceae,Equisetum hyemale ssp. affine,Equisetum hyemale affine,Common throughout shady edges of wetlands,,,,remaining
+ssi,Equisetaceae,Equisetum telmateia ssp. braunii,Equisetum telmateia braunii,Widespread lowland wetlands and ditches.,,,,remaining
+ssi,Ericaceae,Allotropa virgata,Allotropa virgata,"Open, mature upland forest.",,,,remaining
+ssi,Ericaceae,Arbutus menziesii,Arbutus menziesii,Dry south slopes or shoreline forest.,,,,remaining
+ssi,Ericaceae,Arctostaphylos columbiana,Arctostaphylos columbiana,Mt Maxwell summit ridge.,,,,remaining
+ssi,Ericaceae,Arctostaphylos media,Arctostaphylos × media,"TRA Mt Maxwell 1955, HJ Mt Maxwell obs.",,,,remaining
+ssi,Ericaceae,Arctostaphylos uva-ursi,Arctostaphylos uva-ursi,"HJ Mt Tuam, Mt Maxwell,Mt Bruce 1979.",,,,remaining
+ssi,Ericaceae,Chimaphila umbellata ssp. umbellata,Chimaphila umbellata umbellata,Open or dense coniferous forest.,,,,remaining
+ssi,Ericaceae,Gaultheria shallon,Gaultheria shallon,Mesic upland forest.,,,,remaining
+ssi,Ericaceae,Hemitomes congestum,Hemitomes congestum,McDonald iNaturalist Mt Erskine observation 2019.,,,,remaining
+ssi,Ericaceae,Kalmia microphylla var. occidentalis,Kalmia microphylla occidentalis,TRA Cranberry Bog 1971.,,,,remaining
+ssi,Ericaceae,Monotropa hypopitys,Monotropa hypopitys,ICS Mt Erskine 1977. confirmed Gary Wallace.,,,,remaining
+ssi,Ericaceae,Monotropa uniflora,Monotropa uniflora,Open Fir forest.,,,,remaining
+ssi,Ericaceae,Pterospora andromedea,Pterospora andromedea,TRA thick woods above Cranberry Bog 1957.,,,,remaining
+ssi,Ericaceae,Pyrola aphylla,Pyrola aphylla,TRA Burgoyne Bay 1956.,,,,remaining
+ssi,Ericaceae,Pyrola asarifolia,Pyrola asarifolia,"TRA Beaver Point 1955, Burgoyne Bay and Isabella Point 1956",,,,remaining
+ssi,Ericaceae,Pyrola picta,Pyrola picta,"TRA Isabella Point, Burgoyne Bay 1956, Occasional in higher elevation forest.",,,,remaining
+ssi,Ericaceae,Rhododendron groenlandicum,Rhododendron groenlandicum,TRA Cranberry Bog 1957. HJ Mt Bruce wetland 1979.,,,,remaining
+ssi,Ericaceae,Vaccinium ovatum,Vaccinium ovatum,TRA Booth Bay 1956.,,,,remaining
+ssi,Ericaceae,Vaccinium oxycoccos,Vaccinium oxycoccos,"TRA Cranberry Bog 1957, HJ Mt Bruce bog 1979.",,,,remaining
+ssi,Ericaceae,Vaccinium parvifolium,Vaccinium parvifolium,On raw humus and decaying wood in coniferous forest.,,,,remaining
+ssi,Euphorbiaceae,Euphorbia cyparissias,Euphorbia cyparissias,location?,,,,remaining
+ssi,Euphorbiaceae,Euphorbia peplus,Euphorbia peplus,"Gardens, flower beds, waste land.",,,,remaining
+ssi,Fabaceae,Acmispon denticulatus,Acmispon denticulatus,TRA Burgoyne Bay,,,,remaining
+ssi,Fabaceae,Acmispon parviflorus,Acmispon parviflorus,"Grassy bluffs, roadsides.",,,,remaining
+ssi,Fabaceae,Cytisus scoparius,Cytisus scoparius,"Roadsides, dry grassland, bluffs, spreading from disturbed ground.",,,,remaining
+ssi,Fabaceae,Laburnum anagyroides,Laburnum anagyroides,Several iNaturalist reports for area.,,,,remaining
+ssi,Fabaceae,Lathyrus japonicus,Lathyrus japonicus,Sandy beaches and shoreline.,,,,remaining
+ssi,Fabaceae,Lathyrus latifolius,Lathyrus latifolius,"Along roads, waste land.",,,,remaining
+ssi,Fabaceae,Lathyrus nevadensis var. nevadensis,Lathyrus nevadensis nevadensis,"Open, mesic woodland.",,,,remaining
+ssi,Fabaceae,Lathyrus sylvestris,Lathyrus sylvestris,ICS Fulford. Burgoyne Bay iNaturalist report 2020.,,,,remaining
+ssi,Fabaceae,Lotus corniculatus,Lotus corniculatus,"Roadsides, lawns, waste areas.",,,,remaining
+ssi,Fabaceae,Lupinus arboreus,Lupinus arboreus,"Roadsides, waste ground. RDB Ganges 1971, TRA Fulford 1958",,,,remaining
+ssi,Fabaceae,Lupinus bicolor,Lupinus bicolor,"Grassy bluffs, grassy shoreline ledges.",,,,remaining
+ssi,Fabaceae,Lupinus polyphyllus,Lupinus polyphyllus,Roadsides; moist ground; included in Highways bank seeding. vars?,,,,remaining
+ssi,Fabaceae,Medicago arabica,Medicago arabica,"FL Fulford Harbour, Drummond Park 2010.",,,,remaining
+ssi,Fabaceae,Medicago lupulina,Medicago lupulina,TRA Beaver Point.,,,,remaining
+ssi,Fabaceae,Medicago polymorpha,Medicago polymorpha,Luft Lyoness Rd iNaturalist report 2020.,,,,remaining
+ssi,Fabaceae,Medicago sativa,Medicago sativa,"Farm fields, pasture.",,,,remaining
+ssi,Fabaceae,Melilotus albus,Melilotus albus,"Roadsides, waste land, beaches.",,,,remaining
+ssi,Fabaceae,Melilotus officinalis,Melilotus officinalis,"Roadsides, waste ground.",,,,remaining
+ssi,Fabaceae,Trifolium arvense,Trifolium arvense,Dry roadside verges.,,,,remaining
+ssi,Fabaceae,Trifolium campestre,Trifolium campestre,"Lawns, roadsides, waste places.",,,,remaining
+ssi,Fabaceae,Trifolium dichotomum,Trifolium dichotomum,"Grassy, south facing bluffs",,,,remaining
+ssi,Fabaceae,Trifolium dubium,Trifolium dubium,"Lawns, pasture and waste grounds throughout.",,,,remaining
+ssi,Fabaceae,Trifolium hybridum,Trifolium hybridum,"Roadsides, pasture, fields,",,,,remaining
+ssi,Fabaceae,Trifolium incarnatum,Trifolium incarnatum,iNaturalist report Musgrave Rd 2019,,,,remaining
+ssi,Fabaceae,Trifolium microcephalum,Trifolium microcephalum,Grassy bluffs and ledges.,,,,remaining
+ssi,Fabaceae,Trifolium microdon,Trifolium microdon,"Bluffs, slopes on sandy or rocky soil.",,,,remaining
+ssi,Fabaceae,Trifolium oliganthum,Trifolium oliganthum,"Bluff, grassland on dry, rocky soils.",,,,remaining
+ssi,Fabaceae,Trifolium pratense,Trifolium pratense,"Moist roadsides, lawn, meadows.",,,,remaining
+ssi,Fabaceae,Trifolium repens,Trifolium repens,"Lawns, pastures, roadsides, waste areas.",,,,remaining
+ssi,Fabaceae,Trifolium striatum,Trifolium striatum,FL Long Harbour ferry terminal.,,,,remaining
+ssi,Fabaceae,Trifolium subterraneum,Trifolium subterraneum,FL Cusheon Lake 2002.,,,,remaining
+ssi,Fabaceae,Trifolium variegatum,Trifolium variegatum,"Grassy banks just above sea, grassy bluffs.",,,,remaining
+ssi,Fabaceae,Trifolium willdenovii,Trifolium willdenovii,"Bluff, grassland on dry, rocky soils.",,,,remaining
+ssi,Fabaceae,Trifolium wormskioldii,Trifolium wormskioldii,"TRA Ganges, HJ Booth Canal.",,,,remaining
+ssi,Fabaceae,Ulex europaeus,Ulex europaeus,"Waste ground, shoreline banks, disturbed ground on ridges.",,,,remaining
+ssi,Fabaceae,Vicia americana,Vicia americana,"Dry, open woods.",,,,remaining
+ssi,Fabaceae,Vicia cracca,Vicia cracca,Roadsides and waste ground.,,,,remaining
+ssi,Fabaceae,Vicia hirsuta,Vicia hirsuta,"Roadsides, disturbed ground.",,,,remaining
+ssi,Fabaceae,Vicia lathyroides,Vicia lathyroides,"Long, Musgrave Landing. FL Mt Tuam 1999, HLR Ruckle Park 1999.",,,,remaining
+ssi,Fabaceae,Vicia nigricans var. gigantea,Vicia gigantea,"Open forest and gulleys near salt water, wet brackish or saline places.",,,,remaining
+ssi,Fabaceae,Vicia sativa,Vicia sativa,"Roadsides, disturbed ground.",,,,remaining
+ssi,Fabaceae,Vicia tetrasperma,Vicia tetrasperma,"Roadsides, cultivated ground, weedy areas.",,,,remaining
+ssi,Fabaceae,Vicia villosa,Vicia villosa,"Roadside, fields, ddisturbed areas.",,,,remaining
+ssi,Fagaceae,Quercus garryana,Quercus garryana,"Exposed bulffs, grassy slopes and islets. All islands. Never in mixed forest as on Saanich Peninsula.",,,,remaining
+ssi,Gentianaceae,Centaurium erythraea,Centaurium erythraea,"Farm fields, meadows.",,,,remaining
+ssi,Geraniaceae,Erodium cicutarium,Erodium cicutarium,Disturbed ground.,,,,remaining
+ssi,Geraniaceae,Geranium bicknellii,Geranium bicknellii,ICS location? MCM collection?,,,,remaining
+ssi,Geraniaceae,Geranium carolinianum,Geranium carolinianum,"Dry roadsides, dirt roads. HJ Deadman Islet 1996.",,,,remaining
+ssi,Geraniaceae,Geranium lucidum,Geranium lucidum,"FL North Beach Rd, grassy roadside 2010. First BC record of this invasive species.",,,,remaining
+ssi,Geraniaceae,Geranium molle,Geranium molle,"Roadside, lawns, waste places, open grassy bluffs",,,,remaining
+ssi,Geraniaceae,Geranium purpureum,Geranium purpureum,Rose Reynolds Rd iNaturalist report 2020. No herbarium records for area found.,,,,remaining
+ssi,Geraniaceae,Geranium robertianum,Geranium robertianum,Many iNaturalist reports for area.,,,,remaining
+ssi,Grossulariaceae,Ribes bracteosum,Ribes bracteosum,Thompson Sunset Drive iNaturalist report 2019.,,,,remaining
+ssi,Grossulariaceae,Ribes divaricatum var. divaricatum,Ribes divaricatum divaricatum,"Moist, open woods and thickets; occasional throughout.",,,,remaining
+ssi,Grossulariaceae,Ribes lacustre,Ribes lacustre,"Shady lake edges, muddy places, damp forest floor.",,,,remaining
+ssi,Grossulariaceae,Ribes lobbii,Ribes lobbii,"TRA St Marys Lake, Cusheon Lake 1955. Calder Mt Maxwell 1961. Common along roadside Mt Tuam area.",,,,remaining
+ssi,Grossulariaceae,Ribes niveum,Ribes niveum,TRA Ganges 1959. Voucher at V labeled garden escape.,,,,remaining
+ssi,Grossulariaceae,Ribes sanguineum,Ribes sanguineum,Open woodland; road verges.,,,,remaining
+ssi,Haloragaceae,Myriophyllum verticillatum,Myriophyllum verticillatum,location?,,,,remaining
+ssi,Hydrangeaceae,Philadelphus lewisii,Philadelphus lewisii,"Open, dry, wooded areas, talus slopes rock cliff bases.",,,,remaining
+ssi,Hydrocharitaceae,Elodea canadensis,Elodea canadensis,"Occasional in ponds and sluggish waters. Farm ponds. St Mary Lake, Cusheon Lake.",,,,remaining
+ssi,Hydrocharitaceae,Najas flexilis,Najas flexilis,"St Mary's Lake, Bullock Lake, Ford Lake, Stowell Lake,",,,,remaining
+ssi,Hypericaceae,Hypericum anagalloides,Hypericum anagalloides,"Wetlands, bogs, bluff seeps.",,,,remaining
+ssi,Hypericaceae,Hypericum perforatum,Hypericum perforatum,"Roadsides, cultivated land, waste places.",,,,remaining
+ssi,Iridaceae,Iris germanica,Iris × germanica,Persistant.,,"On list of non-established plants in BC AS; We include this on our flora, where we describe it as Rare-occasional, either long-persistent from plantings or occasionally escaping. PD",,in progress
+ssi,Iridaceae,Iris pseudacorus,Iris pseudacorus,"Ponds, fens and roadside ditches.",,,,remaining
+ssi,Iridaceae,Sisyrinchium californicum,Sisyrinchium californicum,A&O Ceska location? Mt Tuam highland area?,,,,remaining
+ssi,Iridaceae,Sisyrinchium idahoense,Sisyrinchium idahoense,Wet grassy meadows. Vars. ?,,,,remaining
+ssi,Isoetaceae,Isoetes nuttallii,Isoetes nuttallii,Abundant throughout Beaver Point camping area in wet seeps May 1996. McEwen SE of Musgrave Rock 2016.,,,,remaining
+ssi,Isoetaceae,Isoetes occidentalis,Isoetes occidentalis,"Submerged in shallow water, St, Mary's Lake shore HJ August 1981. PDW St Mary's lake 1976.",,,,remaining
+ssi,Isoetaceae,Isoetes tenella,Isoetes tenella,"Shallow water, shoreline St. Mary's Lake.",,,,remaining
+ssi,Juncaceae,Juncus acuminatus,Juncus acuminatus,Fens and wetlands throughout. Collections Bullocks and Cusheon Lakes.,,,,remaining
+ssi,Juncaceae,Juncus alpinoarticulatus,Juncus alpinoarticulatus,"St Mary Lake MCM and A&OC. V168274 Date: Sat, 14 Sep 1974 00:00:00 GMT Collector: Adolf Ceska; Oldriska Ceska",,,,remaining
+ssi,Juncaceae,Juncus articulatus,Juncus articulatus,Fens and wet places throughout.,,,,remaining
+ssi,Juncaceae,Juncus balticus,Juncus balticus,"Wet meadows, shoreline wetlands.",,,,remaining
+ssi,Juncaceae,Juncus bolanderi,Juncus bolanderi,Roadside ditches and wetlands common throughout.,,,,remaining
+ssi,Juncaceae,Juncus bufonius,Juncus bufonius,"Common throughout on wet, disturbed ground.",,,,remaining
+ssi,Juncaceae,Juncus conglomeratus,Juncus conglomeratus,Zika roadside ditch Channel Ridge 2003.,,,,remaining
+ssi,Juncaceae,Juncus effusus ssp. effusus,Juncus effusus effusus,"Common fens, wet meadows and fields throughout.",,"""Maybe follow the FPNW and list it as ssp. effusus from Europe. Subspecies solutus from east N.A. may also be in the area"" FL —""I have definitely been observing multiple ssp of Juncus effusus around, inc. Je.solutus, J.e.pacificus, and J.e.effusus. The list should be updated to included record of all these infrataxa—how to update comments?""",,remaining
+ssi,Juncaceae,Juncus effusus ssp. pacificus,Juncus effusus pacificus,"Common fens, wet meadows and fields throughout.",,"""Maybe follow the FPNW and list it as ssp. effusus from Europe. Subspecies solutus from east N.A. may also be in the area"" FL —""I have definitely been observing multiple ssp of Juncus effusus around, inc. Je.solutus, J.e.pacificus, and J.e.effusus. The list should be updated to included record of all these infrataxa—how to update comments?""",,remaining
+ssi,Juncaceae,Juncus ensifolius,Juncus ensifolius,"Common fens, wet meadows and fields throughout.",,,,remaining
+ssi,Juncaceae,Juncus gerardii,Juncus gerardi,"Bedwell Harbour, Booth canal, ocean shore wetlands.",,,,remaining
+ssi,Juncaceae,Juncus supiniformis,Juncus supiniformis,A&OC Roberts Lake 1978.,,,,remaining
+ssi,Juncaceae,Juncus tenuis,Juncus tenuis,"Moist meadows, farm fields throughout.",,,,remaining
+ssi,Juncaceae,Luzula campestris,Luzula campestris,RDB Mt Belcher 1971. Zika Ruckle Park sunny roadside 2010.,,,,remaining
+ssi,Juncaceae,Luzula comosa var. laxa,Luzula comosa laxa,Along Dubois Road near Musgrave Road and Beaver Point Zika 2010. Mt Belcher R. Bird 1971.,,,,remaining
+ssi,Juncaceae,Luzula macrantha,Luzula macrantha,Mt Maxwell and Mouat Park R. Bird 1971. Zika near Ruckle Park 2010.,,,,remaining
+ssi,Juncaceae,Luzula multiflora,Luzula multiflora,"Open coniferous forests, lakeshore, bogs.",,,,remaining
+ssi,Juncaceae,Luzula parviflora,Luzula parviflora,"TRA Beaver Point, HJ Maxwell Creek and Duck Creek",,,,remaining
+ssi,Juncaceae,Luzula subsessilis,Luzula subsessilis,RDB Mt Erskin 1971 and Ruckel Park 1971.,,,,remaining
+ssi,Juncaginaceae,Triglochin maritima,Triglochin maritima,Salt marshes; common along rocky and muddy shores throughout.,,,,remaining
+ssi,Lamiaceae,Clinopodium douglasii,Clinopodium douglasii,"Dry, open woods throughout the area.",,,,remaining
+ssi,Lamiaceae,Glechoma hederacea,Glechoma hederacea,"Persisting and marginally escaping, old gardens.",,,,remaining
+ssi,Lamiaceae,Lamiastrum galeobdolon,Lamium galeobdolon,No herbarium reccords but listed by the Invasive Species Council of BC for Vancouver Island and Gulf Islands. Persistant and marginally spreading.,,,,remaining
+ssi,Lamiaceae,Lamium purpureum,Lamium purpureum,"Roadsides, waste ground.",,,,remaining
+ssi,Lamiaceae,Lycopus americanus,Lycopus americanus,TRA St Marys Lake date?,,,,remaining
+ssi,Lamiaceae,Lycopus asper,Lycopus asper,ICS location? date? No coast records found.,,,,remaining
+ssi,Lamiaceae,Lycopus uniflorus,Lycopus uniflorus,Marshes and fens.,,,,remaining
+ssi,Lamiaceae,Marrubium vulgare,Marrubium vulgare,"Waste ground, occasionaly open, grassy bluffs.",,,,remaining
+ssi,Lamiaceae,Melissa officinalis,Melissa officinalis,Roadsides and waste places.,,,,remaining
+ssi,Lamiaceae,Mentha canadensis,Mentha canadensis,"Wet ground, fens and lake edges.",,,,remaining
+ssi,Lamiaceae,Mentha spicata,Mentha spicata,"Occasionaly naturalizing, low, wet places.",,,,remaining
+ssi,Lamiaceae,Nepeta cataria,Nepeta cataria,"HJ Burgoyne Valley, disturbed ground 1981.",,,,remaining
+ssi,Lamiaceae,Origanum vulgare,Origanum vulgare,"TRA Fulford date? Luft iNaturalist report 2020, CricketFarm Blackburn Lake iNaturalist report 2020, Consumer Booth Canal iNaturalist report 2020.",,,,remaining
+ssi,Lamiaceae,Prunella vulgaris,Prunella vulgaris,"Lawns, gardens, disturbed ground.",,,,remaining
+ssi,Lamiaceae,Scutellaria galericulata,Scutellaria galericulata,"HJ Roberts Lake 1981, TRA St Marys Lake date?",,,,remaining
+ssi,Lamiaceae,Scutellaria lateriflora,Scutellaria lateriflora,TRA report Stewart Lake - no voucher found.,,,,remaining
+ssi,Lamiaceae,Stachys byzantina,Stachys byzantina,"RDB Reginald Hill 1971, TRA Fulford date?",,,,remaining
+ssi,Lamiaceae,Stachys cooleyae,Stachys chamissonis cooleyae,"Streambanks, fens, ditches.",,,,remaining
+ssi,Lentibulariaceae,Utricularia vulgaris ssp. macrorhiza,Utricularia macrorhiza,"HJ Sphagnum Lake near Mt Bruce 1979, also many lowland lakes including Bullocks.",,,,remaining
+ssi,Liliaceae,Erythronium oregonum ssp. oregonum,Erythronium oregonum,"Grassy shorelines and points, rarely away from salt water.",,,,remaining
+ssi,Liliaceae,Fritillaria affinis,Fritillaria affinis,"Grassy ridges, points usually near salt water.",,,,remaining
+ssi,Liliaceae,Fritillaria camschatcensis,Fritillaria camschatcensis,"Goat Island, Ganges harbour TRA 1957.",,,,remaining
+ssi,Liliaceae,Lilium columbianum,Lilium columbianum,"Damp, open woods and meadows, roadsides.",,,,remaining
+ssi,Liliaceae,Prosartes hookeri,Prosartes hookeri,"Beaver Point TRA 1950. Fulford in creek drainage, south side of harbour. HJ April 1980.",,,,remaining
+ssi,Liliaceae,Streptopus amplexifolius,Streptopus amplexifolius,TRA collections Mitchell Lake and Cranberry Bog 1957.,,,,remaining
+ssi,Limnanthaceae,Limnanthes macounii,Limnanthes macounii,"AC Beaver Point, Elanore Point 1978.",,,,remaining
+ssi,Lythraceae,Lythrum salicaria,Lythrum salicaria,"TRA Ganges 1957, HJ Ganges 1980.",,,,remaining
+ssi,Malvaceae,Malva moschata,Malva moschata,"Waste ground, roadsides.",,,,remaining
+ssi,Melanthiaceae,Toxicoscordion venenosum var. venenosum,Toxicoscordion venenosum venenosum,Grassy bluffs and ridges.,,,,remaining
+ssi,Melanthiaceae,Trillium ovatum,Trillium ovatum,"Damp woods, on soil rich in humus.Cusheon Lake, Booth Bay, Ganges, St Marys Lake.",,,,remaining
+ssi,Melanthiaceae,Veratrum viride,Veratrum viride,Locaton? Mt Tuam-Mt Bruce plateau.,,,,remaining
+ssi,Menyanthaceae,Menyanthes trifoliata,Menyanthes trifoliata,"TRA St Marys Lake, HJ Weston Lake",,,,remaining
+ssi,Montiaceae,Calandrinia ciliata,Calandrinia ciliata,"Grassy, south facing bulffs, shorline ridges.",,,,remaining
+ssi,Montiaceae,Claytonia exigua ssp. exigua,Claytonia exigua exigua,"Dry, shady sandy ground. RDB summit of Mt Belcher.",,,,remaining
+ssi,Montiaceae,Claytonia parviflora,Claytonia parviflora,TRA Beaver Point 1957.,,,,remaining
+ssi,Montiaceae,Claytonia perfoliata,Claytonia perfoliata,"Open to shady, moist ground,; forming pure stands on slightly disturbed ground.",,,,remaining
+ssi,Montiaceae,Claytonia rubra,Claytonia rubra,TRA Ganges 1955. HLR Mt Maxwell 1985.,,,,remaining
+ssi,Montiaceae,Claytonia sibirica,Claytonia sibirica,Moist woods and thickets.,,,,remaining
+ssi,Montiaceae,Montia dichotoma,Montia dichotoma,"Open, grassy slopes, mossy rock seeps on shorelines.",,,,remaining
+ssi,Montiaceae,Montia fontana,Montia fontana,"Moist meadows, seeps, vernal pools, margins of pond",,,,remaining
+ssi,Montiaceae,Montia howellii,Montia howellii,"Trails, lake shorelines, mossy rock outcrops. Sandy beach on St Mary's Lake, mossy, seepy rock at Ruckle Point. Rut in parking area at Ford Lake.",,,,remaining
+ssi,Montiaceae,Montia linearis,Montia linearis,"Grassy bluffs, mossy seeps.",,,,remaining
+ssi,Montiaceae,Montia parvifolia,Montia parvifolia,"Stream banks and shady seeps on rocky outcrops, isolated mossy boulders.","recorded by HJ: Montia parvifolia var. flagellaris, syn. M.parvifolia in FPNW2",,,remaining
+ssi,Myricaceae,Myrica gale,Myrica gale,TRA Weston and Steward Lakes. HJ Bullocks Lake.,,,,remaining
+ssi,Nyctaginaceae,Abronia latifolia,Abronia latifolia,Gatten iNaturalist report east end of Ganges Harbour 2017.,,,,remaining
+ssi,Nymphaeaceae,Nuphar polysepala,Nuphar polysepala,Ponds and shallow lakes.,,,,remaining
+ssi,Oleaceae,Fraxinus latifolia,Fraxinus latifolia,"Chytyk Kingfisher Cove on shell miden 2012. Penn Fulford 1996,",,,,remaining
+ssi,Onagraceae,Chamaenerion angustifolium,Chamaenerion angustifolium,"Disturbed ground, burns",,,,remaining
+ssi,Onagraceae,Circaea alpina ssp. pacifica,Circaea alpina pacifica,"Cool, damp woods.",,,,remaining
+ssi,Onagraceae,Clarkia amoena,Clarkia amoena,Grassy bluffs.,,,,remaining
+ssi,Onagraceae,Epilobium brachycarpum,Epilobium brachycarpum,"Roadsides, grassy bluffs.",,,,remaining
+ssi,Onagraceae,Epilobium ciliatum,Epilobium ciliatum,"Wet meadows, fens, wet land edges.",,,,remaining
+ssi,Onagraceae,Epilobium minutum,Epilobium minutum,"Grassy bluffs, ledges and banks. Straley Beddis Road 1991.",,,,remaining
+ssi,Onagraceae,Epilobium palustre,Epilobium palustre,collector? location?,,,,remaining
+ssi,Onagraceae,Ludwigia palustris,Ludwigia palustris,HJ Ford's Lake 1979 no collection.,,,,remaining
+ssi,Onagraceae,Oenothera glazioviana,Oenothera glazioviana,RDB Fulford 1971.,,,,remaining
+ssi,Ophioglossaceae,Sceptridium multifidum,Sceptridium multifidum,"Known from Maxwell Lake, St. Mary's Lake. ICS Cusheon Lake 1980.",,,,remaining
+ssi,Orchidaceae,Calypso bulbosa var. occidentalis,Calypso bulbosa occidentalis,"Mossy spots, shaded mature forest.",,,,remaining
+ssi,Orchidaceae,Cephalanthera austiniae,Cephalanthera austiniae,"Mt Tuam, Musgrave landing Donovan and Chytyk",,,,remaining
+ssi,Orchidaceae,Corallorhiza maculata var. occidentalis,Corallorhiza maculata occidentalis,Moist or dry coniferous forest throughout. Several collections of var. ozettensis for island.,,,,remaining
+ssi,Orchidaceae,Corallorhiza maculata var. ozettensis,Corallorhiza maculata ozettensis,"St Marys Lake McEwen 2016, Blackburn Lake McEwen 2014. Mt Tuam ER McEwen 2016.",,,,remaining
+ssi,Orchidaceae,Dactylorhiza viridis,Dactylorhiza viridis,"TRA Russell Island, Fulford Harbour.",,,,remaining
+ssi,Orchidaceae,Epipactis helleborine,Epipactis helleborine,D.L. Thompson Lepage Road 2020. Several locations iNaturalist.,,,,remaining
+ssi,Orchidaceae,Goodyera oblongifolia,Goodyera oblongifolia,Moist or semidry moss floored coniferous forest; throughout.,,,,remaining
+ssi,Orchidaceae,Neottia cordata,Neottia cordata,Common under dense Salal in second growth forests,,,,remaining
+ssi,Orchidaceae,Platanthera dilatata,Platanthera dilatata,TRA Cranberry Bog.,,,,remaining
+ssi,Orchidaceae,Platanthera elegans ssp. elegans,Platanthera elegans elegans,"Dry, open coniferous forest, McCutcheon north of Vesuvius 1994.",,,,remaining
+ssi,Orchidaceae,Platanthera huronensis,Platanthera huronensis,"ICS personal collection, voucher not examined. Location?",,,,remaining
+ssi,Orchidaceae,Platanthera stricta,Platanthera stricta,TRA Cranberry Bog.1957.,,,,remaining
+ssi,Orchidaceae,Platanthera transversa,Platanthera transversa,HJ Mt Tuam 1980.,,,,remaining
+ssi,Orchidaceae,Platanthera unalascensis,Platanthera unalascensis,"Grassy, open places, dry coniferous forests.",,,,remaining
+ssi,Orchidaceae,Spiranthes romanzoffiana,Spiranthes romanzoffiana,"Open, grassy places and parklands.",,,,remaining
+ssi,Orobanchaceae,Aphyllon californicum ssp. californicum,Aphyllon californicum californicum,"Parasitic on Grindelia, usually near shore line.",,,,remaining
+ssi,Orobanchaceae,Aphyllon purpureum,Aphyllon purpureum,Parasitic on Sedum and occasionally on Lithophragma.,,,,remaining
+ssi,Orobanchaceae,Bellardia viscosa,Bellardia viscosa,"Roadsides, farm fields, pasture.",,,,remaining
+ssi,Orobanchaceae,Castilleja attenuata,Castilleja attenuata,"Open, grassy bluffs.",,,,remaining
+ssi,Orobanchaceae,Castilleja hispida,Castilleja hispida,Grassy bluffs and ledges.,,,,remaining
+ssi,Orobanchaceae,Castilleja miniata var. dixonii,Castilleja miniata dixonii,"TRA claim from Brackman Island, no voucher found.",,,,remaining
+ssi,Orobanchaceae,Castilleja victoriae,Castilleja victoriae,Newcombe Mt Tuam 1923.,,,,remaining
+ssi,Orobanchaceae,Kopsiopsis hookeri,Kopsiopsis hookeri,ICS location? McDonald north slope Mt Erskin iNaturalist observation 2020. Kings Rd iNaturalist observation 2020.,,,,remaining
+ssi,Orobanchaceae,Rhinanthus minor ssp. groenlandicus,Rhinanthus groenlandicus,Meadows and grassy fields.,,,,remaining
+ssi,Orobanchaceae,Triphysaria pusilla,Triphysaria pusilla,"Meadows, weedy lawns.",,,,remaining
+ssi,Papaveraceae,Dicentra formosa,Dicentra formosa,"Moist roadside, Blackburn Road. HJ,TRA,RDB.",,,,remaining
+ssi,Papaveraceae,Eschscholzia californica ssp. californica,Eschscholzia californica californica,Roadsides and waste ground.,,,,remaining
+ssi,Papaveraceae,Meconella oregana,Meconella oregana,"Maslovat Mt Tuam 2010, 2012.",,,,remaining
+ssi,Papaveraceae,Papaver somniferum,Papaver somniferum,Occasional escapee from cultivation.,,,,remaining
+ssi,Phrymaceae,Erythranthe alsinoides,Erythranthe alsinoides,Grassy bluffs and ledges.,,,,remaining
+ssi,Phrymaceae,Erythranthe guttata,Erythranthe guttata,"Seepy spots on grassy bluffs, occasionally roadside ditches.",,,,remaining
+ssi,Phrymaceae,Erythranthe moschata,Erythranthe moschata,"Ponds, ditches with standing water.",,,,remaining
+ssi,Phrymaceae,Erythranthe nasuta,Erythranthe nasuta,Benedict end of Isabella Road 1990.,,,,remaining
+ssi,Phrymaceae,Erythranthe ptilota,Erythranthe ptilota,TRA Booth Canal 1955.,,,,remaining
+ssi,Phrymaceae,Erythranthe sookensis,Erythranthe sookensis,GD 5.5 km SE of Ganges 1976.,not in FPNW2,,,remaining
+ssi,Pinaceae,Abies grandis,Abies grandis,Moist lowland forest; locally common.,,,,remaining
+ssi,Pinaceae,Picea sitchensis,Picea sitchensis,"Very rare, south east shore line forest.",,,,remaining
+ssi,Pinaceae,Pinus contorta var. contorta,Pinus contorta contorta,"Dry, south exposed woodlands, dry north slopes",,,,remaining
+ssi,Pinaceae,Pinus monticola,Pinus monticola,Absent from lowland forest. Occasional on high elevation plateau Mt Bruce to Mt Tuam.,,,,remaining
+ssi,Pinaceae,Pseudotsuga menziesii,Pseudotsuga menziesii menziesii,Moist to dry areas; generally distributed throughout the forested areas.,,,,remaining
+ssi,Pinaceae,Tsuga heterophylla,Tsuga heterophylla,"Upland, north facing slopes; common. Very rare on south slopes and mesic lowland forest.",,,,remaining
+ssi,Plantaginaceae,Callitriche heterophylla var. bolanderi,Callitriche heterophylla bolanderi,"TRA Mitchel Lake, Cusheon Lake1957.",,,,remaining
+ssi,Plantaginaceae,Callitriche palustris,Callitriche palustris,TRA Mitchell Lake date?- no voucher at Uvic,,,,remaining
+ssi,Plantaginaceae,Collinsia grandiflora,Collinsia grandiflora,"Open, grassy bluffs.",,,,remaining
+ssi,Plantaginaceae,Collinsia parviflora,Collinsia parviflora,"Open, grassy bluffs.",,,,remaining
+ssi,Plantaginaceae,Cymbalaria muralis,Cymbalaria muralis,TRA Beaver Point date?,,,,remaining
+ssi,Plantaginaceae,Digitalis purpurea,Digitalis purpurea,"Roadsides, waste places, logged ground.",,,,remaining
+ssi,Plantaginaceae,Gratiola ebracteata,Gratiola ebracteata,ICS claim - no voucher found.,,,,remaining
+ssi,Plantaginaceae,Gratiola neglecta,Gratiola neglecta,ICS claim - no voucher found.,,,,remaining
+ssi,Plantaginaceae,Limosella aquatica,Limosella aquatica,DPW St Marys Lake date? voucher location?,,,,remaining
+ssi,Plantaginaceae,Linaria dalmatica,Linaria dalmatica,lCS & RDB location? Dates? Canvasback Place iNaturalist report 2020.,,,,remaining
+ssi,Plantaginaceae,Linaria purpurea,Linaria purpurea,Garden escapee.,,,,remaining
+ssi,Plantaginaceae,Linaria vulgaris,Linaria vulgaris,TRA Fulford,,,,remaining
+ssi,Plantaginaceae,Plantago coronopus,Plantago coronopus,AC Ruckle Park 2010.,,,,remaining
+ssi,Plantaginaceae,Plantago elongata,Plantago elongata,"Grassy bluffs, rocky shoreline ledges.",,,,remaining
+ssi,Plantaginaceae,Plantago lanceolata,Plantago lanceolata,"Lawns, waste ground, cultivated ground.",,,,remaining
+ssi,Plantaginaceae,Plantago major,Plantago major,"Lawns, roadsides and disturbed ground.",,,,remaining
+ssi,Plantaginaceae,Plantago maritima,Plantago maritima,Rocky shoreline and salt marshes.,,,,remaining
+ssi,Plantaginaceae,Tonella tenella,Tonella tenella,"Open, rocky slopes above Sansum Narrows GD & FL. Also known from Maple Mountain, Mary Vine Creek, Sooke and talus and rocky bluffs above Elwah River, Olympic Peninsula.",,,,remaining
+ssi,Plantaginaceae,Veronica americana,Veronica americana,"Standing water in ditches, fens and ponds",,,,remaining
+ssi,Plantaginaceae,Veronica arvensis,Veronica arvensis,"Waste ground, grassy bluffs, disturbed ground",,,,remaining
+ssi,Plantaginaceae,Veronica officinalis,Veronica officinalis,Roadsides and disturbed fields.,,,,remaining
+ssi,Plantaginaceae,Veronica peregrina var. xalapensis,Veronica peregrina xalapensis,"Meadows, dirt roads, vernal wet spots.",,,,remaining
+ssi,Plantaginaceae,Veronica persica,Veronica persica,"TRA Ganges, date?",,,,remaining
+ssi,Plantaginaceae,Veronica scutellata,Veronica scutellata,"Fens, pond edges.",,,,remaining
+ssi,Plantaginaceae,Veronica serpyllifolia,Veronica serpyllifolia,"Moist meadows, wet ground and disturbed sites.",,,,remaining
+ssi,Plumbaginaceae,Armeria maritima ssp. californica,Armeria maritima californica,Anderson 1896 Chain Islands.,,,,remaining
+ssi,Poaceae,Achnatherum lemmonii ssp. lemmonii,Eriocoma lemmonii lemmonii,"Open, grassy south facing bluffs",,,,remaining
+ssi,Poaceae,Agrostis capillaris,Agrostis capillaris,Meadow and pasture throughou.,,,,remaining
+ssi,Poaceae,Agrostis exarata,Agrostis exarata,Roadsides and fields.,,,,remaining
+ssi,Poaceae,Agrostis gigantea,Agrostis gigantea,"Lawns, fields and roadsides.",,,,remaining
+ssi,Poaceae,Agrostis microphylla,Agrostis microphylla,Roadside and at salt springs. TRA Beaver Point.,,,,remaining
+ssi,Poaceae,Agrostis pallens,Agrostis pallens,"Dry upland pasture, roadsides.",,,,remaining
+ssi,Poaceae,Agrostis scabra,Agrostis scabra,"Fens and bogs. HJ Mt Bruce, Mt Tuam, Lake Maxwell.",,,,remaining
+ssi,Poaceae,Aira caryophyllea,Aira caryophyllea,"Open bluffs and grassy slopes, particularly where disturbed.",,,,remaining
+ssi,Poaceae,Aira praecox,Aira praecox,"Open bluffs and grassy slopes, particularly where disturbed.",,,,remaining
+ssi,Poaceae,Alopecurus aequalis,Alopecurus aequalis,Sphagnum lake shore east of Bruce Peak HJ 1979.,,,,remaining
+ssi,Poaceae,Alopecurus carolinianus,Alopecurus carolinianus,"Mt Maxwell seepage area, McEwan.",,,,remaining
+ssi,Poaceae,Alopecurus geniculatus,Alopecurus geniculatus,"TRA Walker Hook, Ganges, Mt Tuam.",,,,remaining
+ssi,Poaceae,Alopecurus pratensis,Alopecurus pratensis,Wet meadows and fields. ICS Booth Canal. TRA Mt Tuam.,,,,remaining
+ssi,Poaceae,Anthoxanthum odoratum,Anthoxanthum odoratum,"Grassy bluffs, dry fields, roadsides throughout.",,,,remaining
+ssi,Poaceae,Apera interrupta,Apera interrupta,Darbyshire Mt Bruce 1983.,,,,remaining
+ssi,Poaceae,Arrhenatherum elatius,Arrhenatherum elatius,"Dry meadows, farm fields and roadside,",,,,remaining
+ssi,Poaceae,Avena sativa,Avena sativa,Occasionally introduced by highways.,,,,remaining
+ssi,Poaceae,Bromus commutatus,Bromus commutatus,"Lomer, Douglas, Penny Mt Erskine 2002.",,,,remaining
+ssi,Poaceae,Bromus diandrus,Bromus diandrus,"Roadside, grassy bluffs, disturbed ground.",,,,remaining
+ssi,Poaceae,Bromus hordeaceus,Bromus hordeaceus,"Bluffs, roadside and waste ground.",,,,remaining
+ssi,Poaceae,Bromus inermis,Bromus inermis,"Roadside, disturbed ground.",,,,remaining
+ssi,Poaceae,Bromus pacificus,Bromus pacificus,ICS collection Roberts lake. TRA Southey Point.,,,,remaining
+ssi,Poaceae,Bromus sitchensis,Bromus sitchensis,Var. aleutensis and marginatus,,,,remaining
+ssi,Poaceae,Bromus sitchensis var. aleutensis,Bromus sitchensis aleutensis,"Forest edges, bluffs, roadsides. Ganges RDB",,,,remaining
+ssi,Poaceae,Bromus sitchensis var. carinatus,Bromus carinatus,"Shoreline bluffs, roadsides and waste places. LEP report var. marginatus (Neese ex Steud.) B. Boivin from Mt Tuam.",,,,remaining
+ssi,Poaceae,Bromus sterilis,Bromus sterilis,"Fields, roadside and waste places throughout.",,,,remaining
+ssi,Poaceae,Bromus tectorum,Bromus tectorum,"Roadsides, banks, and waste places.",,,,remaining
+ssi,Poaceae,Bromus vulgaris,Bromus vulgaris,"Open woodland, trails.",,,,remaining
+ssi,Poaceae,Calamagrostis canadensis,Calamagrostis canadensis,Var. langsdorfii HJ Bruce Peak,,,,remaining
+ssi,Poaceae,Cinna latifolia,Cinna latifolia,Ruckle Park Ray July 1976,,,,remaining
+ssi,Poaceae,Cynosurus cristatus,Cynosurus cristatus,"Fields, roadsides and waste places; common throughout.",,,,remaining
+ssi,Poaceae,Cynosurus echinatus,Cynosurus echinatus,Roadside and waste ground. Spreading into grassy bluffs.,,,,remaining
+ssi,Poaceae,Dactylis glomerata,Dactylis glomerata,"Farm fields, roadsides and grassy bluffs.",,,,remaining
+ssi,Poaceae,Danthonia californica,Danthonia californica,Grassy ridges and bluffs.,,,,remaining
+ssi,Poaceae,Danthonia intermedia,Danthonia intermedia,"Reginald Hill, Saltspring Island. Saltspring HRL location verified HJ",,,,remaining
+ssi,Poaceae,Deschampsia danthonioides,Deschampsia danthonioides,Calder & MacKay Isabella Point 1961,,,,remaining
+ssi,Poaceae,Deschampsia elongata,Deschampsia elongata,"Roadside, disturbed and waste ground.",,,,remaining
+ssi,Poaceae,Dichanthelium oligosanthes ssp. scribnerianum,Dichanthelium scribnerianum,HJ Reginald Hill 2003.,,,,remaining
+ssi,Poaceae,Distichlis spicata,Distichlis spicata,Shoreline and strand.,,,,remaining
+ssi,Poaceae,Echinochloa crus-galli,Echinochloa crus-galli,Boat ramp Blackburn Lake HJ 2000.,,,,remaining
+ssi,Poaceae,Elymus glaucus,Elymus glaucus,Open woods and dry hillside throughout.,,,,remaining
+ssi,Poaceae,Elymus repens,Elymus repens,Fields and waste places.,,,,remaining
+ssi,Poaceae,Festuca occidentalis,Festuca occidentalis,"Shady, moss-floored forest, common.",,,,remaining
+ssi,Poaceae,Festuca roemeri,Festuca roemeri,Grassy bluffs.,,,,remaining
+ssi,Poaceae,Festuca rubra,Festuca rubra,Grassy bluffs and hillsides throughout.,,,,remaining
+ssi,Poaceae,Festuca subulata,Festuca subulata,"Moist, shady forest throughout.",,,,remaining
+ssi,Poaceae,Festuca subuliflora,Festuca subuliflora,Dry Douglas Fir forest throughout.,,,,remaining
+ssi,Poaceae,Glyceria borealis,Glyceria borealis,Weston Lake HJ,,,,remaining
+ssi,Poaceae,Glyceria elata,Glyceria elata,"RDB Mt Maxwell 1970, Darbyshire Musgrave Rd 1988, HJ Mt Tuam 1979, 2002",,,,remaining
+ssi,Poaceae,Glyceria grandis,Glyceria grandis,ICS Duck Creek 1975,,,,remaining
+ssi,Poaceae,Glyceria leptostachya,Glyceria leptostachya,"GD Duck Creek , F Lomer pond on Sunset Drive 2010.",,,,remaining
+ssi,Poaceae,Glyceria striata,Glyceria striata,RDB Mt Maxwell. Darbyshire 1988 Musgrave Rd. TRA 1957 Cranberry Bog and Beaver Pt Community Hall. HJ Roberts Lake 1981,,,,remaining
+ssi,Poaceae,Holcus lanatus,Holcus lanatus,"Meadows, Farm fields disturbed groun throughout",,,,remaining
+ssi,Poaceae,Hordeum brachyantherum,Hordeum brachyantherum,"Wet meadows and salt marshes. TRA Burgoyne Bay, Southey Point, Brackman Island, Beaver Point.",,,,remaining
+ssi,Poaceae,Hordeum jubatum ssp. jubatum,Hordeum jubatum jubatum,"Booth Canal HJ, Fulford TRA.",,,,remaining
+ssi,Poaceae,Hordeum murinum ssp. leporinum,Hordeum murinum leporinum,see H. m. ssp. Leporinum,,,,remaining
+ssi,Poaceae,Hordeum murinum ssp. murinum,Hordeum murinum murinum,"Roadsides and waste ground throughout,",,,,remaining
+ssi,Poaceae,Koeleria macrantha,Koeleria macrantha,Grassy bluffs and ledges.,,,,remaining
+ssi,Poaceae,Leymus mollis ssp. mollis,Leymus mollis mollis,Rocky shorelines.,,,,remaining
+ssi,Poaceae,Lolium multiflorum,Lolium multiflorum,"Roadside, farm fields, meadows and disturbed ground.",,,,remaining
+ssi,Poaceae,Lolium perenne,Lolium perenne,"Roadside, farm fields, meadows and disturbed ground.",,,,remaining
+ssi,Poaceae,Melica harfordii,Melica harfordii,Dry Fir-Arbutus forest.,,,,remaining
+ssi,Poaceae,Melica subulata,Melica subulata,"Shady to open coniferous forest, trails;",,,,remaining
+ssi,Poaceae,Panicum miliaceum ssp. ruderale,Panicum miliaceum ruderale,HLR Channel Ridge 2004.,,,,remaining
+ssi,Poaceae,Phalaris arundinacea,Phalaris arundinacea,"Wet meadows, ponds and lake margins.",,,,remaining
+ssi,Poaceae,Phleum pratense,Phleum pratense,"Meadows, roadsides and farm fields.",,,,remaining
+ssi,Poaceae,Poa annua,Poa annua,Disturbed and waste ground throughout.,,,,remaining
+ssi,Poaceae,Poa bulbosa,Poa bulbosa,"Roaddsides, waste ground throughout.",,,,remaining
+ssi,Poaceae,Poa compressa,Poa compressa,Roadside and waste ground throughout.,,,,remaining
+ssi,Poaceae,Poa howellii,Poa howellii,"Shady forest roadsides, logging roads.",,,,remaining
+ssi,Poaceae,Poa pratensis,Poa pratensis,"Lawn, roadside, fields, grassy bluffs.",,,,remaining
+ssi,Poaceae,Poa secunda ssp. secunda,Poa secunda secunda,"Grassy bluffs, seaside cliffs; Recheck vouchers at V",,,,remaining
+ssi,Poaceae,Poa trivialis,Poa trivialis,Alder bottoms and moist shady sites.,,,,remaining
+ssi,Poaceae,Puccinellia distans,Puccinellia distans,TRA collection Booth Canal re-identified as P. nuttalliana,,,,remaining
+ssi,Poaceae,Puccinellia nutkaensis,Puccinellia nutkaensis,TRA Beaver Point. ICS Harkema Farm at salt springs 1977.,,,,remaining
+ssi,Poaceae,Puccinellia nuttalliana,Puccinellia nuttalliana,Salt marshes and mud flats.,,,,remaining
+ssi,Poaceae,Puccinellia pumila,Puccinellia pumila,HJ Booth Canal. HJ Fulford 1979. ICS Fulford 1977.,,,,remaining
+ssi,Poaceae,Schedonorus arundinaceus,Lolium arundinaceum,"Farm fields, meadows and roadsides.",,,,remaining
+ssi,Poaceae,Secale cereale,Secale cereale,Introduced by Highways for road cut stabilization.,,,,remaining
+ssi,Poaceae,Torreyochloa pallida var. pauciflora,Torreyochloa pallida pauciflora,"Standing water, ponds, wetlands.",,,,remaining
+ssi,Poaceae,Trisetum canescens,Trisetum canescens,Open Fir forest throughout.,,,,remaining
+ssi,Poaceae,Trisetum cernuum,Trisetum cernuum,"Alder woodlands, Fir-sword fern forest.",,,,remaining
+ssi,Poaceae,Vulpia bromoides,Festuca bromoides,"Dry meadow, disturbed ground and roadsides",,,,remaining
+ssi,Poaceae,Vulpia microstachys,Festuca microstachys,Roadsides and disturbed areas.,,,,remaining
+ssi,Poaceae,Vulpia myuros,Festuca myuros,"Dry, rocky bluffs, roadsides and disturbed area.",,,,remaining
+ssi,Polemoniaceae,Collomia grandiflora,Collomia grandiflora,TRA Beaver Point 1957. ICS Blackburn Lake; Fulford: area of lake; Ganges Road 1979.,,,,remaining
+ssi,Polemoniaceae,Collomia heterophylla,Collomia heterophylla,"Open ground, dirt roads.",,,,remaining
+ssi,Polemoniaceae,Leptosiphon bicolor,Leptosiphon bicolor,Open grassy bluffs and ridges.,,,,remaining
+ssi,Polemoniaceae,Leptosiphon minimus,Leptosiphon minimus,"FL,GD,JP Mt Maxwell 2002.",,,,remaining
+ssi,Polemoniaceae,Microsteris gracilis,Microsteris gracilis,"Open bluffs, grassy roadsides, dirt roads.",,,,remaining
+ssi,Polemoniaceae,Navarretia squarrosa,Navarretia squarrosa,"Open ground, fields, and roadsides.",,,,remaining
+ssi,Polygonaceae,Fallopia convolvulus,Fallopia convolvulus,"Gardens, waste ground, disturbed ground.",,,,remaining
+ssi,Polygonaceae,Fallopia japonica,Reynoutria japonica,Thompson downtown Fulford 2020. iNaturalist report.,,,,remaining
+ssi,Polygonaceae,Persicaria amphibia,Persicaria amphibia,"Ponds, wetlands, lake edges.",,,,remaining
+ssi,Polygonaceae,Persicaria lapathifolia,Persicaria lapathifolia,"Disturbed ground, gardens.",,,,remaining
+ssi,Polygonaceae,Persicaria maculosa,Persicaria maculosa,"Disturbed ground, gardens, wet meadows.",,,,remaining
+ssi,Polygonaceae,Polygonum aviculare,Polygonum aviculare,"Open, waste places, hard-packed soil and disturbed cultivated land; a common and aggressive weed throughout;",,,,remaining
+ssi,Polygonaceae,Polygonum douglasii,Polygonum douglasii,ICS report from Isabella Point. Check.,,,,remaining
+ssi,Polygonaceae,Polygonum fowleri,Polygonum fowleri,"Beaches, salt marsh edges.",,,,remaining
+ssi,Polygonaceae,Polygonum spergulariiforme,Polygonum spergulariiforme,"Bluffs, grassy rocky south facing slopes.",,,,remaining
+ssi,Polygonaceae,Rumex acetosella,Rumex acetosella,"Grassy bluffs, roadside, cultivated and disturbed ground.",,,,remaining
+ssi,Polygonaceae,Rumex conglomeratus,Rumex conglomeratus,"Disturbed ground, wetlands.",,,,remaining
+ssi,Polygonaceae,Rumex crispus,Rumex crispus,"Gardens, cultivated ground.",,,,remaining
+ssi,Polygonaceae,Rumex obtusifolius,Rumex obtusifolius,"Roadside, wet wasteland, gardens.",,,,remaining
+ssi,Polygonaceae,Rumex occidentalis,Rumex occidentalis,Southy Point HJ. TRA Ganges 1956.,,,,remaining
+ssi,Polygonaceae,Rumex salicifolius,Rumex salicifolius,"Beaches, driftwood.",,,,remaining
+ssi,Polypodiaceae,Polypodium glycyrrhiza,Polypodium glycyrrhiza,"Shaded north slopes, mossy rocks, tree trunks; common throughout.",,,,remaining
+ssi,Potamogetonaceae,Potamogeton amplifolius,Potamogeton amplifolius,Cushon Lake.,,,,remaining
+ssi,Potamogetonaceae,Potamogeton berchtoldii,Potamogeton berchtoldii,"Bullock L., Weston L.",,,,remaining
+ssi,Potamogetonaceae,Potamogeton crispus,Potamogeton crispus,"Shallow shore line, St. Mary's Lake.",,,,remaining
+ssi,Potamogetonaceae,Potamogeton epihydrus,Potamogeton epihydrus,"Shallow shoreline, Maxwell Lake.",,,,remaining
+ssi,Potamogetonaceae,Potamogeton foliosus,Potamogeton foliosus,50 cm deep standing water Bullocks Lake,,,,remaining
+ssi,Potamogetonaceae,Potamogeton gramineus,Potamogeton gramineus,St. Mary's Lake.,,"""Potamogeton gramineus - Note says native to Europe, which is true, but it is also a native to N.A. including BC"" FL",,remaining
+ssi,Potamogetonaceae,Potamogeton natans,Potamogeton natans,Shallow standing waters and lakes throughout.,,,,remaining
+ssi,Potamogetonaceae,Potamogeton obtusifolius,Potamogeton obtusifolius,"Shoreline Maxwell Lake, St. Mary's Lake, Cusheon Lake.",,,,remaining
+ssi,Potamogetonaceae,Potamogeton pusillus,Potamogeton pusillus,"PDW Weston Lake, St Mary Lake 1976.",,,,remaining
+ssi,Potamogetonaceae,Potamogeton robbinsii,Potamogeton robbinsii,"Lakes including Weston, Ford, Cusheon and Roberts Lakes. Zika 2016 Blackburn Lake.",,,,remaining
+ssi,Primulaceae,Dodecatheon hendersonii,Primula hendersonii,"TRA Fulford, HJ Mt Tuam, Mt Maxwell.",,,,remaining
+ssi,Primulaceae,Dodecatheon pulchellum var. macrocarpum,Primula pauciflora macrocarpa,"TRA Fernwood 1958, RDB Mt Belcher 1971, Hardy Chain Islands 1949,",,,,remaining
+ssi,Primulaceae,Hottonia palustris,Hottonia palustris,Yearsley pond near Cusheon Lake 2005. Thompson iNaturalist observation 2018 suggests that it is naturalizing. On Lomer & Penny's BC excluded list.,,,,remaining
+ssi,Primulaceae,Lysimachia arvensis,Lysimachia arvensis,"Disturbed ground, often where water pools.",,,,remaining
+ssi,Primulaceae,Lysimachia europaea,Lysimachia europaea,HJ Mt Bruce bogs,,,,remaining
+ssi,Primulaceae,Lysimachia latifolia,Lysimachia latifolia,"Shady, open upland forest.",,,,remaining
+ssi,Primulaceae,Lysimachia maritima,Lysimachia maritima,"Booth Canal HJ 1979, TRA date?",,,,remaining
+ssi,Primulaceae,Lysimachia minima,Lysimachia minima,"FL Ruckle Park Light path, rocky headland through Douglas-fir and Garry oak with Montia fontana, Veronica peregrina, Plagiobothrys scouleri ; in bare dark muck where water collects 2002",,,,remaining
+ssi,Primulaceae,Lysimachia thyrsiflora,Lysimachia thyrsiflora,St Mary's Lake TRA,,,,remaining
+ssi,Pteridaceae,Adiantum aleuticum,Adiantum aleuticum,Shady stream valleys and waterfalls.,,,,remaining
+ssi,Pteridaceae,Aspidotis densa,Aspidotis densa,"HJ Mt Maxwell 1985.Maxwell Point, section L330. Known nearby from Maple Bay. Thompson Channel Ridge iNaturalist report 2021.",,,,remaining
+ssi,Pteridaceae,Cryptogramma acrostichoides,Cryptogramma acrostichoides,Arnell Park. details? Thompson Sir Echos Way iNaturalist report 2018.,,,,remaining
+ssi,Pteridaceae,Pentagramma triangularis,Pentagramma triangularis,South facing rocky ledges.,,,,remaining
+ssi,Ranunculaceae,Anemone lyallii,Anemonoides grayi,"ICS Mt Maxwell, HJ Mt Maxwell high north slope 1996.",,,,remaining
+ssi,Ranunculaceae,Aquilegia formosa,Aquilegia formosa,"Shady disturbed forest, roadsides.",,,,remaining
+ssi,Ranunculaceae,Aquilegia vulgaris,Aquilegia vulgaris,Persisting in old and abandoned gardens.,,,,remaining
+ssi,Ranunculaceae,Clematis vitalba,Clematis vitalba,"RDB Beaver Point 1971, King Isabella Point 1958. TRA Fulford, Ganges.",,,,remaining
+ssi,Ranunculaceae,Delphinium ajacis,Consolida ajacis,Escaping into waste areas. No collections.,,,,remaining
+ssi,Ranunculaceae,Delphinium menziesii,Delphinium menziesii,"Coastal bluffs, grassy meadows, and wooded dry places. TRA Mouat Point, Ganges",,,,remaining
+ssi,Ranunculaceae,Myosurus minimus,Myosurus minimus,TRA Beaver Point date?,,,,remaining
+ssi,Ranunculaceae,Ranunculus × heimburgerae,Ranunculus × heimburgerae,Hardy Deadman Islands 1949.,not in FPNW2,,,remaining
+ssi,Ranunculaceae,Ranunculus acris,Ranunculus acris,Roadsides and meadows.,,,,remaining
+ssi,Ranunculaceae,Ranunculus aquatilis,Ranunculus aquatilis,"Lakes and Ponds. TRA Beaver Point, Booth Canal.",,,,remaining
+ssi,Ranunculaceae,Ranunculus bulbosus,Ranunculus bulbosus,"Luft Fraser Rd 2020 iNaturalist report, Cricket Farm iNaturalist report 2019.",,,,remaining
+ssi,Ranunculaceae,Ranunculus flammula,Ranunculus flammula,Lake shores and standing water at fen edges. TRA St Marys Lake 1958,,,,remaining
+ssi,Ranunculaceae,Ranunculus occidentalis var. occidentalis,Ranunculus occidentalis occidentalis,"Ridges, forest edges, dry meadows.",,,,remaining
+ssi,Ranunculaceae,Ranunculus orthorhynchus,Ranunculus orthorhynchus,TRA Fernwood,,,,remaining
+ssi,Ranunculaceae,Ranunculus repens,Ranunculus repens,"Moist areas, meadows, lawns.",,,,remaining
+ssi,Ranunculaceae,Ranunculus sardous,Ranunculus sardous,RDB collections various locations.,,,,remaining
+ssi,Ranunculaceae,Ranunculus uncinatus,Ranunculus uncinatus,"Wet meadow, logging roads, wetland edges.",,,,remaining
+ssi,Ranunculaceae,Thalictrum occidentale,Thalictrum occidentale,MCM Beaver Point 1961.,,,,remaining
+ssi,Rhamnaceae,Ceanothus sanguineus,Ceanothus sanguineus,HJ Mt Erskine 1980.,,,,remaining
+ssi,Rhamnaceae,Frangula purshiana,Frangula purshiana,Forest understory and margins.,,,,remaining
+ssi,Rosaceae,Amelanchier alnifolia,Amelanchier alnifolia semiintegrifolia,"Open woods, hillsides, and roadsides; common throughout.",,,,remaining
+ssi,Rosaceae,Aphanes arvensis,Alchemilla arvensis,FL Vesuvius Bay 1996,,,,remaining
+ssi,Rosaceae,Aphanes occidentalis,Alchemilla arvensis,"Open, dry ground; TRA Beaver Point 1957. FL Vesuvius 1996.",,,,remaining
+ssi,Rosaceae,Comarum palustre,Comarum palustre,"Lake margins, Bogs. TRA St Marys Lake 1955, HJ Mt Bruce 1979.",,,,remaining
+ssi,Rosaceae,Crataegus douglasii,Crataegus douglasii,"Coastal bluffs, meadow lands, open forests, and thickets; rare.",,,,remaining
+ssi,Rosaceae,Crataegus monogyna,Crataegus monogyna,Escapee from cultivation and established.,,,,remaining
+ssi,Rosaceae,Drymocallis glandulosa,Drymocallis glandulosa,"Base of Mt Maxwell cliffs, HJ 1996.",,,,remaining
+ssi,Rosaceae,Fragaria ananassa,Fragaria × ananassa,TRA Fernwood 1955.,,,,remaining
+ssi,Rosaceae,Fragaria chiloensis,Fragaria chiloensis,HJ Mt Maxwell 1982. TRA Fernwood.,,,,remaining
+ssi,Rosaceae,Fragaria vesca ssp. californica,Fragaria vesca californica,"Wooded areas, streambanks, and open grassland; common throughout.",,,,remaining
+ssi,Rosaceae,Fragaria virginiana ssp. glauca,Fragaria virginiana glauca,"HJ Isabella Islets 1996, ICS Mt Maxwell, TRA Fernwood.",,,,remaining
+ssi,Rosaceae,Geum macrophyllum,Geum macrophyllum,"Moist, shady ground; widely distributed throughout.",,,,remaining
+ssi,Rosaceae,Holodiscus discolor var. discolor,Holodiscus discolor discolor,"Mesic forest, roadsides.",,,,remaining
+ssi,Rosaceae,Malus fusca,Malus fusca,"Moist woods, banks, and margins of lakes.",,,,remaining
+ssi,Rosaceae,Oemleria cerasiformis,Oemleria cerasiformis,"Open woods, roadsides; common throughout.",,,,remaining
+ssi,Rosaceae,Physocarpus capitatus,Physocarpus capitatus,"Moist woods, streambanks and lake margins.",,,,remaining
+ssi,Rosaceae,Potentilla anglica,Potentilla anglica,FL Fulford-Ganges Road grassy roadside along ditch 2010.,,,,remaining
+ssi,Rosaceae,Potentilla anserina ssp. pacifica,Argentina pacifica,"Mud flats, wet meadowland, margins of ponds and streams.",,,,remaining
+ssi,Rosaceae,Potentilla gracilis var. gracilis,Potentilla gracilis gracilis,ICS Beaver Point - observed there HJ 1996.,,,,remaining
+ssi,Rosaceae,Potentilla norvegica,Potentilla norvegica,ICS collection location?,,,,remaining
+ssi,Rosaceae,Poterium sanguisorba,Sanguisorba minor,"Waste places, disturbed ground.",,,,remaining
+ssi,Rosaceae,Prunus cerasifera,Prunus cerasifera,Straley Vesuvius Ferry Dock 1989.,,,,remaining
+ssi,Rosaceae,Prunus domestica,Prunus domestica,iNaturalist report Long Harbour Rd 2019.,,"on list of non-established plants in BC (AS); we still have retained on the established (SJI) flora, with the following description. “Rare garden escape, primarily San Juan, also Skull, Blind, and Matia"" (PD)",,in progress
+ssi,Rosaceae,Prunus emarginata,Prunus emarginata,"Moist, northern slope forest.",,,,remaining
+ssi,Rosaceae,Prunus virginiana,Prunus virginiana,"TRA Fulford, CFN 1930, AC Mt Maxwell 1970.",,,,remaining
+ssi,Rosaceae,Rosa canina,Rosa canina,"Zika Southey Point In hayfield, damp ground, full sun 2003. TRA, ICS locations?",,,,remaining
+ssi,Rosaceae,Rosa gymnocarpa,Rosa gymnocarpa,Mesic forest throughout.,,,,remaining
+ssi,Rosaceae,Rosa nutkana,Rosa nutkana,"Wetland edges, shoreline wet spots.",,,,remaining
+ssi,Rosaceae,Rosa pisocarpa,Rosa pisocarpa,location? collector?,,,,remaining
+ssi,Rosaceae,Rosa rubiginosa,Rosa rubiginosa,"Farm fields, hedgerows.",,,,remaining
+ssi,Rosaceae,Rubus armeniacus,Rubus armeniacus,Question if can be separated from bifrons-discolor.,,,,remaining
+ssi,Rosaceae,Rubus bifrons,Rubus bifrons,"Farm fields, meadow, disturbed forest.",,,,remaining
+ssi,Rosaceae,Rubus laciniatus,Rubus laciniatus,TRA Fulford,,,,remaining
+ssi,Rosaceae,Rubus leucodermis,Rubus leucodermis,"Disturbed forest, forest edges.",,,,remaining
+ssi,Rosaceae,Rubus nutkanus,Rubus parviflorus,"Damp, shady woods.",,,,remaining
+ssi,Rosaceae,Rubus spectabilis,Rubus spectabilis,"Borders of woods and open to wooded, moist areas.",,,,remaining
+ssi,Rosaceae,Rubus ursinus,Rubus ursinus,"Farm fields, meadow, disturbed forest.",,,,remaining
+ssi,Rosaceae,Sorbus aucuparia,Sorbus aucuparia,"Occasional escapee from cultivation. Farm fields, settled areas",,,,remaining
+ssi,Rosaceae,Spiraea douglasii,Spiraea douglasii,"Swamps, bogs, lake margins, and wet, swampy places.",,,,remaining
+ssi,Rubiaceae,Galium aparine,Galium aparine,"Lowland disturbed forest, woodland.",,,,remaining
+ssi,Rubiaceae,Galium mollugo,Galium mollugo,HJ edge of field near Ganges 1980.,,,,remaining
+ssi,Rubiaceae,Galium odoratum,Galium odoratum,"FL Grassy roadside, under shrubby border, planted with trees along seashore Fulford 1996.",,,,remaining
+ssi,Rubiaceae,Galium trifidum,Galium trifidum,"Fens, ponds, quiet standing water.",,,,remaining
+ssi,Rubiaceae,Galium triflorum,Galium triflorum,Open mesic forest.,,,,remaining
+ssi,Rubiaceae,Sherardia arvensis,Sherardia arvensis,"Waste ground, lawns, roadside, also open, grassy bluffs.",,,,remaining
+ssi,Salicaceae,Populus tremuloides,Populus tremuloides,"Occasional dry ridges, shoreline benchs.",,,,remaining
+ssi,Salicaceae,Populus trichocarpa,Populus trichocarpa,Occasional near wetlands.,,,,remaining
+ssi,Salicaceae,Salix fragilis,Salix × fragilis,RDB Weston Lake 1971,,,,remaining
+ssi,Salicaceae,Salix geyeriana,Salix geyeriana,TRA Ganges 1957 TCB re-identifed as S. scouleriana. HJ possible in sphagnum lake below Mt Bruce.,,,,remaining
+ssi,Salicaceae,Salix hookeriana,Salix hookeriana,"Rocky bluffs near salt water and other maritime habitat. TRA Cusheon Lake, Robert's Lake",,,,remaining
+ssi,Salicaceae,Salix lasiandra,Salix lasiandra,"Along banks, wet swales and margins of lakes.",,,,remaining
+ssi,Salicaceae,Salix scouleriana,Salix scouleriana,"Lowland forest, along streams and wet places.",,,,remaining
+ssi,Salicaceae,Salix sitchensis,Salix sitchensis,Ripparian and lake shores. RDB Weston Lake 1971.,,,,remaining
+ssi,Sapindaceae,Acer glabrum var. douglasii,Acer glabrum douglasii,"Moist woods, rocky slopes, shores.",,,,remaining
+ssi,Sapindaceae,Acer macrophyllum,Acer macrophyllum,"On edges of coniferous forest, damp woods, shoreline slopes.",,,,remaining
+ssi,Saxifragaceae,Heuchera micrantha var. diversifolia,Heuchera micrantha diversifolia,"Moist, rocky slopes, crevices.",,,,remaining
+ssi,Saxifragaceae,Lithophragma glabrum,Lithophragma glabrum,"Exposed, grassy bluffs.",,,,remaining
+ssi,Saxifragaceae,Lithophragma parviflorum,Lithophragma parviflorum,"Open, rocky places and rocky outcrops.",,,,remaining
+ssi,Saxifragaceae,Micranthes ferruginea,Micranthes ferruginea,"ICS location ? A&OC have it at Graves Point, Crofton.",,,,remaining
+ssi,Saxifragaceae,Micranthes integrifolia,Micranthes integrifolia,Grassy bluffs with seepage.,,,,remaining
+ssi,Saxifragaceae,Micranthes rufidula,Micranthes rufidula,HJ Mt Maxwell ER #37 1996 Abundant in seepy meadows Erskine Point 1998.,,,,remaining
+ssi,Saxifragaceae,Pectiantia ovalis,Brewerimitella ovalis,"Steep creek canyons, north slope of Mt Bruce.",,,,remaining
+ssi,Saxifragaceae,Saxifraga cespitosa,Saxifraga cespitosa,"Steep, shaded rocky slopes with seepage.",,,,remaining
+ssi,Saxifragaceae,Tellima grandiflora,Tellima grandiflora,"Damp, shady woods, valley bottoms, throughout.",,,,remaining
+ssi,Saxifragaceae,Tiarella trifoliata var. laciniata,Tiarella trifoliata laciniata,"Wet lowland forest, stream valleys.",,,,remaining
+ssi,Saxifragaceae,Tiarella trifoliata var. trifoliata,Tiarella trifoliata trifoliata,"Wet lowland forest, stream valleys.",,,,remaining
+ssi,Scrophulariaceae,Buddleja davidii,Buddleja davidii,HJ Fulford 1979,,,,remaining
+ssi,Scrophulariaceae,Verbascum thapsus,Verbascum thapsus,roadsides and waste places; spreading onto grassy bluffs.,,,,remaining
+ssi,Selaginellaceae,Selaginella wallacei,Selaginella wallacei,Exposed rocky bluffs and slopes; common throughout.,,,,remaining
+ssi,Solanaceae,Datura stramonium,Datura stramonium,HJ Waste ground Fulford Valley,,,,remaining
+ssi,Solanaceae,Solanum dulcamara,Solanum dulcamara,"Fen, wetland edges. TRA Bullocks Lake date?",,,,remaining
+ssi,Solanaceae,Solanum nigrum,Solanum nigrum,Waste ground.,,,,remaining
+ssi,Solanaceae,Solanum physalifolium var. nitidibaccatum,Solanum physalifolium nitidibaccatum,"Disturbed ground, roadsides.",,,,remaining
+ssi,Taxaceae,Taxus brevifolia,Taxus brevifolia,Occasional throughout mesic forest.,,,,remaining
+ssi,Thymelaeaceae,Daphne laureola,Daphne laureola,Spreading into mesic forest,,,,remaining
+ssi,Tofieldiaceae,Triantha glutinosa,Triantha glutinosa,TRA Cranberry Bog 1957. (E-Flora map shows record incorrectly near Port Townsend).,,,,remaining
+ssi,Typhaceae,Sparganium angustifolium,Sparganium angustifolium,"Weston Lake, Warrington 1976.",,,,remaining
+ssi,Typhaceae,Sparganium emersum,Sparganium emersum,"Quiet water, lakes and ponds.",,,,remaining
+ssi,Typhaceae,Typha latifolia,Typha latifolia,"Shallow standing water, fens, lakes and ponds",,,,remaining
+ssi,Urticaceae,Urtica dioica,Urtica dioica,Moist ground in wooded or shady areas; common throughout.,,=Urtica gracilis ssp. gracilis?,AS,in progress
+ssi,Viburnaceae,Sambucus cerulea,Sambucus cerulea,"TRA St Marys Lake, ICS south side of Mt Bruce dates?",,,,remaining
+ssi,Viburnaceae,Sambucus racemosa var. arborescens,Sambucus racemosa arborescens,"Open woods, thickets, along the roadsides and edges of woods.",,,,remaining
+ssi,Viburnaceae,Viburnum edule,Viburnum edule,location? Collector?,,,,remaining
+ssi,Violaceae,Viola adunca,Viola adunca,Calder Mt Maxwell 1961. HJ Isabella Point no coll.,,,,remaining
+ssi,Violaceae,Viola glabella,Viola glabella,Moist woods and along streams.,,,,remaining
+ssi,Violaceae,Viola howellii,Viola howellii,GD North End Road date? ICS North End Road 1977,,,,remaining
+ssi,Violaceae,Viola langsdorffii,Viola langsdorffii,HJ Ford Lake 1999 in sedge fen drainage channel and Phalaris arundinaceae flood plain of lake with Carex obnupta.,,,,remaining
+ssi,Violaceae,Viola nuttallii var. praemorsa,Viola nuttallii praemorsa,HJ Mt Tuam grassy south ridge 1980. HLR same 1995. Mt Maxwell 1985,,,,remaining
+ssi,Violaceae,Viola palustris,Viola palustris,"Fens, bogs and swampy meadows.",,,,remaining
+ssi,Violaceae,Viola sempervirens,Viola sempervirens,Open upland forest.,,,,remaining
+ssi,Woodsiaceae,Woodsia scopulina,Woodsia scopulina,"Rare, south slopes of Mt Maxwell HJ l985. Lomer,Douglas and Penny Mt Erskine 2002.",,,,remaining
+ssi,Zosteraceae,Zostera marina,Zostera marina,Common throughout shallow sandy bays and shorelines.,,,AS,complete

@@ -1,6 +1,94 @@
 library(sf)
 library(geojsonsf)
 library(jsonlite)
+library(googledrive)
+library(stringr)
+library(readr)
+
+# Helpful utility to template an arbitrary list of string arguments and then dump them to the console with a terminating newline
+wg <- function (...) {
+  args <- list(...)
+  line <- paste(sapply(args, str_glue, .envir = parent.frame()), collapse = "")
+
+  # Output the result using writeLines
+  writeLines(line)
+}
+
+downloadGdrive <- function (id, file_path, overwrite = FALSE) {
+  if (overwrite || !file.exists(file_path)) {
+    drive_download(as_id(id), path = file_path, overwrite = TRUE)
+  }
+}
+
+idToDrib <- function (id) {
+  path <- str_glue("https://drive.google.com/drive/folders/{id}")
+  drib <- drive_get(as_id(path))
+}
+
+# Adapted from https://stackoverflow.com/a/64687628
+downloadGdriveFolder <- function (id, file_path, skip_if_exists = TRUE) {
+  exists <- file.exists(file_path)
+  if (!exists || !skip_if_exists) {
+    if (!exists) {
+      dir.create(file_path)
+    }
+    # folder link to id
+    folder_drib = idToDrib(id)
+
+    # find files in folder
+    files = drive_ls(folder_drib)
+
+    cat("Fetching ", nrow(files), " files in folder ", folder_drib$name, "\n")
+
+    # loop dirs and download files inside them
+    for (i in seq_along(files$name)) {
+      resource <- files$drive_resource[[i]]
+
+      target <- str_c(file_path, "/", resource$name)
+      if (resource$mimeType == "application/vnd.google-apps.folder") {
+        cat (resource$name, " is a folder\n")
+        downloadGdriveFolder(resource$id, target, skip_if_exists)
+        # If there were subfolders, this would list them:
+        # i_dir = drive_ls(files[i, ])
+      }
+      else {
+
+        try({
+          if (file.exists(target)) {
+            wg("File {target} already exists, skipping download")
+          } else {
+            drive_download(as_id(files$id[i]), path = target)
+          }
+        })
+      }
+    }
+  } else {
+    wg("Path {file_path} already exists, skipping download\n")
+  }
+}
+
+timedRead <- function (toread) {
+  start <- Sys.time()
+  frame <- read.csv(toread, encoding = 'UTF-8', colClasses=c("character"), na.strings = c("", "NA"))
+  end <- Sys.time()
+  cat("Read ", nrow(frame), " rows from ", toread, " in ", (end - start), "s")
+  frame
+}
+
+timedFread <- function (toread) {
+  start <- Sys.time()
+  frame <- data.table::fread(toread, quote = "", encoding = 'UTF-8', colClasses=c("character"))
+  end <- Sys.time()
+  cat("Read ", nrow(frame), " rows from ", toread, " in ", (end - start), "s")
+  frame
+}
+
+timedWrite <- function (x, towrite) {
+  start <- Sys.time()
+  readr::write_csv(x, towrite, na = "")
+  end <- Sys.time()
+  cat("Written ", nrow(x), " rows to ", towrite, " in ", (end - start), "s")
+}
 
 lat_lon <- function (data) {
   return (st_transform(data, "+proj=longlat +datum=WGS84"))
@@ -46,7 +134,7 @@ round_sf <- function (fc, digits) {
   simple
 }
 
-# Taken from 
+# Taken from
 #' @title Expand Spatial Bounding Box
 #' @description Expand an \code{sf} bounding box by an expansion factor
 #' @param bbox An \code{sf} bounding box. See \code{\link[sf:st_bbox]{sf::st_bbox}}.
@@ -87,14 +175,14 @@ mx_read <- function (filename, digits = 4) {
 
 mx_http_fetch <- function (target, url) {
   response <- httr::GET(url, httr::progress())
-  
+
   # Check if the download was successful
   if (httr::status_code(response) == 200) {
     # Write the downloaded content to the file
     base::writeBin(httr::content(response, "raw"), target)
     size <- file.info(target)$size
     cat("Downloaded ", size, " bytes as ", target, "\n")
-    
+
   } else {
     stop("Error ", httr::status_code(response), " when downloading file ", url, "\n");
   }
@@ -107,5 +195,3 @@ fetch_first_nations_territories = function () {
     }
     geojsonsf::geojson_sf(file_path)
 }
-
-
