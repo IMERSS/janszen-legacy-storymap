@@ -22,24 +22,3 @@ outputNames <- list(iNatObs.filtered = "tabular_data/Processed_Catalogues/Salt_S
                      
                      
 synthesize_iNat_GBIF(inputNames, outputNames)
-
-
-# 
-# # Select the first 1,000 observations
-# selected_observations <- filtered_observations %>% slice_head(n = 1000)
-# 
-# # Extract coordinates for plotting
-# coords <- st_coordinates(selected_observations)
-# 
-# leaflet() %>%
-#   addTiles() %>%
-#   addCircleMarkers(data = selected_observations, 
-#                    radius = 3, 
-#                    color = "blue", 
-#                    fillOpacity = 0.7) %>%
-#   addPolygons(data = Saanich.polygon, 
-#               color = "red", 
-#               weight = 1, 
-#               fillOpacity = 0.2)
-# 
-
